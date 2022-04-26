@@ -125,6 +125,7 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [Reinforcement Learning Zurich](https://www.youtube.com/channel/UCml6vXgE_n2XdhONgSnkPFw)
 - [Robotics Innovatory](https://www.youtube.com/channel/UCgswqO84K3B2tMUdecHBuJQ)
 - [Robotics Today](https://www.youtube.com/channel/UCtfiXX2nJ5Qz-ZxGEwDCy5A)
+- [robot mania](https://www.youtube.com/channel/UCTFtuhl7YBPPdsoU9xEWxnA)
 - [The Robot Brains Podcast](https://www.youtube.com/channel/UCXNviQjBONXljxkJzNV-Xbw)
 - [umrobotics](https://www.youtube.com/channel/UC-WH2n-SkB166pUq5o5ULUg)
 - [Unitree Robotics](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw)
