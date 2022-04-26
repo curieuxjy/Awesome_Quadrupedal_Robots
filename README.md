@@ -96,7 +96,10 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
 
 ## Github Repositories
-
+- https://github.com/nicrusso7/rex-gym
+- https://github.com/OpenQuadruped/spot_mini_mini
+- https://github.com/adham-elarabawy/open-quadruped
+- https://github.com/Derek-TH-Wang/quadruped_ctrl
 - https://github.com/michiganrobotics/rob101
 - https://github.com/michiganrobotics/rob501
 - https://github.com/leggedrobotics/rsl_rl
