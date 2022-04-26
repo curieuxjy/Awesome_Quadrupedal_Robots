@@ -65,6 +65,10 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Feedback MPC for Torque-Controlled Legged Robots](https://doi.org/10.1109/IROS40897.2019.8968251)
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
 - [Robust Legged Robot State Estimation Using Factor Graph Optimization](https://doi.org/10.1109/LRA.2019.2933768)
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 - [Learning agile and dynamic motor skills for legged robots](https://www.science.org/doi/10.1126/scirobotics.aau5872)
 
 > 2018
