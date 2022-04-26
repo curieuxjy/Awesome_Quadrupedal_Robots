@@ -73,26 +73,14 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 - [Learning to Walk via Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1812.11103)
 
-> 2017
+> ~ 2017
 - [Meta Learning Shared Hierarchies](https://doi.org/10.48550/arXiv.1710.09767)
-
-> 2016
 - [ANYmal - a highly mobile and dynamic quadrupedal robot](https://doi.org/10.1109/IROS.2016.7758092)
-
-> 2014
 - [Robot-Centric Elevation Mapping with Uncertainty Estimates](https://doi.org/10.1142/9789814623353_0051)
-
-> 2013
 - [State Estimation for Legged Robots - Consistent
 Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
-
-> 2011
 - [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
-
-> 2008
 - [(KR)The Energy Efficiency of Walking Method for Quadruped Walking Robot](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08168696&dbt=NPAP)
-
-> 2005
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
 
 ## Github Repositories
