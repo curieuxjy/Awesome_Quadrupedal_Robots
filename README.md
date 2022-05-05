@@ -82,6 +82,7 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
 - [(KR)The Energy Efficiency of Walking Method for Quadruped Walking Robot](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08168696&dbt=NPAP)
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
+- [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
 
 ## Github Repositories
 - https://github.com/nicrusso7/rex-gym
