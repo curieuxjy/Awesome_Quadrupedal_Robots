@@ -58,6 +58,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
 
 > 2019
+- [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
 - [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1909.08399)
 - [Design a Fall Recovery Strategy for a Wheel-Legged Quadruped Robot Using Stability Feature Space](https://doi.org/10.1109/ROBIO49542.2019.8961722)
 - [Dynamic Locomotion on Slippery Ground](https://doi.org/10.1109/LRA.2019.2931284)
