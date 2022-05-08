@@ -19,6 +19,7 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
+- [Safe Reinforcement Learning for Legged Locomotion](https://arxiv.org/abs/2203.02638)
 - [Advanced Skills through Multiple Adversarial Motion Priors in
 Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
