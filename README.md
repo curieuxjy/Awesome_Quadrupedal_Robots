@@ -28,6 +28,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
+- [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 
 > 2021
 - [Development of a Quadruped Robot System With Torque-Controllable Modular Actuator Unit](https://doi.org/10.1109/TIE.2020.3007084)
@@ -68,6 +69,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
 - [Robust Legged Robot State Estimation Using Factor Graph Optimization](https://doi.org/10.1109/LRA.2019.2933768)
 - [Learning agile and dynamic motor skills for legged robots](https://www.science.org/doi/10.1126/scirobotics.aau5872)
+- [Model Predictive Control for Motion Planning of Quadrupedal Locomotion](https://ieeexplore.ieee.org/document/8834241)
 
 > 2018
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
