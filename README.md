@@ -70,6 +70,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Learning agile and dynamic motor skills for legged robots](https://www.science.org/doi/10.1126/scirobotics.aau5872)
 
 > 2018
+- [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
@@ -85,14 +86,14 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [(KR)The Energy Efficiency of Walking Method for Quadruped Walking Robot](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08168696&dbt=NPAP)
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
+- [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 
 ## Github Repositories
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/OpenQuadruped/spot_mini_mini
 - https://github.com/adham-elarabawy/open-quadruped
 - https://github.com/Derek-TH-Wang/quadruped_ctrl
-- https://github.com/michiganrobotics/rob101
-- https://github.com/michiganrobotics/rob501
+- https://github.com/ethz-adrl/towr
 - https://github.com/leggedrobotics/rsl_rl
 - https://github.com/erwincoumans/pybullet_robots
 - https://github.com/leggedrobotics/legged_gym
