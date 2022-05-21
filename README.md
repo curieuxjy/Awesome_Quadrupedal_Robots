@@ -91,6 +91,7 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 
 ## Github Repositories
+- https://github.com/stanfordroboticsclub/StanfordQuadruped
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/OpenQuadruped/spot_mini_mini
 - https://github.com/adham-elarabawy/open-quadruped
