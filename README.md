@@ -19,6 +19,7 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
+- [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Safe Reinforcement Learning for Legged Locomotion](https://arxiv.org/abs/2203.02638)
 - [Advanced Skills through Multiple Adversarial Motion Priors in
 Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
@@ -42,11 +43,13 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://doi.org/10.48550/arXiv.2110.05457)
 - [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2109.06409)
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
+- [Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds](https://ieeexplore.ieee.org/document/9321699)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
 - [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://doi.org/10.48550/arXiv.2107.03996)
 - [Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots](https://doi.org/10.48550/arXiv.2111.01674)
 - [Learning multiple gaits of quadruped robot using hierarchical reinforcement learning](https://doi.org/10.48550/arXiv.2112.04741)
 - [Imitation Learning by Reinforcement Learning](https://doi.org/10.48550/arXiv.2108.04763)
+- [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
 
 > 2020
 - [Learning quadrupedal locomotion over challenging terrain](https://doi.org/10.1126/scirobotics.abc5986)
