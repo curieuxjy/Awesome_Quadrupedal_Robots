@@ -19,6 +19,7 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
+- [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Safe Reinforcement Learning for Legged Locomotion](https://arxiv.org/abs/2203.02638)
 - [Advanced Skills through Multiple Adversarial Motion Priors in
