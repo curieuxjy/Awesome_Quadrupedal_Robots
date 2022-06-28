@@ -62,6 +62,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://doi.org/10.48550/arXiv.2007.04976)
 - [Models, Pixels, and Rewards: Evaluating Design Trade-offs in Visual Model-Based Reinforcement Learning](https://doi.org/10.48550/arXiv.2012.04603)
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
+- [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 
 > 2019
 - [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
