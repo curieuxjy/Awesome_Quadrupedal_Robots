@@ -77,6 +77,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Model Predictive Control for Motion Planning of Quadrupedal Locomotion](https://ieeexplore.ieee.org/document/8834241)
 
 > 2018
+- [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
