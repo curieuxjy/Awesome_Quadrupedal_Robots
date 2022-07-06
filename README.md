@@ -98,6 +98,8 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 
+![papers](/assets/papers.drawio.svg)
+
 ## Github Repositories
 - https://github.com/stanfordroboticsclub/StanfordQuadruped
 - https://github.com/nicrusso7/rex-gym
