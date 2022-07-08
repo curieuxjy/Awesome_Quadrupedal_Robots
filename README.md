@@ -37,6 +37,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 
 > 2021
+- [GLiDE: Generalizable Quadrupedal Locomotion in Diverse Environments with a Centroidal Model](https://arxiv.org/abs/2104.09771?context=cs)
 - [Animal Gaits on Quadrupedal Robots Using Motion Matching and Model-Based Control](https://ieeexplore.ieee.org/document/9635838)
 - [Development of a Quadruped Robot System With Torque-Controllable Modular Actuator Unit](https://doi.org/10.1109/TIE.2020.3007084)
 - [Adaptive CLF-MPC With Application to Quadrupedal Robots](https://doi.org/10.1109/LRA.2021.3128697)
