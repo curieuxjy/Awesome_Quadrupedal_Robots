@@ -116,6 +116,7 @@ Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001
 - https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur
 
 ## Youtube Channels
+- [MPCRL 2021](https://www.youtube.com/channel/UCkRH02MnrxbBZ64vgJPtOkg) - [Recent advances in MPC and RL for legged robots](https://sites.google.com/view/mpc-and-rl-for-legged-robots)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Oxford Dynamic Robot Systems Group](https://www.youtube.com/channel/UCaiUvr8geeebTWtEcQgUzpw) 
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
