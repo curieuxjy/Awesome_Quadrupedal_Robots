@@ -57,6 +57,7 @@ Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Learning multiple gaits of quadruped robot using hierarchical reinforcement learning](https://doi.org/10.48550/arXiv.2112.04741)
 - [Imitation Learning by Reinforcement Learning](https://doi.org/10.48550/arXiv.2108.04763)
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
+- [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
 
 > 2020
 - [Learning quadrupedal locomotion over challenging terrain](https://doi.org/10.1126/scirobotics.abc5986)
