@@ -31,12 +31,12 @@
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
-- [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
-- [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
+- [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
+- [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
 
@@ -97,14 +97,14 @@
 
 > ~ 2017
 - [ANYmal - a highly mobile and dynamic quadrupedal robot](https://doi.org/10.1109/IROS.2016.7758092)
+- [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
 - [Meta Learning Shared Hierarchies](https://doi.org/10.48550/arXiv.1710.09767)
 - [Robot-Centric Elevation Mapping with Uncertainty Estimates](https://doi.org/10.1142/9789814623353_0051)
-- [State Estimation for Legged Robots - Consistent Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
-- [(KR)The Energy Efficiency of Walking Method for Quadruped Walking Robot](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08168696&dbt=NPAP)
-- [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
+- [State Estimation for Legged Robots - Consistent Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
+- [(KR)The Energy Efficiency of Walking Method for Quadruped Walking Robot](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08168696&dbt=NPAP)
 
 ---
 
