@@ -19,6 +19,7 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
+- [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
