@@ -35,6 +35,7 @@
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
+- [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
@@ -61,6 +62,7 @@
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
 - [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2109.06409)
 - [Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds](https://ieeexplore.ieee.org/document/9321699)
+- [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
 
 > 2020
