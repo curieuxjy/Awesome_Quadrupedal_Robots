@@ -14,9 +14,9 @@ with open('../README.md', 'r') as f:
             grouping_lines.append(line[3:])
         elif grouping_lines != []:
             ordered_list = alphabetordering(grouping_lines)
-            for line in ordered_list:
-                line = "- [" + line
-                new_lines.append(line)
+            for oline in ordered_list:
+                oline = "- [" + oline
+                new_lines.append(oline)
             grouping_lines = []
             new_lines.append(line)
         else:

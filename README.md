@@ -7,7 +7,6 @@
 ## Good to start
 - [Development of quadruped walking robots: A review](https://doi.org/10.1016/j.asej.2020.11.005)
 - [Quadruped Robot Basics](https://youtu.be/O_2swSMecB4)
-- [Quadruped Robot Basics](https://youtu.be/O_2swSMecB4)
 
 ---
 
@@ -17,7 +16,6 @@
 - [Cheetah](https://biomimetics.mit.edu/)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
 - [Spot](https://www.bostondynamics.com/products/spot)
-- [Unitree](https://www.unitree.com/)
 - [Unitree](https://www.unitree.com/)
 
 ---
@@ -44,7 +42,6 @@
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
-- [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
 
 > 2021
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
@@ -69,7 +66,6 @@
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
 - [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
-- [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
 
 > 2020
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
@@ -81,7 +77,6 @@
 - [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://doi.org/10.48550/arXiv.2007.04976)
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
 - [Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning](https://doi.org/10.48550/arXiv.2003.01239)
-- [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
 
 > 2019
@@ -95,7 +90,6 @@
 - [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
 - [Robust Legged Robot State Estimation Using Factor Graph Optimization](https://doi.org/10.1109/LRA.2019.2933768)
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
-- [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
 
 > 2018
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
@@ -103,7 +97,6 @@
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
-- [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 
 > ~ 2017
@@ -114,7 +107,6 @@
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
 - [State Estimation for Legged Robots - Consistent Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
-- [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
 
 ---
@@ -159,7 +151,6 @@
 - [The Robot Brains Podcast](https://www.youtube.com/channel/UCXNviQjBONXljxkJzNV-Xbw)
 - [umrobotics](https://www.youtube.com/channel/UC-WH2n-SkB166pUq5o5ULUg)
 - [Unitree Robotics](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw)
-- [Unitree Robotics](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw)
 
 ---
 
@@ -171,8 +162,8 @@
 - [RcLab - Kookmin University](https://rclab.kookmin.ac.kr/home)
 - [Robotic System Lab - ETH Zürich](https://rsl.ethz.ch/)
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
-- [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
 
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
