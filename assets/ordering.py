@@ -2,28 +2,24 @@ import markdown
 
 new_lines = []
 
-def write_ordering_list(ordering_list):
-    ordering_list = sorted(ordering_list)
-    for line in ordering_list:
-        line = "- [" + line
-        new_lines.append(line)
+def alphabetordering(grouping_lines):
+    grouping_lines.sort(key=str.lower)
+    return grouping_lines
 
 with open('../README.md', 'r') as f:
     lines = f.read().split('\n')
-    ordering_list = []
+    grouping_lines = []
     for line in lines:
-        if line == '':
-            if ordering_list != []:
-                write_ordering_list(ordering_list)
-                ordering_list = []
+        if line[0:3] == '- [':
+            grouping_lines.append(line[3:])
+        elif grouping_lines != []:
+            ordered_list = alphabetordering(grouping_lines)
+            for line in ordered_list:
+                line = "- [" + line
+                new_lines.append(line)
+            grouping_lines = []
             new_lines.append(line)
-        elif line[0:3] == '- [':
-            first_letter = line[3]
-            ordering_list.append(line[3:])
         else:
-            if ordering_list != []:
-                write_ordering_list(ordering_list)
-                ordering_list = []
             new_lines.append(line)
 
 with open('../README_new.md', 'w') as f:
