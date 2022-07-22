@@ -33,6 +33,7 @@
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
+- [Learning plastic matching of robot dynamics in closed-loop central pattern generators](https://www.nature.com/articles/s42256-022-00505-4)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
