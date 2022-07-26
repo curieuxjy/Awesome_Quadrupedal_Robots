@@ -24,6 +24,8 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
+- [A Collision-Free MPC for Whole-Body Dynamic Locomotion and
+Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
