@@ -24,14 +24,13 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2022
-- [A Collision-Free MPC for Whole-Body Dynamic Locomotion and
-- [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
-Manipulation](https://arxiv.org/abs/2202.12385v1)
+- [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
+- [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
@@ -171,6 +170,7 @@ Manipulation](https://arxiv.org/abs/2202.12385v1)
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
