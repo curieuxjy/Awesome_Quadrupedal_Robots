@@ -25,6 +25,7 @@
 
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and
+- [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
@@ -98,6 +99,7 @@ Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
 - [Learning to Walk via Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1812.11103)
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
+- [Mode-adaptive neural networks for quadruped motion control](https://dl.acm.org/doi/10.1145/3197517.3201366)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
@@ -169,5 +171,6 @@ Manipulation](https://arxiv.org/abs/2202.12385v1)
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
