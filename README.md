@@ -38,6 +38,7 @@
 - [Learning plastic matching of robot dynamics in closed-loop central pattern generators](https://www.nature.com/articles/s42256-022-00505-4)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
+- [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://arxiv.org/abs/2203.15854)
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
@@ -170,6 +171,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
