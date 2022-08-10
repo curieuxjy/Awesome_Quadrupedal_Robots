@@ -15,6 +15,7 @@
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)
 - [Cheetah](https://biomimetics.mit.edu/)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
+- [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
 - [Spot](https://www.bostondynamics.com/products/spot)
 - [Unitree](https://www.unitree.com/)
 
@@ -25,6 +26,7 @@
 
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
+- [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://ieeexplore.ieee.org/document/9812433)
 - [A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators](https://arxiv.org/abs/2208.00810)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
