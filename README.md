@@ -28,6 +28,7 @@
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://ieeexplore.ieee.org/document/9812433)
 - [A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators](https://arxiv.org/abs/2208.00810)
+- [A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning](https://arxiv.org/abs/2208.07860)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
