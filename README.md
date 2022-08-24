@@ -84,6 +84,7 @@
 - [Guided Constrained Policy Optimization for Dynamic Quadrupedal Robot Locomotion](https://ieeexplore.ieee.org/abstract/document/9028178)
 - [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://doi.org/10.48550/arXiv.2004.00784)
 - [Learning quadrupedal locomotion over challenging terrain](https://doi.org/10.1126/scirobotics.abc5986)
+- [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550)
 - [Models, Pixels, and Rewards: Evaluating Design Trade-offs in Visual Model-Based Reinforcement Learning](https://doi.org/10.48550/arXiv.2012.04603)
 - [Multi-expert learning of adaptive legged locomotion](https://doi.org/10.1126/scirobotics.abb2174)
 - [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://doi.org/10.48550/arXiv.2007.04976)
