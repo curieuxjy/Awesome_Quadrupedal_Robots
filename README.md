@@ -126,16 +126,17 @@
 ---
 
 ## Github Repositories
-- https://github.com/stanfordroboticsclub/StanfordQuadruped
-- https://github.com/nicrusso7/rex-gym
-- https://github.com/OpenQuadruped/spot_mini_mini
-- https://github.com/adham-elarabawy/open-quadruped
-- https://github.com/Derek-TH-Wang/quadruped_ctrl
 - https://github.com/ethz-adrl/towr
+- https://github.com/nicrusso7/rex-gym
 - https://github.com/leggedrobotics/rsl_rl
-- https://github.com/erwincoumans/pybullet_robots
 - https://github.com/leggedrobotics/legged_gym
 - https://github.com/AtsushiSakai/PythonRobotics
+- https://github.com/erwincoumans/pybullet_robots
+- https://github.com/Derek-TH-Wang/quadruped_ctrl
+- https://github.com/OpenQuadruped/spot_mini_mini
+- https://github.com/unitreerobotics/unitree_mujoco
+- https://github.com/adham-elarabawy/open-quadruped
+- https://github.com/stanfordroboticsclub/StanfordQuadruped
 - https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur
 
 ---
