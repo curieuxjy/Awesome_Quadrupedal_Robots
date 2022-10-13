@@ -6,7 +6,7 @@ def alphabetordering(grouping_lines):
     grouping_lines.sort(key=str.lower)
     return grouping_lines
 
-with open('../README.md', 'r') as f:
+with open('../README.md', 'r', encoding="UTF-8") as f:
     lines = f.read().split('\n')
     grouping_lines = []
     for line in lines:
@@ -22,6 +22,6 @@ with open('../README.md', 'r') as f:
         else:
             new_lines.append(line)
 
-with open('../README_new.md', 'w') as f:
+with open('../README_new.md', 'w',encoding='UTF-8') as f:
     for line in new_lines:
         f.write(line + '\n')

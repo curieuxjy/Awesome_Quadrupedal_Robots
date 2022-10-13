@@ -33,6 +33,7 @@
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills by Learning Locomotion and Local Navigation End-to-End](https://arxiv.org/abs/2209.12827)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
+- [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [DayDreamer: World Models for Physical Robot Learning](https://openreview.net/forum?id=3RBY8fKjHeu)
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
@@ -49,6 +50,7 @@
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
 - [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://openreview.net/forum?id=Re3NjSwf0WF)
 - [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://arxiv.org/abs/2203.15854)
+- [Meta Reinforcement Learning for Optimal Design of Legged Robots](https://ieeexplore.ieee.org/abstract/document/9910025)
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
@@ -66,6 +68,7 @@
 - [Adaptive CLF-MPC With Application to Quadrupedal Robots](https://doi.org/10.1109/LRA.2021.3128697)
 - [Animal Gaits on Quadrupedal Robots Using Motion Matching and Model-Based Control](https://ieeexplore.ieee.org/document/9635838)
 - [Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning](https://doi.org/10.1109/TRO.2021.3084374)
+- [Circus ANYmal: A Quadruped Learning Dexterous Manipulation with Its Limbs](https://ieeexplore.ieee.org/abstract/document/9561926)
 - [Development of a Quadruped Robot System With Torque-Controllable Modular Actuator Unit](https://doi.org/10.1109/TIE.2020.3007084)
 - [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
 - [GLiDE: Generalizable Quadrupedal Locomotion in Diverse Environments with a Centroidal Model](https://arxiv.org/abs/2104.09771?context=cs)
@@ -116,6 +119,7 @@
 - [Learning to Walk via Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1812.11103)
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
 - [Mode-adaptive neural networks for quadruped motion control](https://dl.acm.org/doi/10.1145/3197517.3201366)
+- [Per-Contact Iteration Method for Solving Contact Dynamics](https://ieeexplore.ieee.org/abstract/document/8255551)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
@@ -190,6 +194,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
