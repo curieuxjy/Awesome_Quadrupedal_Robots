@@ -35,13 +35,16 @@
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
+- [Control of Wheeled-Legged Quadrupeds Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-15226-9_14)
 - [Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning](https://arxiv.org/abs/2210.04435)
 - [DayDreamer: World Models for Physical Robot Learning](https://openreview.net/forum?id=3RBY8fKjHeu)
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
 - [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
+- [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
+- [Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion](https://arxiv.org/abs/2210.08065)
 - [Learning a Unified Policy for Whole-Body Control of Manipulation and Locomotion](https://openreview.net/forum?id=zldI4UpuG7v)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
@@ -60,6 +63,7 @@
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
+- [Sample Efficient Dynamics Learning for Symmetrical Legged Robots:Leveraging Physics Invariance and Geometric Symmetries](https://arxiv.org/abs/2210.07329)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
 - [Walk These Ways: Gait-conditioned Policies Yield Diversified Quadrupedal Agility](https://openreview.net/forum?id=52c5e73SlS2)
 
@@ -148,8 +152,10 @@
 - https://github.com/erwincoumans/pybullet_robots
 - https://github.com/Derek-TH-Wang/quadruped_ctrl
 - https://github.com/OpenQuadruped/spot_mini_mini
+- https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 - https://github.com/unitreerobotics/unitree_mujoco
 - https://github.com/adham-elarabawy/open-quadruped
+- https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
 - https://github.com/stanfordroboticsclub/StanfordQuadruped
 - https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur
 
@@ -197,11 +203,5 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
-
-
-
-
-
-
 
 
