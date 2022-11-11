@@ -62,6 +62,7 @@
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Perceptive Locomotion through Nonlinear Model Predictive Control](https://arxiv.org/abs/2208.08373)
+- [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
@@ -210,6 +211,8 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
+
 
 
 
