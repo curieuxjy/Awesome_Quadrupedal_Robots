@@ -152,6 +152,7 @@
 - https://github.com/ethz-adrl/towr
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/leggedrobotics/rsl_rl
+- https://github.com/robomechanics/quad-sdk
 - https://github.com/leggedrobotics/legged_gym
 - https://github.com/AtsushiSakai/PythonRobotics
 - https://github.com/erwincoumans/pybullet_robots
