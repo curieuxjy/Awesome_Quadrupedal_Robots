@@ -187,6 +187,7 @@
 - [RaiLab Kaist](https://www.youtube.com/channel/UC2kxDvHbUj-nQlUMw09ih0Q)
 - [RcLab](https://www.youtube.com/channel/UCCDU6dQ7FDBjOTlkAuHQ21g)
 - [Reinforcement Learning Zurich](https://www.youtube.com/channel/UCml6vXgE_n2XdhONgSnkPFw)
+- [Robomechanics Lab](https://www.youtube.com/channel/UCKD78aZAsdB9-JTwrt6Q1KA)
 - [robot mania](https://www.youtube.com/channel/UCTFtuhl7YBPPdsoU9xEWxnA)
 - [Robotics Innovatory](https://www.youtube.com/channel/UCgswqO84K3B2tMUdecHBuJQ)
 - [Robotics Today](https://www.youtube.com/channel/UCtfiXX2nJ5Qz-ZxGEwDCy5A)
