@@ -57,6 +57,7 @@
 - [Learning plastic matching of robot dynamics in closed-loop central pattern generators](https://www.nature.com/articles/s42256-022-00505-4)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
+- [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://arxiv.org/abs/2211.07638)
 - [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://openreview.net/forum?id=Re3NjSwf0WF)
 - [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://arxiv.org/abs/2203.15854)
 - [Meta Reinforcement Learning for Optimal Design of Legged Robots](https://ieeexplore.ieee.org/abstract/document/9910025)
@@ -214,6 +215,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
