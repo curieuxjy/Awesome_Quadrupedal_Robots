@@ -105,6 +105,7 @@
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 - [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/abs/1907.01657)
 - [Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning](https://arxiv.org/abs/2004.12974)
+- [First Steps: Latent-Space Control with Semantic Constraints for Quadruped Locomotion](https://arxiv.org/abs/2007.01520)
 - [Guided Constrained Policy Optimization for Dynamic Quadrupedal Robot Locomotion](https://ieeexplore.ieee.org/abstract/document/9028178)
 - [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://doi.org/10.48550/arXiv.2004.00784)
 - [Learning quadrupedal locomotion over challenging terrain](https://doi.org/10.1126/scirobotics.abc5986)
@@ -213,6 +214,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
