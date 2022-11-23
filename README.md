@@ -45,6 +45,7 @@
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
+- [Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning](https://arxiv.org/abs/2204.13336)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion](https://arxiv.org/abs/2210.08065)
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://arxiv.org/abs/2211.06913)
@@ -215,6 +216,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
