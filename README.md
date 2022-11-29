@@ -72,6 +72,7 @@
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
 - [Sample Efficient Dynamics Learning for Symmetrical Legged Robots:Leveraging Physics Invariance and Geometric Symmetries](https://arxiv.org/abs/2210.07329)
+- [State Estimation for Hybrid Locomotion of Driving-Stepping Quadrupeds](https://arxiv.org/abs/2211.11390)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
 - [ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/abs/2210.14791)
 - [Walk These Ways: Gait-conditioned Policies Yield Diversified Quadrupedal Agility](https://openreview.net/forum?id=52c5e73SlS2)
@@ -216,6 +217,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
