@@ -163,6 +163,7 @@
 - https://github.com/robomechanics/quad-sdk
 - https://github.com/leggedrobotics/legged_gym
 - https://github.com/AtsushiSakai/PythonRobotics
+- https://github.com/chvmp/champ_setup_assistant
 - https://github.com/erwincoumans/pybullet_robots
 - https://github.com/Derek-TH-Wang/quadruped_ctrl
 - https://github.com/OpenQuadruped/spot_mini_mini
