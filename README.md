@@ -53,6 +53,7 @@
 - [Learning a Unified Policy for Whole-Body Control of Manipulation and Locomotion](https://openreview.net/forum?id=zldI4UpuG7v)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
+- [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
 - [Learning Modular Robot Visual-motor Locomotion Policies](https://arxiv.org/abs/2210.17486)
@@ -85,6 +86,7 @@
 - [Animal Gaits on Quadrupedal Robots Using Motion Matching and Model-Based Control](https://ieeexplore.ieee.org/document/9635838)
 - [Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning](https://doi.org/10.1109/TRO.2021.3084374)
 - [Circus ANYmal: A Quadruped Learning Dexterous Manipulation with Its Limbs](https://ieeexplore.ieee.org/abstract/document/9561926)
+- [CPG-ACTOR: Reinforcement Learning for Central Pattern Generators](https://arxiv.org/abs/2102.12891)
 - [Development of a Quadruped Robot System With Torque-Controllable Modular Actuator Unit](https://doi.org/10.1109/TIE.2020.3007084)
 - [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
 - [GLiDE: Generalizable Quadrupedal Locomotion in Diverse Environments with a Centroidal Model](https://arxiv.org/abs/2104.09771?context=cs)
@@ -117,6 +119,7 @@
 - [Models, Pixels, and Rewards: Evaluating Design Trade-offs in Visual Model-Based Reinforcement Learning](https://doi.org/10.48550/arXiv.2012.04603)
 - [Multi-expert learning of adaptive legged locomotion](https://doi.org/10.1126/scirobotics.abb2174)
 - [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://doi.org/10.48550/arXiv.2007.04976)
+- [Path Planning With Local Motion Estimations](https://ieeexplore.ieee.org/document/8988152)
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
 - [Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning](https://doi.org/10.48550/arXiv.2003.01239)
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
@@ -215,10 +218,12 @@
 - [RcLab - Kookmin University](https://rclab.kookmin.ac.kr/home)
 - [Robotic System Lab - ETH Zürich](https://rsl.ethz.ch/)
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
+- [The Robotics Lab at IDSIA](https://idsia-robotics.github.io/)
 
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
