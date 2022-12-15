@@ -30,6 +30,7 @@
 - [A Reconfigurable Leg for Walking Robots](https://ieeexplore.ieee.org/document/9667211)
 - [A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning](https://arxiv.org/abs/2208.07860)
 - [A Whole-Body Controller Based on a Simplified Template for Rendering Impedances in Quadruped Manipulators](https://arxiv.org/abs/2208.00810)
+- [A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors](https://arxiv.org/abs/2211.14432)
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills by Learning Locomotion and Local Navigation End-to-End](https://arxiv.org/abs/2209.12827)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
@@ -78,6 +79,7 @@
 - [STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor](https://arxiv.org/abs/2202.05572)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
 - [ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/abs/2210.14791)
+- [ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots](https://ieeexplore.ieee.org/document/9966331)
 - [Walk These Ways: Gait-conditioned Policies Yield Diversified Quadrupedal Agility](https://openreview.net/forum?id=52c5e73SlS2)
 
 > 2021
@@ -224,6 +226,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
