@@ -46,6 +46,7 @@
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
+- [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
 - [Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning](https://arxiv.org/abs/2204.13336)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/abs/2211.15657)
@@ -73,6 +74,7 @@
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
+- [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
 - [Sample Efficient Dynamics Learning for Symmetrical Legged Robots:Leveraging Physics Invariance and Geometric Symmetries](https://arxiv.org/abs/2210.07329)
 - [State Estimation for Hybrid Locomotion of Driving-Stepping Quadrupeds](https://arxiv.org/abs/2211.11390)
@@ -109,6 +111,7 @@
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
 - [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
+- [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
 
 > 2020
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
@@ -226,6 +229,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
