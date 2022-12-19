@@ -217,6 +217,7 @@
 
 ## Labs
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
+- [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
 - [Dynamic Robot Systems Group - University of Oxford](https://ori.ox.ac.uk/labs/drs/)
 - [Hybrid Robotics Lab - UC Berkely](https://hybrid-robotics.berkeley.edu/)
@@ -229,6 +230,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
