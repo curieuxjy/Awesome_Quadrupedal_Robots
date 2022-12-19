@@ -34,6 +34,7 @@
 - [Accelerated Policy Learning with Parallel Differentiable Simulation](https://arxiv.org/abs/2204.07137)
 - [Advanced Skills by Learning Locomotion and Local Navigation End-to-End](https://arxiv.org/abs/2209.12827)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
+- [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
@@ -51,6 +52,7 @@
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/abs/2211.15657)
 - [Just Round: Quantized Observation Spaces Enable Memory Efficient Learning of Dynamic Locomotion](https://arxiv.org/abs/2210.08065)
+- [Landing control method of a lightweight four-legged landing and walking robot](https://link.springer.com/article/10.1007/s11465-022-0707-1)
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://arxiv.org/abs/2211.06913)
 - [Learning a Unified Policy for Whole-Body Control of Manipulation and Locomotion](https://openreview.net/forum?id=zldI4UpuG7v)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
@@ -230,6 +232,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
