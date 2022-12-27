@@ -58,6 +58,7 @@
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
 - [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
+- [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
 - [Learning Modular Robot Visual-motor Locomotion Policies](https://arxiv.org/abs/2210.17486)
@@ -232,6 +233,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
