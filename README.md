@@ -56,8 +56,6 @@
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://arxiv.org/abs/2211.06913)
 - [Learning a Unified Policy for Whole-Body Control of Manipulation and Locomotion](https://openreview.net/forum?id=zldI4UpuG7v)
 - [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
-- [Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations](https://arxiv.org/abs/2206.11693)
-- [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
 - [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
@@ -109,6 +107,7 @@
 - [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://doi.org/10.48550/arXiv.2107.03996)
 - [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://doi.org/10.48550/arXiv.2110.05457)
 - [Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots](https://doi.org/10.48550/arXiv.2111.01674)
+- [Real-time Optimal Navigation Planning Using Learned Motion Costs](https://ieeexplore.ieee.org/document/9561861)
 - [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2109.06409)
 - [Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds](https://ieeexplore.ieee.org/document/9321699)
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
@@ -233,6 +232,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
