@@ -84,6 +84,7 @@
 - [ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/abs/2210.14791)
 - [ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots](https://ieeexplore.ieee.org/document/9966331)
 - [Walk These Ways: Gait-conditioned Policies Yield Diversified Quadrupedal Agility](https://openreview.net/forum?id=52c5e73SlS2)
+- [Walking in Narrow Spaces: Safety-critical Locomotion Control for Quadrupedal Robots with Duality-based Optimization](https://arxiv.org/abs/2212.14199)
 
 > 2021
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
@@ -232,6 +233,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
