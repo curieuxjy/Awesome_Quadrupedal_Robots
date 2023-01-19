@@ -24,6 +24,9 @@
 ## Papers
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
+> 2023
+- [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://ieeexplore.ieee.org/document/9812433)
