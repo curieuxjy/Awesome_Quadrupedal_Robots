@@ -26,7 +26,7 @@
 
 > 2023
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
-- [O RBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/abs/2301.04195)
+- [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/abs/2301.04195)
 
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
