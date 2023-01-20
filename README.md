@@ -26,6 +26,7 @@
 
 > 2023
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+- [O RBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/abs/2301.04195)
 
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
@@ -176,6 +177,7 @@
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/leggedrobotics/rsl_rl
 - https://github.com/robomechanics/quad-sdk
+- https://github.com/NVIDIA-Omniverse/Orbit
 - https://github.com/leggedrobotics/legged_gym
 - https://github.com/AtsushiSakai/PythonRobotics
 - https://github.com/chvmp/champ_setup_assistant
