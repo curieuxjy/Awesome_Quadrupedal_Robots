@@ -50,6 +50,7 @@
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
 - [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
+- [Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots](https://arxiv.org/abs/2209.13145)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
 - [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
