@@ -198,6 +198,7 @@
 ---
 
 ## Youtube Channels
+- [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
 - [Boston Dynamics](https://www.youtube.com/user/BostonDynamics)
