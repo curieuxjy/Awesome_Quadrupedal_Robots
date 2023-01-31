@@ -123,6 +123,7 @@
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
 
 > 2020
+- [An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research](https://ieeexplore.ieee.org/document/9015985)
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 - [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/abs/1907.01657)
 - [Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning](https://arxiv.org/abs/2004.12974)
