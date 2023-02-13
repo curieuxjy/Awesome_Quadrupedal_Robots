@@ -49,6 +49,7 @@
 - [Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning](https://arxiv.org/abs/2210.04435)
 - [DayDreamer: World Models for Physical Robot Learning](https://openreview.net/forum?id=3RBY8fKjHeu)
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
+- [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 - [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
 - [Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots](https://arxiv.org/abs/2209.13145)
@@ -248,5 +249,6 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
