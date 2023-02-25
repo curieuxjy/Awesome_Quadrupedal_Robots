@@ -77,6 +77,7 @@
 - [Model Predictive Control of Quadruped Robot Based on Reinforcement Learning](https://doi.org/10.3390/app13010154)
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
+- [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://ieeexplore.ieee.org/document/9811584)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Perceptive Locomotion through Nonlinear Model Predictive Control](https://arxiv.org/abs/2208.08373)
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
@@ -90,6 +91,7 @@
 - [State Estimation for Hybrid Locomotion of Driving-Stepping Quadrupeds](https://arxiv.org/abs/2211.11390)
 - [STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor](https://arxiv.org/abs/2202.05572)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
+- [VAE-Loco: Versatile Quadruped Locomotion by Learning a Disentangled Gait Representation](https://arxiv.org/abs/2205.01179)
 - [Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions](https://arxiv.org/abs/2209.07899)
 - [ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/abs/2210.14791)
 - [ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots](https://ieeexplore.ieee.org/document/9966331)
@@ -249,6 +251,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
