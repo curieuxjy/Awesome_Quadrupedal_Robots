@@ -18,6 +18,7 @@
 - [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
 - [Spot](https://www.bostondynamics.com/products/spot)
 - [Unitree](https://www.unitree.com/)
+- [Vision60](https://www.ghostrobotics.io/vision-60)
 
 ---
 
