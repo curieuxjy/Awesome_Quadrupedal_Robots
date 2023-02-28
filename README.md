@@ -218,6 +218,7 @@
 - [DeepRobotics](https://www.youtube.com/channel/UCj73fOsxOlugnBPJOoM9rHw)
 - [Erwin Coumans](https://www.youtube.com/user/erwincoumans)
 - [ETH Zürich](https://www.youtube.com/user/ethzurich)
+- [Ghost Robotics](https://www.youtube.com/c/GhostRobotics)
 - [Hybrid Robotics](https://www.youtube.com/channel/UCF18oH66MtrfUT3lpFc1xig)
 - [KAIST Urban Robotics Lab](https://www.youtube.com/user/urobotkaist)
 - [MIT Robotics](https://www.youtube.com/channel/UCK2tKzmSFFnpFhUXtRKjvnQ)
