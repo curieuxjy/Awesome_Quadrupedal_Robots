@@ -44,6 +44,7 @@
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
+- [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
 - [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [Control of Wheeled-Legged Quadrupeds Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-15226-9_14)
@@ -254,6 +255,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
