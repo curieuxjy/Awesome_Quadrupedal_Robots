@@ -26,6 +26,7 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 > 2023
+- [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
