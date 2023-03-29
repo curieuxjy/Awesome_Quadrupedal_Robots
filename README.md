@@ -7,7 +7,7 @@
 ## Good to start
 - [Development of quadruped walking robots: A review](https://doi.org/10.1016/j.asej.2020.11.005)
 - [Quadruped Robot Basics](https://youtu.be/O_2swSMecB4)
-- [Spot Robot | All its Engineering SECRETS](https://youtu.be/9QQivDJlVog)
+- [Boston Dynamics Spot Robot | All of its Engineering SECRETS!](https://youtu.be/tfWbE_1eCZk)
 ---
 
 ## Quadrupedal Robots
