@@ -16,6 +16,8 @@
 - [Cheetah](https://biomimetics.mit.edu/)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
 - [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
+- [PongBot](https://rclab.kookmin.ac.kr/project1/quadruped-robot)
+- [Solo8](https://open-dynamic-robot-initiative.github.io/)
 - [Spot](https://www.bostondynamics.com/products/spot)
 - [Unitree](https://www.unitree.com/)
 - [Vision60](https://www.ghostrobotics.io/vision-60)
