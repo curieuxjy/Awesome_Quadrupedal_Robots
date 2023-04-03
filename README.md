@@ -5,9 +5,9 @@
 > 🔤 The items below are in alphabetical order.
 
 ## Good to start
+- [Boston Dynamics Spot Robot | All of its Engineering SECRETS!](https://youtu.be/tfWbE_1eCZk)
 - [Development of quadruped walking robots: A review](https://doi.org/10.1016/j.asej.2020.11.005)
 - [Quadruped Robot Basics](https://youtu.be/O_2swSMecB4)
-- [Boston Dynamics Spot Robot | All of its Engineering SECRETS!](https://youtu.be/tfWbE_1eCZk)
 ---
 
 ## Quadrupedal Robots
@@ -29,6 +29,7 @@
 
 > 2023
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
+- [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
@@ -90,6 +91,7 @@
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
+- [Rapid Locomotion via Reinforcement Learning](https://arxiv.org/abs/2205.02824#)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
 - [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
@@ -259,6 +261,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
