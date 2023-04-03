@@ -124,6 +124,7 @@
 - [Learning Agile Locomotion Skills with a Mentor](https://doi.org/10.1109/ICRA48506.2021.9561567)
 - [Learning Fast Adaptation with Meta Strategy Optimization](https://doi.org/10.48550/arXiv.1909.12995)
 - [Learning multiple gaits of quadruped robot using hierarchical reinforcement learning](https://doi.org/10.48550/arXiv.2112.04741)
+- [Learning to Jump from Pixels](https://arxiv.org/abs/2110.15344)
 - [Learning to Navigate Sidewalks in Outdoor Environments](https://doi.org/10.48550/arXiv.2109.05603)
 - [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.2109.11978)
 - [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://doi.org/10.48550/arXiv.2107.03996)
@@ -261,6 +262,7 @@
 ---
 
 > Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 
 
 
