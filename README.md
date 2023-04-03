@@ -15,7 +15,7 @@
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)
 - [Cheetah](https://biomimetics.mit.edu/)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
-- [Jueying](https://www.deeprobotics.cn/en/)
+- [Jueying](https://www.deeprobotics.cn/en/index/product.html)
 - [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
 - [PongBot](https://rclab.kookmin.ac.kr/project1/quadruped-robot)
 - [Solo8](https://open-dynamic-robot-initiative.github.io/)
