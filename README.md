@@ -36,6 +36,7 @@
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+- [OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors](https://arxiv.org/abs/2210.01247)
 - [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/abs/2301.04195)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
 
