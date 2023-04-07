@@ -199,9 +199,11 @@
 ---
 
 ## Github Repositories
+- https://github.com/google/brax
 - https://github.com/ethz-adrl/towr
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/PetoiCamp/OpenCat
+- https://github.com/bulletphysics/bullet3
 - https://github.com/leggedrobotics/rsl_rl
 - https://github.com/robomechanics/quad-sdk
 - https://github.com/NVIDIA-Omniverse/Orbit
@@ -214,10 +216,11 @@
 - https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 - https://github.com/unitreerobotics/unitree_mujoco
 - https://github.com/adham-elarabawy/open-quadruped
+- https://github.com/TopHillRobotics/quadruped-robot
 - https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
 - https://github.com/stanfordroboticsclub/StanfordQuadruped
+- https://github.com/gaiyi7788/awesome-legged-locomotion-learning
 - https://github.com/robot-descriptions/awesome-robot-descriptions
-- https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur
 
 ---
 
