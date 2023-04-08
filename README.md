@@ -1,5 +1,7 @@
 # Awesome_Quadrupedal_Robots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
+
 ![](./assets/cover.png)
 
 > 🔤 The items below are in alphabetical order.
@@ -229,6 +231,7 @@
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
 - [Boston Dynamics](https://www.youtube.com/user/BostonDynamics)
+- [CMU Robotic Exploration Lab](https://www.youtube.com/@roboticexplorationlab3724)
 - [cmurobotics](https://www.youtube.com/user/cmurobotics/featured)
 - [Conference on Robot Learning](https://www.youtube.com/channel/UCXnxdtIKJVUN0I-gKo2Chmg)
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
@@ -269,16 +272,5 @@
 - [The Robotics Lab at IDSIA](https://idsia-robotics.github.io/)
 
 ---
-
-> Don't hesitate to leave [issues](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/issues) or [discussions](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots/discussions) to me if there are any corrections or errors.
-
-
-
-
-
-
-
-
-
 
 
