@@ -253,6 +253,7 @@
 - [robot mania](https://www.youtube.com/channel/UCTFtuhl7YBPPdsoU9xEWxnA)
 - [Robotics Innovatory](https://www.youtube.com/channel/UCgswqO84K3B2tMUdecHBuJQ)
 - [Robotics Today](https://www.youtube.com/channel/UCtfiXX2nJ5Qz-ZxGEwDCy5A)
+- [Stoch Lab IISc](https://www.youtube.com/channel/UC4SBmq_fVgzyaqHHyITkSjA)
 - [The Robot Brains Podcast](https://www.youtube.com/channel/UCXNviQjBONXljxkJzNV-Xbw)
 - [umrobotics](https://www.youtube.com/channel/UC-WH2n-SkB166pUq5o5ULUg)
 - [Unitree Robotics](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw)
@@ -267,10 +268,12 @@
 - [Hybrid Robotics Lab - UC Berkely](https://hybrid-robotics.berkeley.edu/)
 - [RAI Lab - KAIST](https://www.railab.kaist.ac.kr/)
 - [RcLab - Kookmin University](https://rclab.kookmin.ac.kr/home)
+- [Robomechanics Lab - Carnegie Mellon University](https://www.cmu.edu/me/robomechanicslab/)
 - [Robotic System Lab - ETH Zürich](https://rsl.ethz.ch/)
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
-- [The Robotics Lab at IDSIA](https://idsia-robotics.github.io/)
-
+- [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
+- [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
 ---
+
 
 
