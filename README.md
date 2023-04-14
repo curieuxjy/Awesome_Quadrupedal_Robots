@@ -205,6 +205,7 @@
 - https://github.com/ethz-adrl/towr
 - https://github.com/nicrusso7/rex-gym
 - https://github.com/PetoiCamp/OpenCat
+- https://github.com/heuristicus/spot_ros
 - https://github.com/bulletphysics/bullet3
 - https://github.com/leggedrobotics/rsl_rl
 - https://github.com/robomechanics/quad-sdk
