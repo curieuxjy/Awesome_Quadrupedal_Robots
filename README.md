@@ -35,14 +35,16 @@
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
 - [Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)
+- [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 - [OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors](https://arxiv.org/abs/2210.01247)
-- [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://arxiv.org/abs/2301.04195)
+- [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://ieeexplore.ieee.org/abstract/document/10107764)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
+- [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
 
 > 2022
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
@@ -215,6 +217,7 @@
 - https://github.com/erwincoumans/pybullet_robots
 - https://github.com/Derek-TH-Wang/quadruped_ctrl
 - https://github.com/OpenQuadruped/spot_mini_mini
+- https://github.com/Alescontrela/AMP_for_hardware
 - https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
 - https://github.com/unitreerobotics/unitree_mujoco
 - https://github.com/adham-elarabawy/open-quadruped
@@ -274,6 +277,7 @@
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
 ---
+
 
 
 
