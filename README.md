@@ -63,12 +63,14 @@
 - [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [Control of Wheeled-Legged Quadrupeds Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-15226-9_14)
+- [Coupling Vision and Proprioception for Navigation of Legged Robots](https://arxiv.org/abs/2112.02094)
 - [CPG-RL: Learning Central Pattern Generators for Quadruped Locomotion](https://arxiv.org/abs/2211.00458)
 - [Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning](https://arxiv.org/abs/2210.04435)
 - [DayDreamer: World Models for Physical Robot Learning](https://openreview.net/forum?id=3RBY8fKjHeu)
 - [Deep Hierarchical Planning from Pixels](https://arxiv.org/abs/2206.04114)
 - [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 - [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
+- [Elevation Mapping for Locomotion and Navigation using GPU](https://arxiv.org/abs/2204.12876)
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
 - [Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots](https://arxiv.org/abs/2209.13145)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
@@ -101,7 +103,9 @@
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
+- [Rapid and Reliable Quadruped Motion Planning with Omnidirectional Jumping](https://arxiv.org/abs/2111.13648?context=cs)
 - [Rapid Locomotion via Reinforcement Learning](https://arxiv.org/abs/2205.02824#)
+- [Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots](https://arxiv.org/abs/2209.09508)
 - [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/abs/2202.05244)
 - [RLOC: Terrain-Aware Legged Locomotion using Reinforcement Learning and Optimal Control](https://arxiv.org/abs/2012.03094)
 - [Safe Reinforcement Learning for Legged Locomotion](https://doi.org/10.48550/arXiv.2203.02638)
@@ -109,6 +113,7 @@
 - [Saving the Limping: Fault-tolerant Quadruped Locomotion via Reinforcement Learning](https://arxiv.org/abs/2210.00474)
 - [State Estimation for Hybrid Locomotion of Driving-Stepping Quadrupeds](https://arxiv.org/abs/2211.11390)
 - [STEP: State Estimator for Legged Robots Using a Preintegrated foot Velocity Factor](https://arxiv.org/abs/2202.05572)
+- [TROT-Q: Traversability and Obstacle Aware Target Tracking System for Quadruped Robots](https://ieeexplore.ieee.org/document/9828258)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
 - [VAE-Loco: Versatile Quadruped Locomotion by Learning a Disentangled Gait Representation](https://arxiv.org/abs/2205.01179)
 - [Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions](https://arxiv.org/abs/2209.07899)
@@ -140,6 +145,7 @@
 - [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://doi.org/10.48550/arXiv.2107.03996)
 - [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://doi.org/10.48550/arXiv.2110.05457)
 - [Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots](https://doi.org/10.48550/arXiv.2111.01674)
+- [Obstacle Overcoming Gait Design for Quadruped Robot with Vision and Tactile Sensing Feedback](https://ieeexplore.ieee.org/document/9638875)
 - [Real-time Optimal Navigation Planning Using Learned Motion Costs](https://ieeexplore.ieee.org/document/9561861)
 - [Reinforcement Learning for Collaborative Quadrupedal Manipulation of a Payload over Challenging Terrain](https://ieeexplore.ieee.org/document/9551481)
 - [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2109.06409)
@@ -147,6 +153,7 @@
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
 - [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
+- [Vision-based Terrain Perception of Quadruped Robots in Complex Environments](https://ieeexplore.ieee.org/document/9739576)
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
 
 > 2020
@@ -166,6 +173,7 @@
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
 - [Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning](https://doi.org/10.48550/arXiv.2003.01239)
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
+- [Vision Aided Dynamic Exploration of Unstructured Terrain with a Small-Scale Quadruped Robot](https://ieeexplore.ieee.org/document/9196777)
 
 > 2019
 - [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1909.08399)
@@ -278,7 +286,3 @@
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
 ---
-
-
-
-
