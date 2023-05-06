@@ -146,6 +146,7 @@
 - [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://doi.org/10.48550/arXiv.2110.05457)
 - [Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots](https://doi.org/10.48550/arXiv.2111.01674)
 - [Obstacle Overcoming Gait Design for Quadruped Robot with Vision and Tactile Sensing Feedback](https://ieeexplore.ieee.org/document/9638875)
+- [Perceptive Autonomous Stair Climbing for Quadrupedal Robots](https://ieeexplore.ieee.org/document/9636302)
 - [Real-time Optimal Navigation Planning Using Learned Motion Costs](https://ieeexplore.ieee.org/document/9561861)
 - [Reinforcement Learning for Collaborative Quadrupedal Manipulation of a Payload over Challenging Terrain](https://ieeexplore.ieee.org/document/9551481)
 - [Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2109.06409)
@@ -167,9 +168,11 @@
 - [Learning quadrupedal locomotion over challenging terrain](https://doi.org/10.1126/scirobotics.abc5986)
 - [Learning to Walk in the Real World with Minimal Human Effort](https://arxiv.org/abs/2002.08550)
 - [Models, Pixels, and Rewards: Evaluating Design Trade-offs in Visual Model-Based Reinforcement Learning](https://doi.org/10.48550/arXiv.2012.04603)
+- [Mpc-based controller with terrain insight for dynamic legged locomotion](https://arxiv.org/abs/1909.13842)
 - [Multi-expert learning of adaptive legged locomotion](https://doi.org/10.1126/scirobotics.abb2174)
 - [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://doi.org/10.48550/arXiv.2007.04976)
 - [Path Planning With Local Motion Estimations](https://ieeexplore.ieee.org/document/8988152)
+- [Perceptive Locomotion in Rough Terrain – Online Foothold Optimization](https://ieeexplore.ieee.org/document/9134750)
 - [Plane-based stairway mapping for legged robot locomotion](https://doi.org/10.1108/IR-09-2019-0189)
 - [Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning](https://doi.org/10.48550/arXiv.2003.01239)
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
@@ -179,6 +182,7 @@
 - [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1909.08399)
 - [Design a Fall Recovery Strategy for a Wheel-Legged Quadruped Robot Using Stability Feature Space](https://doi.org/10.1109/ROBIO49542.2019.8961722)
 - [Dynamic Locomotion on Slippery Ground](https://doi.org/10.1109/LRA.2019.2931284)
+- [Fast and Continuous Foothold Adaptation for Dynamic Locomotion through CNNs](https://arxiv.org/abs/1809.09759)
 - [Fast and Continuous Foothold Adaptation for Dynamic Locomotion Through CNNs](https://doi.org/10.1109/LRA.2019.2899434)
 - [Feedback MPC for Torque-Controlled Legged Robots](https://doi.org/10.1109/IROS40897.2019.8968251)
 - [Hierarchical Reinforcement Learning for Quadruped Locomotion](https://arxiv.org/abs/1905.08926)
@@ -187,14 +191,18 @@
 - [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
 - [Robust Legged Robot State Estimation Using Factor Graph Optimization](https://doi.org/10.1109/LRA.2019.2933768)
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
+- [Whole-body motion and landing force control for quadrupedal stair climbing](https://ieeexplore.ieee.org/document/8967527)
 
 > 2018
+- [Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains](https://ieeexplore.ieee.org/document/8460904)
+- [Dynamic locomotion in the MIT Cheetah 3 through convex model-predictive control](https://ieeexplore.ieee.org/document/8594448)
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
 - [Learning to Walk via Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1812.11103)
 - [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)
 - [Mode-adaptive neural networks for quadruped motion control](https://dl.acm.org/doi/10.1145/3197517.3201366)
 - [Per-Contact Iteration Method for Solving Contact Dynamics](https://ieeexplore.ieee.org/abstract/document/8255551)
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
+- [Robust rough-terrain locomotion with a quadrupedal robot](https://ieeexplore.ieee.org/document/8460731)
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 
@@ -286,3 +294,4 @@
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
 ---
+
