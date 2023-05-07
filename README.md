@@ -20,6 +20,7 @@
 - [Jueying](https://www.deeprobotics.cn/en/index/product.html)
 - [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
 - [PongBot](https://rclab.kookmin.ac.kr/project1/quadruped-robot)
+- [RBQ](https://www.rainbow-robotics.com/en_rbq)
 - [Solo8](https://open-dynamic-robot-initiative.github.io/)
 - [Spot](https://www.bostondynamics.com/products/spot)
 - [Unitree](https://www.unitree.com/)
@@ -60,6 +61,7 @@
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
+- [Collision-Backpropagation based Obstacle Avoidance Method for a Legged Robot Expressed as a Simplified Dynamics Model](https://ieeexplore.ieee.org/document/10003733)
 - [Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators](https://ieeexplore.ieee.org/abstract/document/9684679)
 - [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://doi.org/10.1109/LRA.2022.3151396)
 - [Control of Wheeled-Legged Quadrupeds Using Deep Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-031-15226-9_14)
@@ -294,4 +296,5 @@
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
 ---
+
 
