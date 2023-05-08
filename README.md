@@ -221,6 +221,7 @@
 ---
 
 ## Github Repositories
+
 - https://github.com/google/brax
 - https://github.com/ethz-adrl/towr
 - https://github.com/nicrusso7/rex-gym
@@ -230,6 +231,7 @@
 - https://github.com/leggedrobotics/rsl_rl
 - https://github.com/robomechanics/quad-sdk
 - https://github.com/NVIDIA-Omniverse/Orbit
+- https://github.com/danijar/dreamerv3([Pytorch](https://github.com/NM512/dreamerv3-torch))
 - https://github.com/leggedrobotics/legged_gym
 - https://github.com/AtsushiSakai/PythonRobotics
 - https://github.com/chvmp/champ_setup_assistant
