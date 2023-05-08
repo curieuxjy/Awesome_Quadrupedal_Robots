@@ -222,31 +222,32 @@
 
 ## Github Repositories
 
-- https://github.com/google/brax
-- https://github.com/ethz-adrl/towr
-- https://github.com/nicrusso7/rex-gym
-- https://github.com/PetoiCamp/OpenCat
-- https://github.com/heuristicus/spot_ros
-- https://github.com/bulletphysics/bullet3
-- https://github.com/leggedrobotics/rsl_rl
-- https://github.com/robomechanics/quad-sdk
-- https://github.com/NVIDIA-Omniverse/Orbit
-- https://github.com/danijar/dreamerv3([Pytorch](https://github.com/NM512/dreamerv3-torch))
-- https://github.com/leggedrobotics/legged_gym
-- https://github.com/AtsushiSakai/PythonRobotics
-- https://github.com/chvmp/champ_setup_assistant
-- https://github.com/erwincoumans/pybullet_robots
-- https://github.com/Derek-TH-Wang/quadruped_ctrl
-- https://github.com/OpenQuadruped/spot_mini_mini
-- https://github.com/Alescontrela/AMP_for_hardware
-- https://github.com/NVIDIA-Omniverse/IsaacGymEnvs
-- https://github.com/unitreerobotics/unitree_mujoco
-- https://github.com/adham-elarabawy/open-quadruped
-- https://github.com/TopHillRobotics/quadruped-robot
-- https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs
-- https://github.com/stanfordroboticsclub/StanfordQuadruped
-- https://github.com/gaiyi7788/awesome-legged-locomotion-learning
-- https://github.com/robot-descriptions/awesome-robot-descriptions
+- [![](https://img.shields.io/badge/google-brax-black?style=flat-square&logo=github)](https://github.com/google/brax) <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ethz--adrl-towr-black?style=flat-square&logo=github)](https://github.com/ethz-adrl/towr) <img src="https://img.shields.io/github/stars/ethz-adrl/towr?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square&logo=github)](https://github.com/nicrusso7/rex-gym) <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square&logo=github)](https://github.com/PetoiCamp/OpenCat) <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/robomechanics-quad--sdk-black?style=flat-square&logo=github)](https://github.com/robomechanics/quad-sdk) <img src="https://img.shields.io/github/stars/robomechanics/quad-sdk?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVIDIA--Omniverse-OmniIsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/OmniIsaacGymEnvs?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVIDIA--Omniverse-IsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVIDIA--Omniverse-Orbit-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/Orbit) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/Orbit?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square&logo=github)](https://github.com/danijar/dreamerv3) <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square&logo=github)](https://github.com/NM512/dreamerv3-torch) <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/erwincoumans-pybullet_robots-black?style=flat-square&logo=github)](https://github.com/erwincoumans/pybullet_robots) <img src="https://img.shields.io/github/stars/erwincoumans/pybullet_robots?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Derek--TH--Wang-quadruped_ctrl-black?style=flat-square&logo=github)](https://github.com/Derek-TH-Wang/quadruped_ctrl) <img src="https://img.shields.io/github/stars/Derek-TH-Wang/quadruped_ctrl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square&logo=github)](https://github.com/adham-elarabawy/open-quadruped) <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow"> 
+- [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow"> 
 
 ---
 
