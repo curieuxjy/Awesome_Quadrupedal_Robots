@@ -6,13 +6,19 @@
 
 > 🔤 The items below are in alphabetical order.
 
-## Good to start
+## Good to start 🧐
+
 - [Boston Dynamics Spot Robot | All of its Engineering SECRETS!](https://youtu.be/tfWbE_1eCZk)
 - [Development of quadruped walking robots: A review](https://doi.org/10.1016/j.asej.2020.11.005)
 - [Quadruped Robot Basics](https://youtu.be/O_2swSMecB4)
+
 ---
 
-## Quadrupedal Robots
+## Quadrupedal Robot 🐅
+
+<details>
+<summary><b>Platforms</b></summary>
+
 - [AiDIN](https://www.aidinrobotics.co.kr/leggedrobot-aidin)
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)
 - [Cheetah](https://biomimetics.mit.edu/)
@@ -26,12 +32,16 @@
 - [Unitree](https://www.unitree.com/)
 - [Vision60](https://www.ghostrobotics.io/vision-60)
 
+</details>
+
 ---
 
-## Papers
+## Papers 📑
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
-> 2023
+<details>
+<summary><b>2023</b></summary>
+
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
@@ -51,7 +61,11 @@
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
 
-> 2022
+</details>
+
+<details>
+<summary><b>2022</b></summary>
+
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://ieeexplore.ieee.org/document/9812433)
 - [A Reconfigurable Leg for Walking Robots](https://ieeexplore.ieee.org/document/9667211)
@@ -128,7 +142,11 @@
 - [Walk These Ways: Gait-conditioned Policies Yield Diversified Quadrupedal Agility](https://openreview.net/forum?id=52c5e73SlS2)
 - [Walking in Narrow Spaces: Safety-critical Locomotion Control for Quadrupedal Robots with Duality-based Optimization](https://arxiv.org/abs/2212.14199)
 
-> 2021
+</details>
+
+<details>
+<summary><b>2021</b></summary>
+
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
 - [A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2103.00946)
 - [Adaptive CLF-MPC With Application to Quadrupedal Robots](https://doi.org/10.1109/LRA.2021.3128697)
@@ -165,7 +183,11 @@
 - [Vision-based Terrain Perception of Quadruped Robots in Complex Environments](https://ieeexplore.ieee.org/document/9739576)
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
 
-> 2020
+</details>
+
+<details>
+<summary><b>2020</b></summary>
+
 - [An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research](https://ieeexplore.ieee.org/document/9015985)
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 - [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/abs/1907.01657)
@@ -186,7 +208,11 @@
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
 - [Vision Aided Dynamic Exploration of Unstructured Terrain with a Small-Scale Quadruped Robot](https://ieeexplore.ieee.org/document/9196777)
 
-> 2019
+</details>
+
+<details>
+<summary><b>2019</b></summary>
+
 - [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1909.08399)
 - [Design a Fall Recovery Strategy for a Wheel-Legged Quadruped Robot Using Stability Feature Space](https://doi.org/10.1109/ROBIO49542.2019.8961722)
 - [Dynamic Locomotion on Slippery Ground](https://doi.org/10.1109/LRA.2019.2931284)
@@ -201,7 +227,11 @@
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
 - [Whole-body motion and landing force control for quadrupedal stair climbing](https://ieeexplore.ieee.org/document/8967527)
 
-> 2018
+</details>
+
+<details>
+<summary><b>2018</b></summary>
+
 - [Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains](https://ieeexplore.ieee.org/document/8460904)
 - [Dynamic locomotion in the MIT Cheetah 3 through convex model-predictive control](https://ieeexplore.ieee.org/document/8594448)
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
@@ -214,7 +244,11 @@
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 
-> ~ 2017
+</details>
+
+<details>
+<summary><b>~ 2017</b></summary>
+
 - [ANYmal - a highly mobile and dynamic quadrupedal robot](https://doi.org/10.1109/IROS.2016.7758092)
 - [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
 - [Meta Learning Shared Hierarchies](https://doi.org/10.48550/arXiv.1710.09767)
@@ -224,9 +258,14 @@
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
 
+</details>
+
 ---
 
-## Github Repositories
+## Github 💻
+
+<details>
+<summary><b>Repositories</b></summary>
 
 - [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square&logo=github)](https://github.com/adham-elarabawy/open-quadruped) <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
@@ -255,9 +294,15 @@
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
 
+</details>
+
 ---
 
-## Youtube Channels
+## Youtube 🎥
+
+<details>
+<summary><b>Channels</b></summary>
+
 - [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
@@ -289,9 +334,16 @@
 - [umrobotics](https://www.youtube.com/channel/UC-WH2n-SkB166pUq5o5ULUg)
 - [Unitree Robotics](https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw)
 
+</details>
+
+
 ---
 
-## Labs
+## Lab 👥
+
+<details>
+<summary><b>Homepages</b></summary>
+
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
 - [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
@@ -304,5 +356,8 @@
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
+
+</details>
+
 ---
 
