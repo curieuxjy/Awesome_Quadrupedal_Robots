@@ -43,6 +43,7 @@
 <summary><b>2023</b></summary>
 
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
+- [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
 - [Drilling Task with a Quadruped Robot for Silage Face Measurements](https://www.researchgate.net/publication/370765569_Drilling_Task_with_a_Quadruped_Robot_for_Silage_Face_Measurements)
@@ -77,6 +78,7 @@
 - [Advanced Skills by Learning Locomotion and Local Navigation End-to-End](https://arxiv.org/abs/2209.12827)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
+- [Animal Motions on Legged Robots Using Nonlinear Model Predictive Control](https://ieeexplore.ieee.org/document/9981945)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
 - [Collision-Backpropagation based Obstacle Avoidance Method for a Legged Robot Expressed as a Simplified Dynamics Model](https://ieeexplore.ieee.org/document/10003733)
@@ -118,6 +120,7 @@
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://ieeexplore.ieee.org/document/9811584)
+- [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://arxiv.org/abs/2207.10465)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Perceptive Locomotion through Nonlinear Model Predictive Control](https://arxiv.org/abs/2208.08373)
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
@@ -345,6 +348,7 @@
 <summary><b>Homepages</b></summary>
 
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
+- [Computational Robotics Lab - ETH](http://crl.ethz.ch/)
 - [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
 - [Dynamic Robot Systems Group - University of Oxford](https://ori.ox.ac.uk/labs/drs/)
@@ -360,4 +364,3 @@
 </details>
 
 ---
-
