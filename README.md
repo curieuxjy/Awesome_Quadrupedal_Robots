@@ -52,6 +52,7 @@
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
 - [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
+- [Learning Complex Motor Skills for Legged Robot Fall Recovery](https://ieeexplore.ieee.org/document/10138662/)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
@@ -78,6 +79,7 @@
 - [Advanced Skills by Learning Locomotion and Local Navigation End-to-End](https://arxiv.org/abs/2209.12827)
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
+- [Animal Motions on Legged Robots Using Nonlinear Model Predictive Control](https://ieeexplore.ieee.org/document/9981945)
 - [Animal Motions on Legged Robots Using Nonlinear Model Predictive Control](https://ieeexplore.ieee.org/document/9981945)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
@@ -121,7 +123,6 @@
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://ieeexplore.ieee.org/document/9811584)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://arxiv.org/abs/2207.10465)
-- [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://donghok.me/assets/pdf/kang2022nonlinear.pdf)
 - [Perceptive Locomotion through Nonlinear Model Predictive Control](https://arxiv.org/abs/2208.08373)
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
@@ -254,12 +255,14 @@
 
 - [ANYmal - a highly mobile and dynamic quadrupedal robot](https://doi.org/10.1109/IROS.2016.7758092)
 - [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
+- [High-slope terrain locomotion for torque-controlled quadruped robots](https://link.springer.com/article/10.1007/s10514-016-9573-1)
 - [Meta Learning Shared Hierarchies](https://doi.org/10.48550/arXiv.1710.09767)
 - [Robot-Centric Elevation Mapping with Uncertainty Estimates](https://doi.org/10.1142/9789814623353_0051)
 - [Slip Detection and Recovery for Quadruped Robots](https://doi.org/10.1016/j.robot.2005.07.002)
 - [State Estimation for Legged Robots - Consistent Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
+- [Wholebody trajectory optimization for non-periodic dynamic motions on quadrupedal systems](https://ieeexplore.ieee.org/document/7989623)
 
 </details>
 
@@ -328,6 +331,7 @@
 - [RaiLab Kaist](https://www.youtube.com/channel/UC2kxDvHbUj-nQlUMw09ih0Q)
 - [RcLab](https://www.youtube.com/channel/UCCDU6dQ7FDBjOTlkAuHQ21g)
 - [Reinforcement Learning Zurich](https://www.youtube.com/channel/UCml6vXgE_n2XdhONgSnkPFw)
+- [RISE LAB - SKKU](https://www.youtube.com/@rise-lab-skku)
 - [Robomechanics Lab](https://www.youtube.com/channel/UCKD78aZAsdB9-JTwrt6Q1KA)
 - [robot mania](https://www.youtube.com/channel/UCTFtuhl7YBPPdsoU9xEWxnA)
 - [Robotics Innovatory](https://www.youtube.com/channel/UCgswqO84K3B2tMUdecHBuJQ)
@@ -360,7 +364,6 @@
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
-
 </details>
 
 ---
