@@ -285,6 +285,7 @@
 - [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow"> 
 - [![](https://img.shields.io/badge/google-brax-black?style=flat-square&logo=github)](https://github.com/google/brax) <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-anymal_brax-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/anymal_brax) <img src="https://img.shields.io/github/stars/leggedrobotics/anymal_brax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square&logo=github)](https://github.com/nicrusso7/rex-gym) <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
@@ -367,3 +368,4 @@
 </details>
 
 ---
+
