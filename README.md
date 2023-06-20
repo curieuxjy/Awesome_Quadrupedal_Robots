@@ -21,6 +21,7 @@
 
 - [AiDIN](https://www.aidinrobotics.co.kr/leggedrobot-aidin)
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)
+- [Barkour](https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html)
 - [Cheetah](https://biomimetics.mit.edu/)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
 - [Jueying](https://www.deeprobotics.cn/en/index/product.html)
@@ -42,6 +43,7 @@
 <details>
 <summary><b>2023</b></summary>
 
+- [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
@@ -49,13 +51,16 @@
 - [Drilling Task with a Quadruped Robot for Silage Face Measurements](https://www.researchgate.net/publication/370765569_Drilling_Task_with_a_Quadruped_Robot_for_Silage_Face_Measurements)
 - [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](https://arxiv.org/abs/2305.08962)
 - [Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)
+- [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
+- [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 - [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning Complex Motor Skills for Legged Robot Fall Recovery](https://ieeexplore.ieee.org/document/10138662/)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
+- [LSC: Language-guided Skill Coordination](https://languageguidedskillcoordination.github.io/)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 - [OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors](https://arxiv.org/abs/2210.01247)
 - [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://ieeexplore.ieee.org/abstract/document/10107764)
@@ -368,4 +373,6 @@
 </details>
 
 ---
+
+
 
