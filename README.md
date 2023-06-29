@@ -43,6 +43,7 @@
 <details>
 <summary><b>2023</b></summary>
 
+- [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
 - [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
@@ -54,6 +55,7 @@
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
+- [Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot using Scalable Motion Imitation](https://arxiv.org/abs/2303.15331)
 - [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning Complex Motor Skills for Legged Robot Fall Recovery](https://ieeexplore.ieee.org/document/10138662/)
@@ -66,6 +68,7 @@
 - [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://ieeexplore.ieee.org/abstract/document/10107764)
 - [Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control](https://arxiv.org/abs/2305.10989)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
+- [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
 
 </details>
@@ -132,6 +135,7 @@
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
 - [PSTO: Learning Energy-Efficient Locomotion for Quadruped Robots](https://doi.org/10.3390/machines10030185)
+- [Quadruped Reinforcement Learning without Explicit State Estimation](https://ieeexplore.ieee.org/document/10011765)
 - [Rapid and Reliable Quadruped Motion Planning with Omnidirectional Jumping](https://arxiv.org/abs/2111.13648?context=cs)
 - [Rapid Locomotion via Reinforcement Learning](https://arxiv.org/abs/2205.02824#)
 - [Real-time Digital Double Framework to Predict Collapsible Terrains for Legged Robots](https://arxiv.org/abs/2209.09508)
@@ -159,6 +163,7 @@
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
 - [A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2103.00946)
 - [Adaptive CLF-MPC With Application to Quadrupedal Robots](https://doi.org/10.1109/LRA.2021.3128697)
+- [Adaptive Force-based Control for Legged Robots](https://arxiv.org/abs/2011.06236)
 - [Animal Gaits on Quadrupedal Robots Using Motion Matching and Model-Based Control](https://ieeexplore.ieee.org/document/9635838)
 - [Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning](https://doi.org/10.1109/TRO.2021.3084374)
 - [Circus ANYmal: A Quadruped Learning Dexterous Manipulation with Its Limbs](https://ieeexplore.ieee.org/abstract/document/9561926)
@@ -373,6 +378,8 @@
 </details>
 
 ---
+
+
 
 
 
