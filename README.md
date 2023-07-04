@@ -286,6 +286,7 @@
 - [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square&logo=github)](https://github.com/adham-elarabawy/open-quadruped) <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bdaiinstitute-spot_ros2-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/spot_ros2) <img src="https://img.shields.io/github/stars/bdaiinstitute/spot_ros2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square&logo=github)](https://github.com/danijar/dreamerv3) <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
@@ -378,6 +379,7 @@
 </details>
 
 ---
+
 
 
 
