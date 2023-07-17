@@ -69,6 +69,7 @@
 - [Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control](https://arxiv.org/abs/2305.10989)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
 - [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
+- [Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination](https://arxiv.org/abs/2306.12712)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
 
 </details>
@@ -149,6 +150,7 @@
 - [TROT-Q: Traversability and Obstacle Aware Target Tracking System for Quadruped Robots](https://ieeexplore.ieee.org/document/9828258)
 - [Unsupervised Learning of Terrain Representations for Haptic Monte Carlo Localization](https://ieeexplore.ieee.org/document/9812296)
 - [VAE-Loco: Versatile Quadruped Locomotion by Learning a Disentangled Gait Representation](https://arxiv.org/abs/2205.01179)
+- [Versatile Real-Time Motion Synthesis via Kino-Dynamic MPC with Hybrid-Systems DDP](https://arxiv.org/abs/2209.14138)
 - [Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions](https://arxiv.org/abs/2209.07899)
 - [ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/abs/2210.14791)
 - [ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots](https://ieeexplore.ieee.org/document/9966331)
@@ -379,9 +381,3 @@
 </details>
 
 ---
-
-
-
-
-
-
