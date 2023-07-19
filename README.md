@@ -125,6 +125,7 @@
 - [Learning plastic matching of robot dynamics in closed-loop central pattern generators](https://www.nature.com/articles/s42256-022-00505-4)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
 - [Learning Torque Control for Quadrupedal Locomotion](https://doi.org/10.48550/arXiv.2203.05194)
+- [Learning Visual Locomotion with Cross-Modal Supervision](https://arxiv.org/abs/2211.03785)
 - [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://openreview.net/forum?id=Re3NjSwf0WF)
 - [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://arxiv.org/abs/2203.15854)
 - [Meta Reinforcement Learning for Optimal Design of Legged Robots](https://ieeexplore.ieee.org/abstract/document/9910025)
@@ -288,6 +289,7 @@
 
 - [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square&logo=github)](https://github.com/adham-elarabawy/open-quadruped) <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/antonilo-rl_locomotion-black?style=flat-square&logo=github)](https://github.com/antonilo/rl_locomotion) <img src="https://img.shields.io/github/stars/antonilo/rl_locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-spot_ros2-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/spot_ros2) <img src="https://img.shields.io/github/stars/bdaiinstitute/spot_ros2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
