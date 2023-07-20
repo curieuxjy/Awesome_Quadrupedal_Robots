@@ -46,6 +46,7 @@
 - [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
 - [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
+- [ASC: Adaptive Skill Coordination for Robotic Mobile Manipulation](https://arxiv.org/abs/2304.00410)
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
@@ -385,3 +386,4 @@
 </details>
 
 ---
+
