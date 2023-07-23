@@ -74,6 +74,7 @@
 - [Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination](https://arxiv.org/abs/2306.12712)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
 - [SayTap: Language to Quadrupedal Locomotion](https://arxiv.org/abs/2306.07580)
+- [Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots](https://arxiv.org/abs/2307.10079)
 
 </details>
 
@@ -386,4 +387,5 @@
 </details>
 
 ---
+
 
