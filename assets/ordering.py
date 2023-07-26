@@ -8,6 +8,7 @@ def alphabetordering(grouping_lines):
 
 with open('../README.md', 'r', encoding="UTF-8") as f:
     lines = f.read().split('\n')
+    lines = lines[:-1]
     grouping_lines = []
     for line in lines:
         if line[0:3] == '- [':

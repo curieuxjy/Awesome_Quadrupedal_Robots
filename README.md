@@ -138,6 +138,7 @@
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://ieeexplore.ieee.org/document/9811584)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://arxiv.org/abs/2207.10465)
+- [Online Kinematic Calibration for Legged Robots](https://ieeexplore.ieee.org/document/9807408)
 - [Perceptive Locomotion through Nonlinear Model Predictive Control](https://arxiv.org/abs/2208.08373)
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](https://arxiv.org/abs/2207.13224)
 - [PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains](https://arxiv.org/abs/2208.00322)
