@@ -204,6 +204,7 @@
 - [RMA: Rapid Motor Adaptation for Legged Robots](https://doi.org/10.48550/arXiv.2107.04034)
 - [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [Search-based Kinodynamic Motion Planning for Omnidirectional Quadruped Robots](https://arxiv.org/abs/2011.00806)
+- [Simulation-Based Climbing Capability Analysis for Quadrupedal Robots](https://www.research-collection.ethz.ch/handle/20.500.11850/501538)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
 - [Vision-based Terrain Perception of Quadruped Robots in Complex Environments](https://ieeexplore.ieee.org/document/9739576)
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
@@ -249,6 +250,7 @@
 - [Model Predictive Control for Motion Planning of Quadrupedal Locomotion](https://ieeexplore.ieee.org/document/8834241)
 - [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
 - [Robust Legged Robot State Estimation Using Factor Graph Optimization](https://doi.org/10.1109/LRA.2019.2933768)
+- [SpaceBok: A Dynamic Legged Robot for Space Exploration](https://ieeexplore.ieee.org/document/8794136)
 - [Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://doi.org/10.48550/arXiv.1906.00949)
 - [Whole-body motion and landing force control for quadrupedal stair climbing](https://ieeexplore.ieee.org/document/8967527)
 
@@ -267,6 +269,7 @@
 - [Policy Transfer with Strategy Optimization](https://doi.org/10.48550/arXiv.1810.05751)
 - [Robust rough-terrain locomotion with a quadrupedal robot](https://ieeexplore.ieee.org/document/8460731)
 - [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/document/8460731)
+- [Scalability Analysis of Legged Robots for Space Exploration](https://www.research-collection.ethz.ch/handle/20.500.11850/183684)
 - [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://doi.org/10.48550/arXiv.1804.10332)
 
 </details>
