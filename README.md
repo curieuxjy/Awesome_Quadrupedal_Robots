@@ -58,6 +58,7 @@
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
+- [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 - [Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot using Scalable Motion Imitation](https://arxiv.org/abs/2303.15331)
 - [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
