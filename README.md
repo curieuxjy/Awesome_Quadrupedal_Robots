@@ -68,6 +68,7 @@
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
 - [LSC: Language-guided Skill Coordination](https://languageguidedskillcoordination.github.io/)
+- [LSTP: Long Short-Term Motion Planning for Legged and Legged-Wheeled Systems](https://www.research-collection.ethz.ch/handle/20.500.11850/625515)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 - [OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors](https://arxiv.org/abs/2210.01247)
 - [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://ieeexplore.ieee.org/abstract/document/10107764)
