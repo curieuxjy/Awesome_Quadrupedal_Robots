@@ -83,6 +83,7 @@
 - [Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots](https://arxiv.org/abs/2307.10079)
 - [Solving Challenging Control Problems via Learning-based Motion Planning and Imitation](https://ieeexplore.ieee.org/abstract/document/10202250)
 - [Towards Legged Locomotion on Steep Planetary Terrain](https://www.research-collection.ethz.ch/handle/20.500.11850/625001)
+- [Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation](https://www.science.org/doi/10.1126/scirobotics.adg5014)
 
 </details>
 
