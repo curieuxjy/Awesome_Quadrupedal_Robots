@@ -79,6 +79,7 @@
 - [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
 - [Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination](https://arxiv.org/abs/2306.12712)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
+- [SafeSteps: Learning Safer Footstep Planning Policies for Legged Robots via Model-Based Priors](https://arxiv.org/abs/2307.12664.pdf)
 - [SayTap: Language to Quadrupedal Locomotion](https://arxiv.org/abs/2306.07580)
 - [Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots](https://arxiv.org/abs/2307.10079)
 - [Solving Challenging Control Problems via Learning-based Motion Planning and Imitation](https://ieeexplore.ieee.org/abstract/document/10202250)
