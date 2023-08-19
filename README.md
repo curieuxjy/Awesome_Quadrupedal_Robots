@@ -214,6 +214,7 @@
 - [Robust High-speed Running for Quadruped Robots via Deep Reinforcement Learning](https://arxiv.org/abs/2103.06484)
 - [Search-based Kinodynamic Motion Planning for Omnidirectional Quadruped Robots](https://arxiv.org/abs/2011.00806)
 - [Simulation-Based Climbing Capability Analysis for Quadrupedal Robots](https://www.research-collection.ethz.ch/handle/20.500.11850/501538)
+- [Traversing Steep and Granular Martian Analog Slopes With a Dynamic Quadrupedal Robot](https://arxiv.org/abs/2106.01974)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
 - [Vision-based Terrain Perception of Quadruped Robots in Complex Environments](https://ieeexplore.ieee.org/document/9739576)
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
@@ -225,6 +226,7 @@
 
 - [An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research](https://ieeexplore.ieee.org/document/9015985)
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
+- [Dynamic equilibrium of climbing robots based on stability polyhedron for gravito-inertial acceleration](https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf)
 - [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/abs/1907.01657)
 - [Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning](https://arxiv.org/abs/2004.12974)
 - [First Steps: Latent-Space Control with Semantic Constraints for Quadruped Locomotion](https://arxiv.org/abs/2007.01520)
