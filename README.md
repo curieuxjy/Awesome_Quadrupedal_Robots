@@ -144,6 +144,7 @@
 - [Meta Reinforcement Learning for Optimal Design of Legged Robots](https://ieeexplore.ieee.org/abstract/document/9910025)
 - [Model Predictive Control of Quadruped Robot Based on Reinforcement Learning](https://doi.org/10.3390/app13010154)
 - [Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control](https://arxiv.org/abs/2205.14277)
+- [Multi-Modal Legged Locomotion Framework With Automated Residual Reinforcement Learning](https://ieeexplore.ieee.org/document/9830825)
 - [Neural Scene Representation for Locomotion on Structured Terrain](https://arxiv.org/abs/2206.08077)
 - [Next Steps: Learning a Disentangled Gait Representation for Versatile Quadruped Locomotion](https://ieeexplore.ieee.org/document/9811584)
 - [Nonlinear Model Predictive Control for Quadrupedal Locomotion Using Second-Order Sensitivity Analysis](https://arxiv.org/abs/2207.10465)
