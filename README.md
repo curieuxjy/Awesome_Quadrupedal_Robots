@@ -44,6 +44,10 @@
 <details>
 <summary><b>2023</b></summary>
 
+<center>
+<img src="./assets/2023.png" width="50%" />
+</center>
+
 - [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
 - [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
@@ -93,6 +97,10 @@
 
 <details>
 <summary><b>2022</b></summary>
+
+<center>
+<img src="./assets/2022.png" width="50%" />
+</center>
 
 - [A Collision-Free MPC for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2202.12385v1)
 - [A Linearization of Centroidal Dynamics for the Model-Predictive Control of Quadruped Robots](https://ieeexplore.ieee.org/document/9812433)
@@ -183,6 +191,10 @@
 <details>
 <summary><b>2021</b></summary>
 
+<center>
+<img src="./assets/2021.png" width="50%" />
+</center>
+
 - [A Review of Physics Simulators for Robotic Applications](https://ieeexplore.ieee.org/document/9386154/)
 - [A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation](https://arxiv.org/abs/2103.00946)
 - [Adaptive CLF-MPC With Application to Quadrupedal Robots](https://doi.org/10.1109/LRA.2021.3128697)
@@ -228,6 +240,10 @@
 <details>
 <summary><b>2020</b></summary>
 
+<center>
+<img src="./assets/2020.png" width="50%" />
+</center>
+
 - [An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research](https://ieeexplore.ieee.org/document/9015985)
 - [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 - [Dynamic equilibrium of climbing robots based on stability polyhedron for gravito-inertial acceleration](https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf)
@@ -254,6 +270,10 @@
 <details>
 <summary><b>2019</b></summary>
 
+<center>
+<img src="./assets/2019.png" width="50%" />
+</center>
+
 - [DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning](https://doi.org/10.48550/arXiv.1909.08399)
 - [Design a Fall Recovery Strategy for a Wheel-Legged Quadruped Robot Using Stability Feature Space](https://doi.org/10.1109/ROBIO49542.2019.8961722)
 - [Dynamic Locomotion on Slippery Ground](https://doi.org/10.1109/LRA.2019.2931284)
@@ -274,6 +294,10 @@
 <details>
 <summary><b>2018</b></summary>
 
+<center>
+<img src="./assets/2018.png" width="50%" />
+</center>
+
 - [Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains](https://ieeexplore.ieee.org/document/8460904)
 - [Dynamic locomotion in the MIT Cheetah 3 through convex model-predictive control](https://ieeexplore.ieee.org/document/8594448)
 - [Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization](https://ieeexplore.ieee.org/document/8283570)
@@ -291,6 +315,10 @@
 
 <details>
 <summary><b>~ 2017</b></summary>
+
+<center>
+<img src="./assets/2017.png" width="50%" />
+</center>
 
 - [ANYmal - a highly mobile and dynamic quadrupedal robot](https://doi.org/10.1109/IROS.2016.7758092)
 - [Design of HyQ – a hydraulically and electrically actuated quadruped robot](https://doi.org/10.1177/0959651811402275)
