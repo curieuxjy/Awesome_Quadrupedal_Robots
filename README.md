@@ -22,8 +22,8 @@
 - [AiDIN](https://www.aidinrobotics.co.kr/leggedrobot-aidin)
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html)
 - [Barkour](https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html)
-- [CyberDog 2](https://www.mi.com/cyberdog2)
 - [Cheetah](https://biomimetics.mit.edu/)
+- [CyberDog 2](https://www.mi.com/cyberdog2)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
 - [Jueying](https://www.deeprobotics.cn/en/index/product.html)
 - [Magnecko](https://magnecko.ethz.ch/)
@@ -354,9 +354,11 @@
 - [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square&logo=github)](https://github.com/PetoiCamp/OpenCat) <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robomechanics-quad--sdk-black?style=flat-square&logo=github)](https://github.com/robomechanics/quad-sdk) <img src="https://img.shields.io/github/stars/robomechanics/quad-sdk?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow"> 
+- [![](https://img.shields.io/badge/silvery107-rl--mpc--locomotion-black?style=flat-square&logo=github)](https://github.com/silvery107/rl-mpc-locomotion) <img src="https://img.shields.io/github/stars/silvery107/rl-mpc-locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+
 
 </details>
 
@@ -367,9 +369,9 @@
 <details>
 <summary><b>Channels</b></summary>
 
+- [Agility Robotics](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 - [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
-- [Agility Robotics](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
 - [Boston Dynamics](https://www.youtube.com/user/BostonDynamics)
 - [CMU Robotic Exploration Lab](https://www.youtube.com/@roboticexplorationlab3724)
@@ -417,12 +419,12 @@
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
 - [Boardwalk Robotics](https://boardwalkrobotics.com/Home.html)
 - [Computational Robotics Lab - ETH](http://crl.ethz.ch/)
+- [Dunamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
 - [Dynamic Robot Systems Group - University of Oxford](https://ori.ox.ac.uk/labs/drs/)
-- [Dunamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
-- [Hybrid Robotics Lab - UC Berkely](https://hybrid-robotics.berkeley.edu/)
 - [Human Centered Robotics Laboratory](http://sites.utexas.edu/hcrl/)
+- [Hybrid Robotics Lab - UC Berkely](https://hybrid-robotics.berkeley.edu/)
 - [IHMC Robotics Lab - IHMC](https://robots.ihmc.us/)
 - [RAI Lab - KAIST](https://www.railab.kaist.ac.kr/)
 - [RcLab - Kookmin University](https://rclab.kookmin.ac.kr/home)
