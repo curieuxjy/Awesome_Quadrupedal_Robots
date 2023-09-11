@@ -53,6 +53,7 @@
 - [ASC: Adaptive Skill Coordination for Robotic Mobile Manipulation](https://arxiv.org/abs/2304.00410)
 - [Autonomous Stair Ascending and Descending by Quadruped Wheelchairs](https://ieeexplore.ieee.org/abstract/document/10202377)
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
+- [Curiosity-Driven Learning for Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-)
 - [DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots](https://la.disneyresearch.com/wp-content/uploads/DOC_paper.pdf)
 - [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
@@ -82,6 +83,7 @@
 - [Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control](https://arxiv.org/abs/2305.10989)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
 - [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
+- [Robot Parkour Learning](https://openreview.net/forum?id=uo937r5eTE)
 - [Robust Quadrupedal Locomotion via Risk-Averse Policy Learning](https://arxiv.org/abs/2308.09405)
 - [Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination](https://arxiv.org/abs/2306.12712)
 - [Roll-Drop: accounting for observation noise with a single parameter](https://arxiv.org/abs/2304.13150)
@@ -417,15 +419,11 @@
 <summary><b>Homepages</b></summary>
 
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
-- [Boardwalk Robotics](https://boardwalkrobotics.com/Home.html)
 - [Computational Robotics Lab - ETH](http://crl.ethz.ch/)
-- [Dunamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
 - [Dynamic Robot Systems Group - University of Oxford](https://ori.ox.ac.uk/labs/drs/)
-- [Human Centered Robotics Laboratory](http://sites.utexas.edu/hcrl/)
 - [Hybrid Robotics Lab - UC Berkely](https://hybrid-robotics.berkeley.edu/)
-- [IHMC Robotics Lab - IHMC](https://robots.ihmc.us/)
 - [RAI Lab - KAIST](https://www.railab.kaist.ac.kr/)
 - [RcLab - Kookmin University](https://rclab.kookmin.ac.kr/home)
 - [Robomechanics Lab - Carnegie Mellon University](https://www.cmu.edu/me/robomechanicslab/)
@@ -433,6 +431,21 @@
 - [Robotics Innovatory - SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
 - [Stochastic Robotics Lab (StochLab) - IISc](https://www.stochlab.com/)
 - [The Robotics Lab - IDSIA](https://idsia-robotics.github.io/)
+
+</details>
+
+## Related Materials
+
+<details>
+<summary><b>More</b></summary>
+
+> Extended to Bipedal(Legged) Robots
+
+- [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
+- [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
+- [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
+- [Institute for Human and Machine Cognition - Nadia](https://robots.ihmc.us/)
+
 </details>
 
 ---
