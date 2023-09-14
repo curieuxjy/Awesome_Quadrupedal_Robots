@@ -24,10 +24,10 @@
 - [Barkour](https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html)
 - [Cheetah](https://biomimetics.mit.edu/)
 - [CyberDog 2](https://www.mi.com/cyberdog2)
+- [DeepRobotics](https://www.deeprobotics.cn/en/index/product.html)
 - [HyQ](https://robots.ieee.org/robots/hyq/)
-- [Jueying](https://www.deeprobotics.cn/en/index/product.html)
 - [Magnecko](https://magnecko.ethz.ch/)
-- [Max](https://inf.news/en/tech/f69a953b6a7d8cc44f76f51e53f36cc7.html)
+- [Max](https://www.chinamoneynetwork.com/2021/03/05/tencents-new-robotic-dog-max-has-wheels-on-its-knees-can-travel-at-25km-hour)
 - [PongBot](https://rclab.kookmin.ac.kr/project1/quadruped-robot)
 - [RBQ](https://www.rainbow-robotics.com/en_rbq)
 - [Solo8](https://open-dynamic-robot-initiative.github.io/)
@@ -371,7 +371,6 @@
 <details>
 <summary><b>Channels</b></summary>
 
-- [Agility Robotics](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 - [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
@@ -441,6 +440,7 @@
 
 > Extended to Bipedal(Legged) Robots
 
+- [Agility Robotics](https://www.youtube.com/@AgilityRobotics)
 - [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
 - [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
