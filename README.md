@@ -53,6 +53,7 @@
 - [ASC: Adaptive Skill Coordination for Robotic Mobile Manipulation](https://arxiv.org/abs/2304.00410)
 - [Autonomous Stair Ascending and Descending by Quadruped Wheelchairs](https://ieeexplore.ieee.org/abstract/document/10202377)
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
+- [Barry: A High-Payload and Agile Quadruped Robot](https://ieeexplore.ieee.org/document/10246325)
 - [Curiosity-Driven Learning for Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-)
 - [DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots](https://la.disneyresearch.com/wp-content/uploads/DOC_paper.pdf)
 - [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
