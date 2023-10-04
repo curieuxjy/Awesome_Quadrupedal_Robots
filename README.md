@@ -129,6 +129,7 @@
 - [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 - [DeepPhase: periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/10.1145/3528223.3530178)
 - [Elevation Mapping for Locomotion and Navigation using GPU](https://arxiv.org/abs/2204.12876)
+- [Factor Graph Fusion of Raw GNSS Sensing with IMU and Lidar for Precise Robot Localization without a Base Station](https://arxiv.org/abs/2209.14649)
 - [GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots](https://openreview.net/forum?id=mqry_xMzvCM)
 - [Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots](https://arxiv.org/abs/2209.13145)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
@@ -145,6 +146,7 @@
 - [Learning and Deploying Robust Locomotion Policies with Minimal Dynamics Randomization](https://arxiv.org/abs/2209.12878)
 - [Learning Footstep Planning for the Quadrupedal Locomotion with Model Predictive Control](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_4)
 - [Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation](https://doi.org/10.48550/arXiv.2204.08647)
+- [Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion](https://arxiv.org/abs/2209.14887)
 - [Learning Modular Robot Visual-motor Locomotion Policies](https://arxiv.org/abs/2210.17486)
 - [Learning plastic matching of robot dynamics in closed-loop central pattern generators](https://www.nature.com/articles/s42256-022-00505-4)
 - [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://doi.org/10.1126/scirobotics.abk2822)
@@ -230,6 +232,7 @@
 - [Simulation-Based Climbing Capability Analysis for Quadrupedal Robots](https://www.research-collection.ethz.ch/handle/20.500.11850/501538)
 - [Traversing Steep and Granular Martian Analog Slopes With a Dynamic Quadrupedal Robot](https://arxiv.org/abs/2106.01974)
 - [VILENS: Visual, Inertial, Lidar, and Leg Odometry for All-Terrain Legged Robots](https://doi.org/10.48550/arXiv.2107.07243)
+- [VILENS: Visual, Inertial, Lidar, and Leg Odometryfor All-Terrain Legged Robots](https://arxiv.org/abs/2107.07243)
 - [Vision-based Terrain Perception of Quadruped Robots in Complex Environments](https://ieeexplore.ieee.org/document/9739576)
 - [Visual-Locomotion: Learning to Walk on Complex Terrains with Vision](https://openreview.net/forum?id=NDYbXf-DvwZ)
 
@@ -354,6 +357,7 @@
 - [![](https://img.shields.io/badge/NVIDIA--Omniverse-OmniIsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/OmniIsaacGymEnvs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVIDIA--Omniverse-Orbit-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/Orbit) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/Orbit?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ori-drs_lfmc_gym-black?style=flat-square&logo=github)](https://github.com/ori-drs/lfmc_gym) <img src="https://img.shields.io/github/stars/ori-drs/lfmc_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square&logo=github)](https://github.com/PetoiCamp/OpenCat) <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robomechanics-quad--sdk-black?style=flat-square&logo=github)](https://github.com/robomechanics/quad-sdk) <img src="https://img.shields.io/github/stars/robomechanics/quad-sdk?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow"> 
