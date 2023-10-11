@@ -62,6 +62,7 @@
 - [Drilling Task with a Quadruped Robot for Silage Face Measurements](https://www.researchgate.net/publication/370765569_Drilling_Task_with_a_Quadruped_Robot_for_Silage_Face_Measurements)
 - [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](https://arxiv.org/abs/2305.08962)
 - [Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)
+- [Extreme Parkour with Legged Robots](https://arxiv.org/abs/2309.14341)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
