@@ -283,6 +283,7 @@
 - [Fast and Continuous Foothold Adaptation for Dynamic Locomotion Through CNNs](https://doi.org/10.1109/LRA.2019.2899434)
 - [Feedback MPC for Torque-Controlled Legged Robots](https://doi.org/10.1109/IROS40897.2019.8968251)
 - [Hierarchical Reinforcement Learning for Quadruped Locomotion](https://arxiv.org/abs/1905.08926)
+- [Highly Dynamic Quadruped Locomotion via Whole-Body Impulse Control and Model Predictive Control](https://arxiv.org/abs/1909.06586)
 - [Learning agile and dynamic motor skills for legged robots](https://www.science.org/doi/10.1126/scirobotics.aau5872)
 - [Model Predictive Control for Motion Planning of Quadrupedal Locomotion](https://ieeexplore.ieee.org/document/8834241)
 - [Policies Modulating Trajectory Generators](https://arxiv.org/abs/1910.02812)
