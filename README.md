@@ -88,6 +88,7 @@
 - [Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control](https://arxiv.org/abs/2305.10989)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
 - [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
+- [RoboHive: A Unified Framework for Robot Learning](https://arxiv.org/abs/2310.06828)
 - [Robot Parkour Learning](https://openreview.net/forum?id=uo937r5eTE)
 - [Robust Quadrupedal Locomotion via Risk-Averse Policy Learning](https://arxiv.org/abs/2308.09405)
 - [Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination](https://arxiv.org/abs/2306.12712)
@@ -373,6 +374,7 @@
 - [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
 
 
 
