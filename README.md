@@ -330,6 +330,7 @@
 - [State Estimation for Legged Robots - Consistent Fusion of Leg Kinematics and IMU](https://doi.org/10.7551/mitpress/9816.001.0001)
 - [Survey of Numerical Methods for Trajectory Optimization](https://arc.aiaa.org/doi/10.2514/2.4231)
 - [Terrain-adaptive locomotion skills using deep reinforcement learning](https://dl.acm.org/doi/10.1145/2897824.2925881)
+- [Tumble stability criterion of integrated locomotion and manipulation](https://ieeexplore.ieee.org/document/571067)
 - [Wholebody trajectory optimization for non-periodic dynamic motions on quadrupedal systems](https://ieeexplore.ieee.org/document/7989623)
 
 </details>
