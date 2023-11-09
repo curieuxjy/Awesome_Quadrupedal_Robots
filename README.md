@@ -55,6 +55,7 @@
 - [Barkour: Benchmarking Animal-level Agility with Quadruped Robots](https://arxiv.org/abs/2305.14654)
 - [Barry: A High-Payload and Agile Quadruped Robot](https://ieeexplore.ieee.org/document/10246325)
 - [Curiosity-Driven Learning for Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-)
+- [Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-&referrer=%5Bthe%20profile%20of%20Marco%20Hutter%5D(%2Fprofile%3Fid%3D~Marco_Hutter1))
 - [DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots](https://la.disneyresearch.com/wp-content/uploads/DOC_paper.pdf)
 - [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
