@@ -71,6 +71,7 @@
 - [Guardians as You Fall: Active Mode Transition for Safe Falling](https://arxiv.org/abs/2310.04828)
 - [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
+- [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://ieeexplore.ieee.org/document/10281391)
 - [Learning a Single Policy for Diverse Behaviors on a Quadrupedal Robot using Scalable Motion Imitation](https://arxiv.org/abs/2303.15331)
 - [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
