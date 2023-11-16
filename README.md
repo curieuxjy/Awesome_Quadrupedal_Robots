@@ -78,6 +78,7 @@
 - [Learning Complex Motor Skills for Legged Robot Fall Recovery](https://ieeexplore.ieee.org/document/10138662/)
 - [Learning Impulse-Reduced Gait for Quadruped Robot using CMA-ES](https://ieeexplore.ieee.org/abstract/document/10202519)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
+- [Learning to Exploit Elastic Actuators for Quadruped Locomotion](https://arxiv.org/abs/2209.07171)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
 - [LSC: Language-guided Skill Coordination](https://languageguidedskillcoordination.github.io/)
