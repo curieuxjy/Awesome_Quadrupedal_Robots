@@ -151,7 +151,6 @@
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
 - [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
-- [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
 - [Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning](https://arxiv.org/abs/2204.13336)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 - [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/abs/2211.15657)
