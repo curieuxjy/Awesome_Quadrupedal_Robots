@@ -69,6 +69,7 @@
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
 - [Geometric Mechanics of Contact-Switching Systems](https://arxiv.org/abs/2306.10276)
 - [Guardians as You Fall: Active Mode Transition for Safe Falling](https://arxiv.org/abs/2310.04828)
+- [Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal](https://arxiv.org/abs/2311.08354)
 - [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://ieeexplore.ieee.org/document/10281391)
