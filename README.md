@@ -47,6 +47,7 @@
 
 <img src="./assets/2023.png" width="100%" class="center"/>
 
+- [Adaptive walking control for quadruped robot by using oscillation patterns](https://www.nature.com/articles/s42256-022-00576-3)
 - [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
 - [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
 - [ArtPlanner: Robust Legged Robot Navigation in the Field](https://arxiv.org/abs/2303.01420)
@@ -70,6 +71,7 @@
 - [Geometric Mechanics of Contact-Switching Systems](https://arxiv.org/abs/2306.10276)
 - [Guardians as You Fall: Active Mode Transition for Safe Falling](https://arxiv.org/abs/2310.04828)
 - [Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal](https://arxiv.org/abs/2311.08354)
+- [Identifying important sensory feedback for learning locomotion skills](https://www.nature.com/articles/s42256-023-00701-w)
 - [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://ieeexplore.ieee.org/document/10281391)
@@ -148,6 +150,7 @@
 - [Hierarchical Adaptive Loco-manipulation Control for Quadruped Robots](https://arxiv.org/abs/2209.13145)
 - [Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent](https://arxiv.org/abs/2210.08003)
 - [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
+- [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
 - [High-speed quadrupedal locomotion by imitation-relaxation reinforcement learning](https://www.nature.com/articles/s42256-022-00576-3)
 - [Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning](https://arxiv.org/abs/2204.13336)
 - [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
