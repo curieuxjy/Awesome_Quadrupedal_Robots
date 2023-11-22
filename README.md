@@ -94,6 +94,7 @@
 - [PyPose: A Library for Robot Learning with Physics-based Optimization](https://arxiv.org/abs/2209.15428)
 - [Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control](https://arxiv.org/abs/2305.10989)
 - [Reinforcement Learning from Multiple Sensors via Joint Representations](https://arxiv.org/abs/2302.05342)
+- [Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End](https://arxiv.org/abs/2310.03581)
 - [Responsive CPG-Based Locomotion Control for Quadruped Robots](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_22)
 - [RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion](https://arxiv.org/abs/2305.17842)
 - [RoboHive: A Unified Framework for Robot Learning](https://arxiv.org/abs/2310.06828)
