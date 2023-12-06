@@ -130,6 +130,7 @@
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
 - [Animal Motions on Legged Robots Using Nonlinear Model Predictive Control](https://ieeexplore.ieee.org/document/9981945)
+- [Bio-Inspired Rhythmic Locomotion for Quadruped Robots](https://ieeexplore.ieee.org/document/9780216)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
 - [Collision-Backpropagation based Obstacle Avoidance Method for a Legged Robot Expressed as a Simplified Dynamics Model](https://ieeexplore.ieee.org/document/10003733)
