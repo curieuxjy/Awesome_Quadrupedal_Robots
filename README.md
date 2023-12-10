@@ -384,8 +384,8 @@
 - [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
-
 
 
 </details>
