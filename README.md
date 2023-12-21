@@ -58,6 +58,7 @@
 - [Combining model-predictive control and predictive reinforcement learning for stable quadrupedal robot locomotion](https://arxiv.org/abs/2307.07752)
 - [Curiosity-Driven Learning for Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-)
 - [Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks](https://openreview.net/forum?id=QG_ERxtDAP-&referrer=%5Bthe%20profile%20of%20Marco%20Hutter%5D(%2Fprofile%3Fid%3D~Marco_Hutter1))
+- [DeepTransition: Viability Leads to the Emergence of Gait Transitions in Learning Anticipatory Quadrupedal Locomotion Skills](https://arxiv.org/abs/2306.07419)
 - [DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots](https://la.disneyresearch.com/wp-content/uploads/DOC_paper.pdf)
 - [Dojo: A Differentiable Physics Engine for Robotics](https://arxiv.org/abs/2203.00806)
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
@@ -72,6 +73,7 @@
 - [Guardians as You Fall: Active Mode Transition for Safe Falling](https://arxiv.org/abs/2310.04828)
 - [Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal](https://arxiv.org/abs/2311.08354)
 - [Identifying important sensory feedback for learning locomotion skills](https://www.nature.com/articles/s42256-023-00701-w)
+- [Intelligent Control of Multilegged Robot Smooth Motion: A Review](https://ieeexplore.ieee.org/document/10216974)
 - [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 - [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 - [Layered Control for Cooperative Locomotion of Two Quadrupedal Robots: Centralized and Distributed Approaches](https://ieeexplore.ieee.org/document/10281391)
@@ -470,6 +472,7 @@
 
 **Research**
 
+- [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
 
 **Labs & Companies**
