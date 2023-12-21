@@ -467,6 +467,13 @@
 
 > Extended to Bipedal(Legged) Robots
 
+
+**Research**
+
+- [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
+
+**Labs & Companies**
+
 - [Agility Robotics](https://www.youtube.com/@AgilityRobotics)
 - [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
 - [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
