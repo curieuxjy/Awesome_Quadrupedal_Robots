@@ -43,10 +43,18 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 <details>
+<summary><b>2024</b></summary>
+
+- [TBD]()
+
+</details>
+
+<details>
 <summary><b>2023</b></summary>
 
 <img src="./assets/2023.png" width="100%" class="center"/>
 
+- [Adaptive Locomotion Learning for Quadruped Robots by Combining DRL with a Cosine Oscillator Based Rhythm Controller](https://www.mdpi.com/2076-3417/13/19/11045)
 - [Adaptive walking control for quadruped robot by using oscillation patterns](https://www.nature.com/articles/s42256-022-00576-3)
 - [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
 - [ARMP: Autoregressive Motion Planning for Quadruped Locomotion and Navigation in Complex Indoor Environments](https://arxiv.org/abs/2303.15900)
