@@ -77,6 +77,7 @@
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning](https://arxiv.org/abs/2305.11107)
 - [Geometric Mechanics of Contact-Switching Systems](https://arxiv.org/abs/2306.10276)
+- [Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion](https://arxiv.org/abs/2310.17634)
 - [Guardians as You Fall: Active Mode Transition for Safe Falling](https://arxiv.org/abs/2310.04828)
 - [Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal](https://arxiv.org/abs/2311.08354)
 - [Identifying important sensory feedback for learning locomotion skills](https://www.nature.com/articles/s42256-023-00701-w)
