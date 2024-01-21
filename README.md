@@ -45,7 +45,7 @@
 <details>
 <summary><b>2024</b></summary>
 
-- [TBD]()
+- [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
 
 </details>
 
@@ -71,6 +71,7 @@
 - [DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning](https://arxiv.org/abs/2301.10602)
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
 - [Drilling Task with a Quadruped Robot for Silage Face Measurements](https://www.researchgate.net/publication/370765569_Drilling_Task_with_a_Quadruped_Robot_for_Silage_Face_Measurements)
+- [DTC: Deep Tracking Control - A Unifying Approach to Model-Based Planning and Reinforcement-Learning for Versatile and Robust Locomotion](https://arxiv.org/abs/2309.15462)
 - [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](https://arxiv.org/abs/2305.08962)
 - [Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)
 - [Extreme Parkour with Legged Robots](https://arxiv.org/abs/2309.14341)
@@ -90,6 +91,7 @@
 - [Learning Arm-Assisted Fall Damage Reduction and Recovery for Legged Mobile Manipulators](https://www.research-collection.ethz.ch/handle/20.500.11850/595246)
 - [Learning Complex Motor Skills for Legged Robot Fall Recovery](https://ieeexplore.ieee.org/document/10138662/)
 - [Learning Impulse-Reduced Gait for Quadruped Robot using CMA-ES](https://ieeexplore.ieee.org/abstract/document/10202519)
+- [Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion](https://arxiv.org/abs/2209.14887)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Learning to Exploit Elastic Actuators for Quadruped Locomotion](https://arxiv.org/abs/2209.07171)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
@@ -119,6 +121,7 @@
 - [SayTap: Language to Quadrupedal Locomotion](https://arxiv.org/abs/2306.07580)
 - [Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots](https://arxiv.org/abs/2307.10079)
 - [Skill Graph for Real-world Quadrupedal Robot Reinforcement Learning](https://openreview.net/forum?id=vdm4WnG5u-M)
+- [SLoMo: A General System for Legged Robot Motion Imitation From Casual Videos](https://ieeexplore.ieee.org/abstract/document/10246373)
 - [Solving Challenging Control Problems via Learning-based Motion Planning and Imitation](https://ieeexplore.ieee.org/abstract/document/10202250)
 - [Taking the First Step Toward Autonomous Quadruped Robots: The Quadruped Robot Challenge at ICRA 2023 in London [Competitions]](https://doi.org/10.1109/MRA.2023.3293296)
 - [Towards Legged Locomotion on Steep Planetary Terrain](https://www.research-collection.ethz.ch/handle/20.500.11850/625001)
@@ -486,6 +489,9 @@
 - [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
+
+**Github Repositories**
+- [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
 **Labs & Companies**
 
