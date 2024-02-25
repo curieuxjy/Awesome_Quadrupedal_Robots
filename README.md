@@ -104,6 +104,7 @@
 - [Learning to Exploit Elastic Actuators for Quadruped Locomotion](https://arxiv.org/abs/2209.07171)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
 - [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
+- [Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models](https://arxiv.org/abs/2308.15143)
 - [LSC: Language-guided Skill Coordination](https://languageguidedskillcoordination.github.io/)
 - [LSTP: Long Short-Term Motion Planning for Legged and Legged-Wheeled Systems](https://www.research-collection.ethz.ch/handle/20.500.11850/625515)
 - [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
