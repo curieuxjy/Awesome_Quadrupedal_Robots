@@ -501,6 +501,7 @@
 
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
 - [Hybrid Stepping Motion Generation for Wheeled-Bipedal Robots Without Roll Joints on Legs](https://ieeexplore.ieee.org/abstract/document/10406411)
+- [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 - [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
@@ -508,6 +509,7 @@
 
 **Github Repositories**
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
 
 **Labs & Companies**
