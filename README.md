@@ -45,6 +45,8 @@
 <details>
 <summary><b>2024</b></summary>
 
+<img src="./assets/2024.png" width="100%" class="center"/>
+
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Deep Compliant Control for Legged Robots](TBD)
@@ -53,6 +55,7 @@
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
 - [Learning to walk in confined spaces using 3D representation](https://arxiv.org/abs/2403.00187)
 - [Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network](https://arxiv.org/abs/2402.00366)
+- [ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots](https://arxiv.org/abs/2310.10486)
 - [OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering](https://arxiv.org/abs/2401.16719)
 - [Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg](https://arxiv.org/abs/2402.10837)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
