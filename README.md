@@ -165,6 +165,7 @@
 - [Advanced Skills through Multiple Adversarial Motion Priors in Reinforcement Learning](https://doi.org/10.48550/arXiv.2203.14912)
 - [Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot](https://www.science.org/doi/10.1126/scirobotics.add1017)
 - [Animal Motions on Legged Robots Using Nonlinear Model Predictive Control](https://ieeexplore.ieee.org/document/9981945)
+- [Articulated Object Interaction in Unknown Scenes with Whole-Body Mobile Manipulation](https://arxiv.org/abs/2103.10534)
 - [Bio-Inspired Rhythmic Locomotion for Quadruped Robots](https://ieeexplore.ieee.org/document/9780216)
 - [Central pattern generators evolved for real-time adaptation](https://arxiv.org/abs/2210.08102)
 - [Cerberus: Low-Drift Visual-Inertial-Leg Odometry For Agile Locomotion](https://arxiv.org/abs/2209.07654)
@@ -505,7 +506,6 @@
 
 > Extended to Bipedal(Legged) Robots
 
-
 **Research**
 
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
@@ -515,6 +515,7 @@
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
+- [Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning](https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1)
 
 **Github Repositories**
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
