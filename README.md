@@ -47,6 +47,7 @@
 
 <img src="./assets/2024.png" width="100%" class="center"/>
 
+- [MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment](https://ziyanx02.github.io/multiagent-quadruped-environment/)
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control](https://arxiv.org/abs/2403.03995)
