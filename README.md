@@ -65,7 +65,9 @@
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
+- [ViPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/abs/2310.00982)
 - [Visual Whole-Body Control for Legged Loco-Manipulation](https://arxiv.org/abs/2403.16967)
+- [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275)
 
 </details>
 
@@ -408,6 +410,7 @@
 - [![](https://img.shields.io/badge/antonilo-rl_locomotion-black?style=flat-square&logo=github)](https://github.com/antonilo/rl_locomotion) <img src="https://img.shields.io/github/stars/antonilo/rl_locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/AtsushiSakai-PythonRobotics-black?style=flat-square&logo=github)](https://github.com/AtsushiSakai/PythonRobotics) <img src="https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-spot_ros2-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/spot_ros2) <img src="https://img.shields.io/github/stars/bdaiinstitute/spot_ros2?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/vlfm) <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square&logo=github)](https://github.com/danijar/dreamerv3) <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
@@ -421,6 +424,7 @@
 - [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-viplanner-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/viplanner) <img src="https://img.shields.io/github/stars/leggedrobotics/viplanner?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square&logo=github)](https://github.com/nicrusso7/rex-gym) <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square&logo=github)](https://github.com/NM512/dreamerv3-torch) <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVIDIA--Omniverse-IsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs?style=flat-square&color=yellow">
@@ -438,7 +442,6 @@
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
-
 
 </details>
 
