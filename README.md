@@ -53,6 +53,7 @@
 - [Deep Compliant Control for Legged Robots](TBD)
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
 - [Enhancing Quadruped Robot Locomotion on Deformable Terrains Through Contact Perception and Terrain Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682648)
+- [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
@@ -66,6 +67,7 @@
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Understanding URDF: A Dataset and Analysis](https://ieeexplore.ieee.org/abstract/document/10478618)
+- [Viability leads to the emergence of gait transitions in learning agile quadrupedal locomotion on challenging terrains](https://www.nature.com/articles/s41467-024-47443-w)
 - [ViPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/abs/2310.00982)
 - [Visual Whole-Body Control for Legged Loco-Manipulation](https://arxiv.org/abs/2403.16967)
 - [VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation](https://arxiv.org/abs/2312.03275)
@@ -457,6 +459,7 @@
 - [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT)
 - [ANYbotics](https://www.youtube.com/channel/UC1B-ML60I2hKTvygvMjubnw)
 - [Biomimetics MIT](https://www.youtube.com/user/MITbiomimetics)
+- [BIOROB](https://www.youtube.com/@epflbiorob)
 - [Boston Dynamics](https://www.youtube.com/user/BostonDynamics)
 - [CMU Robotic Exploration Lab](https://www.youtube.com/@roboticexplorationlab3724)
 - [cmurobotics](https://www.youtube.com/user/cmurobotics/featured)
@@ -501,6 +504,7 @@
 <summary><b>Homepages</b></summary>
 
 - [Biomimetic Robotics Lab - MIT](https://biomimetics.mit.edu/)
+- [Biorobotics Laboratory (BioRob) - EPFL](https://www.epfl.ch/labs/biorob/)
 - [Computational Robotics Lab - ETH](http://crl.ethz.ch/)
 - [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory - University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page/)
 - [Dynamic Legged Systems Lab - Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
