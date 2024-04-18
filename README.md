@@ -50,6 +50,7 @@
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control](https://arxiv.org/abs/2403.03995)
+- [Contrastive Initial State Buffer for Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)
 - [Deep Compliant Control for Legged Robots](TBD)
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
 - [Enhancing Quadruped Robot Locomotion on Deformable Terrains Through Contact Perception and Terrain Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682648)
