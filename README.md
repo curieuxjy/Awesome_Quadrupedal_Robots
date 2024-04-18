@@ -122,6 +122,7 @@
 - [Learning Impulse-Reduced Gait for Quadruped Robot using CMA-ES](https://ieeexplore.ieee.org/abstract/document/10202519)
 - [Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion](https://arxiv.org/abs/2209.14887)
 - [Learning Multiple Gaits within Latent Space for Quadruped Robots](https://arxiv.org/abs/2308.03014)
+- [Learning Quadruped Locomotion using Bio-Inspired Neural Networks with Intrinsic Rhythmicity](https://arxiv.org/abs/2305.07300)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
 - [Learning Robust Perception-Based Controller for Quadruped Robot](https://ieeexplore.ieee.org/document/10237187)
 - [Learning to Exploit Elastic Actuators for Quadruped Locomotion](https://arxiv.org/abs/2209.07171)
@@ -548,6 +549,7 @@
 
 - [Agility Robotics](https://www.youtube.com/@AgilityRobotics)
 - [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
+- [Boston Dynamics - Electric Altas](https://bostondynamics.com/blog/electric-new-era-for-atlas)
 - [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
 - [Institute for Human and Machine Cognition - Nadia](https://robots.ihmc.us/)
