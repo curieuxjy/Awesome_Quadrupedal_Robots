@@ -71,6 +71,7 @@
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
+- [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
 - [Understanding URDF: A Dataset and Analysis](https://ieeexplore.ieee.org/abstract/document/10478618)
 - [Viability leads to the emergence of gait transitions in learning agile quadrupedal locomotion on challenging terrains](https://www.nature.com/articles/s41467-024-47443-w)
 - [ViPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/abs/2310.00982)
