@@ -51,6 +51,7 @@
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control](https://arxiv.org/abs/2403.03995)
 - [Contrastive Initial State Buffer for Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)
+- [Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots](https://arxiv.org/abs/2304.00346)
 - [Deep Compliant Control for Legged Robots](TBD)
 - [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/assets/dreureka-paper.pdf)
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
