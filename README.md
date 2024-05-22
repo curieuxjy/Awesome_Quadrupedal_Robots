@@ -416,6 +416,7 @@
 <details>
 <summary><b>Repositories</b></summary>
 
+- [![](https://img.shields.io/badge/abizovnuralem-go2_omniverse-black?style=flat-square&logo=github)](https://github.com/abizovnuralem/go2_omniverse) <img src="https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/adham--elarabawy-open--quadruped-black?style=flat-square&logo=github)](https://github.com/adham-elarabawy/open-quadruped) <img src="https://img.shields.io/github/stars/adham-elarabawy/open-quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/antonilo-rl_locomotion-black?style=flat-square&logo=github)](https://github.com/antonilo/rl_locomotion) <img src="https://img.shields.io/github/stars/antonilo/rl_locomotion?style=flat-square&color=yellow">
@@ -455,6 +456,7 @@
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
+
 
 </details>
 
