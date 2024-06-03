@@ -58,6 +58,7 @@
 - [Enhancing Quadruped Robot Locomotion on Deformable Terrains Through Contact Perception and Terrain Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682648)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)
+- [H2- and H∞-Optimal Model Predictive Controllers for Robust Legged Locomotion](https://ieeexplore.ieee.org/document/10543084)
 - [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/pdf/2403.17846.pdf)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
@@ -146,6 +147,7 @@
 - [OPT-Mimic: Imitation of Optimized Trajectories for Dynamic Quadruped Behaviors](https://arxiv.org/abs/2210.01247)
 - [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://ieeexplore.ieee.org/abstract/document/10107764)
 - [Orthrus: A Dual-arm Quadrupedal Robot for Mobile Manipulation and Entertainment Applications](https://ieeexplore.ieee.org/document/10309339)
+- [Perceptive Locomotion Through Nonlinear Model-Predictive Control](https://ieeexplore.ieee.org/abstract/document/10138309)
 - [Puppeteer and Marionette: Learning Anticipatory Quadrupedal Locomotion Based on Interactions of a Central Pattern Generator and Supraspinal Drive](https://arxiv.org/abs/2302.13378)
 - [PyPose: A Library for Robot Learning with Physics-based Optimization](https://arxiv.org/abs/2209.15428)
 - [QUAR-VLA: Vision-Language-Action Model for Quadruped Robots](https://arxiv.org/abs/2312.14457)
@@ -171,6 +173,7 @@
 - [Towards Legged Locomotion on Steep Planetary Terrain](https://www.research-collection.ethz.ch/handle/20.500.11850/625001)
 - [Tuning Legged Locomotion Controllers via Safe Bayesian Optimization](https://arxiv.org/abs/2306.07092)
 - [Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation](https://www.science.org/doi/10.1126/scirobotics.adg5014)
+
 
 </details>
 
@@ -437,6 +440,7 @@
 - [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow"> 
 - [![](https://img.shields.io/badge/google-brax-black?style=flat-square&logo=github)](https://github.com/google/brax) <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/isaac--sim-IsaacLab-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-viplanner-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/viplanner) <img src="https://img.shields.io/github/stars/leggedrobotics/viplanner?style=flat-square&color=yellow">
@@ -444,7 +448,6 @@
 - [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square&logo=github)](https://github.com/NM512/dreamerv3-torch) <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVIDIA--Omniverse-IsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacGymEnvs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVIDIA--Omniverse-OmniIsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/OmniIsaacGymEnvs?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/NVIDIA--Omniverse-Orbit-black?style=flat-square&logo=github)](https://github.com/NVIDIA-Omniverse/Orbit) <img src="https://img.shields.io/github/stars/NVIDIA-Omniverse/Orbit?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ori-drs_lfmc_gym-black?style=flat-square&logo=github)](https://github.com/ori-drs/lfmc_gym) <img src="https://img.shields.io/github/stars/ori-drs/lfmc_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/PetoiCamp-OpenCat-black?style=flat-square&logo=github)](https://github.com/PetoiCamp/OpenCat) <img src="https://img.shields.io/github/stars/PetoiCamp/OpenCat?style=flat-square&color=yellow">
