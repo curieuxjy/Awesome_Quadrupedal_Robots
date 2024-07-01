@@ -70,6 +70,7 @@
 - [ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots](https://arxiv.org/abs/2310.10486)
 - [MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment](https://arxiv.org/abs/2403.16015)
 - [OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering](https://arxiv.org/abs/2401.16719)
+- [Oscillating latent dynamics in robot systems during walking and reaching](https://www.nature.com/articles/s41598-024-61610-5)
 - [Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg](https://arxiv.org/abs/2402.10837)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
