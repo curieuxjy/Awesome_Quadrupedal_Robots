@@ -49,6 +49,7 @@
 
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
+- [Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot](https://arxiv.org/abs/2403.16535)
 - [Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control](https://arxiv.org/abs/2403.03995)
 - [Contrastive Initial State Buffer for Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)
 - [Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots](https://arxiv.org/abs/2304.00346)
@@ -77,7 +78,9 @@
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots](https://arxiv.org/abs/2312.16839)
+- [SYNLOCO‐VE: Synthesizing central pattern generator with reinforcement learning and velocity estimator for quadruped locomotion](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3181)
 - [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
+- [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353)
 - [Understanding URDF: A Dataset and Analysis](https://ieeexplore.ieee.org/abstract/document/10478618)
 - [Viability leads to the emergence of gait transitions in learning agile quadrupedal locomotion on challenging terrains](https://www.nature.com/articles/s41467-024-47443-w)
 - [ViPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/abs/2310.00982)
@@ -172,6 +175,7 @@
 - [Skill Graph for Real-world Quadrupedal Robot Reinforcement Learning](https://openreview.net/forum?id=vdm4WnG5u-M)
 - [SLoMo: A General System for Legged Robot Motion Imitation From Casual Videos](https://ieeexplore.ieee.org/abstract/document/10246373)
 - [Solving Challenging Control Problems via Learning-based Motion Planning and Imitation](https://ieeexplore.ieee.org/abstract/document/10202250)
+- [SYNLOCO: Synthesizing Central Pattern Generator and Reinforcement Learning for Quadruped Locomotion](https://arxiv.org/abs/2310.06606)
 - [Taking the First Step Toward Autonomous Quadruped Robots: The Quadruped Robot Challenge at ICRA 2023 in London [Competitions]](https://doi.org/10.1109/MRA.2023.3293296)
 - [Terrain-Aware Quadrupedal Locomotion via Reinforcement Learning](https://arxiv.org/abs/2310.04675)
 - [Towards Legged Locomotion on Steep Planetary Terrain](https://www.research-collection.ethz.ch/handle/20.500.11850/625001)
@@ -463,7 +467,9 @@
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/vaCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
+
 
 
 </details>
