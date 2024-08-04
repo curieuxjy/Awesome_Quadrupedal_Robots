@@ -67,9 +67,11 @@
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
 - [Learning robust autonomous navigation and locomotion for wheeled-legged robots](https://www.science.org/doi/10.1126/scirobotics.adi9641)
 - [Learning to walk in confined spaces using 3D representation](https://arxiv.org/abs/2403.00187)
+- [Learning-Based Locomotion Controllers for Quadruped Robots in Indoor Stair Climbing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10594976)
 - [Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network](https://arxiv.org/abs/2402.00366)
 - [ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots](https://arxiv.org/abs/2310.10486)
 - [MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment](https://arxiv.org/abs/2403.16015)
+- [Online Hierarchical Planning for Multicontact Locomotion Control of Quadruped Robots](https://ieeexplore.ieee.org/abstract/document/10614673)
 - [OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering](https://arxiv.org/abs/2401.16719)
 - [Oscillating latent dynamics in robot systems during walking and reaching](https://www.nature.com/articles/s41598-024-61610-5)
 - [Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg](https://arxiv.org/abs/2402.10837)
@@ -78,6 +80,7 @@
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots](https://arxiv.org/abs/2312.16839)
+- [Skill Latent Space Based Multigait Learning for a Legged Robot](https://ieeexplore.ieee.org/abstract/document/10612828)
 - [SYNLOCO‐VE: Synthesizing central pattern generator with reinforcement learning and velocity estimator for quadruped locomotion](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3181)
 - [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
 - [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353)
@@ -554,6 +557,7 @@
 
 **Research**
 
+- [Berkeley Humanoid: A Research Platform for Learning-based Control](https://arxiv.org/abs/2407.21781)
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
 - [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/HumanPlus.pdf)
 - [Hybrid Stepping Motion Generation for Wheeled-Bipedal Robots Without Roll Joints on Legs](https://ieeexplore.ieee.org/abstract/document/10406411)
