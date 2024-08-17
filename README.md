@@ -50,6 +50,7 @@
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot](https://arxiv.org/abs/2403.16535)
+- [Body Transformer: Leveraging Robot Embodiment for Policy Learning](https://arxiv.org/abs/2408.06316)
 - [Cafe-Mpc: A Cascaded-Fidelity Model Predictive Control Framework with Tuning-Free Whole-Body Control](https://arxiv.org/abs/2403.03995)
 - [Contrastive Initial State Buffer for Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)
 - [Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots](https://arxiv.org/abs/2304.00346)
@@ -441,6 +442,7 @@
 - [![](https://img.shields.io/badge/bdaiinstitute-spot_ros2-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/spot_ros2) <img src="https://img.shields.io/github/stars/bdaiinstitute/spot_ros2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/vlfm) <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/carlosferrazza-BodyTransformer-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/BodyTransformer) <img src="https://img.shields.io/github/stars/carlosferrazza/BodyTransformer?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Daniella1-urdf_files_dataset-black?style=flat-square&logo=github)](https://github.com/Daniella1/urdf_files_dataset) <img src="https://img.shields.io/github/stars/Daniella1/urdf_files_dataset?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square&logo=github)](https://github.com/danijar/dreamerv3) <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
@@ -474,7 +476,6 @@
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vaCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
-
 
 
 </details>
@@ -561,6 +562,7 @@
 
 - [Berkeley Humanoid: A Research Platform for Learning-based Control](https://arxiv.org/abs/2407.21781)
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
+- [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://arxiv.org/abs/2403.10506)
 - [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/HumanPlus.pdf)
 - [Hybrid Stepping Motion Generation for Wheeled-Bipedal Robots Without Roll Joints on Legs](https://ieeexplore.ieee.org/abstract/document/10406411)
 - [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662)
@@ -573,6 +575,7 @@
 
 **Github Repositories**
 
+- [![](https://img.shields.io/badge/carlosferrazza-humanoid--bench-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/humanoid-bench) <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MarkFzp-humanplus-black?style=flat-square&logo=github)](https://github.com/MarkFzp/humanplus) <img src="https://img.shields.io/github/stars/MarkFzp/humanplus?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pocketxjl-humanoid--control-black?style=flat-square&logo=github)](https://github.com/pocketxjl/humanoid-control) <img src="https://img.shields.io/github/stars/pocketxjl/humanoid-control?style=flat-square&color=yellow">
