@@ -47,6 +47,7 @@
 
 <img src="./assets/2024.png" width="100%" class="center"/>
 
+- [A Study of Lightweight, Low-cost Quadrupedal Robot Body Based on a Coaxial Deformation Mechanism](https://ieeexplore.ieee.org/abstract/document/10632940)
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
 - [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 - [Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot](https://arxiv.org/abs/2403.16535)
@@ -64,6 +65,7 @@
 - [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)
 - [H2- and H∞-Optimal Model Predictive Controllers for Robust Legged Locomotion](https://ieeexplore.ieee.org/document/10543084)
 - [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/pdf/2403.17846.pdf)
+- [Jumping Locomotion of Quadruped Robot During Running Based on Multiple Model Fusion](https://ieeexplore.ieee.org/abstract/document/10633053)
 - [Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors](https://arxiv.org/abs/2407.02282)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
@@ -561,6 +563,7 @@
 **Research**
 
 - [Berkeley Humanoid: A Research Platform for Learning-based Control](https://arxiv.org/abs/2407.21781)
+- [CusADi: A GPU Parallelization Framework for Symbolic Expressions and Optimal Control](https://arxiv.org/pdf/2408.09662)
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
 - [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://arxiv.org/abs/2403.10506)
 - [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/HumanPlus.pdf)
@@ -589,6 +592,7 @@
 - [Boston Dynamics - Electric Altas](https://bostondynamics.com/blog/electric-new-era-for-atlas)
 - [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
+- [Hybrid Robotics - Berkeley Humanoid](https://berkeley-humanoid.com/)
 - [Institute for Human and Machine Cognition - Nadia](https://robots.ihmc.us/)
 - [Unitree - G1](https://mp.weixin.qq.com/s/RGNVRazZqDn3y_Ijemc5Kw)
 
