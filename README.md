@@ -579,11 +579,13 @@
 **Github Repositories**
 
 - [![](https://img.shields.io/badge/carlosferrazza-humanoid--bench-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/humanoid-bench) <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/jonyzhang2023-awesome--humanoid--learning-black?style=flat-square&logo=github)](https://github.com/jonyzhang2023/awesome-humanoid-learning) <img src="https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MarkFzp-humanplus-black?style=flat-square&logo=github)](https://github.com/MarkFzp/humanplus) <img src="https://img.shields.io/github/stars/MarkFzp/humanplus?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pocketxjl-humanoid--control-black?style=flat-square&logo=github)](https://github.com/pocketxjl/humanoid-control) <img src="https://img.shields.io/github/stars/pocketxjl/humanoid-control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
+
 
 **Labs & Companies**
 
