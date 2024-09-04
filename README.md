@@ -65,6 +65,7 @@
 - [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)
 - [H2- and H∞-Optimal Model Predictive Controllers for Robust Legged Locomotion](https://ieeexplore.ieee.org/document/10543084)
 - [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/pdf/2403.17846.pdf)
+- [Identifying Terrain Physical Parameters from Vision - Towards Physical-Parameter-Aware Locomotion and Navigation](https://arxiv.org/abs/2408.16567)
 - [Jumping Locomotion of Quadruped Robot During Running Based on Multiple Model Fusion](https://ieeexplore.ieee.org/abstract/document/10633053)
 - [Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors](https://arxiv.org/abs/2407.02282)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
