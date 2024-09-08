@@ -59,6 +59,7 @@
 - [DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets](https://arxiv.org/abs/2404.19264)
 - [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/assets/dreureka-paper.pdf)
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
+- [Dynamic Fall Recovery Control for Legged Robots via Reinforcement Learning](https://www.mdpi.com/2313-7673/9/4/193)
 - [Enhancing Quadruped Robot Locomotion on Deformable Terrains Through Contact Perception and Terrain Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682648)
 - [Expert Composer Policy: Scalable Skill Repertoire for Quadruped Robots](https://arxiv.org/abs/2403.11412)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
@@ -81,6 +82,7 @@
 - [OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering](https://arxiv.org/abs/2401.16719)
 - [Oscillating latent dynamics in robot systems during walking and reaching](https://www.nature.com/articles/s41598-024-61610-5)
 - [Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg](https://arxiv.org/abs/2402.10837)
+- [Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism *](https://ieeexplore.ieee.org/document/10611633)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
@@ -365,6 +367,7 @@
 - [Pronto: A Multi-Sensor State Estimator for Legged Robots in Real-World Scenarios](https://www.frontiersin.org/articles/10.3389/frobt.2020.00068/full)
 - [Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning](https://doi.org/10.48550/arXiv.2003.01239)
 - [Reinforcement learning for quadrupedal locomotion with design of continual–hierarchical curriculum](https://doi.org/10.1016/j.engappai.2020.103869)
+- [Rolling in the Deep - Hybrid Locomotion for Wheeled-Legged Robots using Online Trajectory Optimization](https://arxiv.org/abs/1909.07193)
 - [Vision Aided Dynamic Exploration of Unstructured Terrain with a Small-Scale Quadruped Robot](https://ieeexplore.ieee.org/document/9196777)
 
 </details>
@@ -565,11 +568,13 @@
 
 - [Berkeley Humanoid: A Research Platform for Learning-based Control](https://arxiv.org/abs/2407.21781)
 - [CusADi: A GPU Parallelization Framework for Symbolic Expressions and Optimal Control](https://arxiv.org/pdf/2408.09662)
+- [Deep Reinforcement Learning for Low-Cost Humanoid Robot Soccer Players: Dynamic Skills and Efficient Transfer](https://ieeexplore.ieee.org/document/10537661)
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
 - [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://arxiv.org/abs/2403.10506)
 - [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/HumanPlus.pdf)
 - [Hybrid Stepping Motion Generation for Wheeled-Bipedal Robots Without Roll Joints on Legs](https://ieeexplore.ieee.org/abstract/document/10406411)
 - [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662)
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
 - [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 - [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
