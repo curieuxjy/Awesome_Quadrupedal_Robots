@@ -68,6 +68,7 @@
 - [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/pdf/2403.17846.pdf)
 - [Identifying Terrain Physical Parameters from Vision - Towards Physical-Parameter-Aware Locomotion and Navigation](https://arxiv.org/abs/2408.16567)
 - [Jumping Locomotion of Quadruped Robot During Running Based on Multiple Model Fusion](https://ieeexplore.ieee.org/abstract/document/10633053)
+- [Learning Advanced Locomotion for Quadrupedal Robots: A Distributed Multi-Agent Reinforcement Learning Framework with Riemannian Motion Policies](https://www.mdpi.com/2218-6581/13/6/86)
 - [Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors](https://arxiv.org/abs/2407.02282)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
