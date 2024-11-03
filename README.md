@@ -34,6 +34,7 @@
 - [RBQ](https://www.rainbow-robotics.com/en_rbq)
 - [Solo8](https://open-dynamic-robot-initiative.github.io/)
 - [Spot](https://www.bostondynamics.com/products/spot)
+- [Trakr](https://addverb.com/trakr-indias-homegrown-robotic-dog-quadruped/)
 - [Unitree](https://www.unitree.com/)
 - [Vision60](https://www.ghostrobotics.io/vision-60)
 
