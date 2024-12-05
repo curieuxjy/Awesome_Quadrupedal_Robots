@@ -88,6 +88,8 @@
 - [MEVIUS: A Quadruped Robot Easily Constructed through E-Commerce with Sheet Metal Welding and Machining](https://arxiv.org/abs/2409.14721)
 - [MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment](https://arxiv.org/abs/2403.16015)
 - [Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://arxiv.org/abs/2409.19709)
+- [Offline Adaptation of Quadruped Locomotion using Diffusion Models](https://arxiv.org/abs/2411.08832)
+- [Offline Diversity Maximization Under Imitation Constraints](https://arxiv.org/abs/2307.11373)
 - [One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion](https://arxiv.org/abs/2409.06366)
 - [Online Hierarchical Planning for Multicontact Locomotion Control of Quadruped Robots](https://ieeexplore.ieee.org/abstract/document/10614673)
 - [OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering](https://arxiv.org/abs/2401.16719)
@@ -100,7 +102,9 @@
 - [Robust Ladder Climbing with a Quadrupedal Robot](https://arxiv.org/abs/2409.17731)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots](https://arxiv.org/abs/2312.16839)
+- [Simulation of autonomous rhythm and gait generation in quadrupedal locomotion with hindlegs](https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2428258)
 - [Skill Latent Space Based Multigait Learning for a Legged Robot](https://ieeexplore.ieee.org/abstract/document/10612828)
+- [Slip Detection and Recovery for Quadruped Robots via Orthogonal Decomposition](https://ieeexplore.ieee.org/abstract/document/10769508)
 - [SYNLOCO‐VE: Synthesizing central pattern generator with reinforcement learning and velocity estimator for quadruped locomotion](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3181)
 - [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
 - [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353)
@@ -470,6 +474,7 @@
 - [![](https://img.shields.io/badge/erwincoumans-pybullet_robots-black?style=flat-square&logo=github)](https://github.com/erwincoumans/pybullet_robots) <img src="https://img.shields.io/github/stars/erwincoumans/pybullet_robots?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ethz--adrl-towr-black?style=flat-square&logo=github)](https://github.com/ethz-adrl/towr) <img src="https://img.shields.io/github/stars/ethz-adrl/towr?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/eureka--research-DrEureka-black?style=flat-square&logo=github)](https://github.com/eureka-research/DrEureka) <img src="https://img.shields.io/github/stars/eureka-research/DrEureka?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/facebookresearch-spot--sim2real-black?style=flat-square&logo=github)](https://github.com/facebookresearch/spot-sim2real) <img src="https://img.shields.io/github/stars/facebookresearch/spot-sim2real?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow"> 
 - [![](https://img.shields.io/badge/google-brax-black?style=flat-square&logo=github)](https://github.com/google/brax) <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
@@ -494,6 +499,7 @@
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vaCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
+
 
 
 </details>
@@ -588,12 +594,14 @@
 - [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662)
 - [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
 - [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
+- [Learning Humanoid Locomotion with Perceptive Internal Model](https://arxiv.org/abs/2411.14386)
 - [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
 - [Learning Skateboarding for Humanoid Robots through Massively Parallel Reinforcement Learning](https://arxiv.org/abs/2409.07846)
 - [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
 - [Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation](https://arxiv.org/abs/2409.20514)
+- [Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions](https://arxiv.org/abs/2411.03619)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
 - [Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning](https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1)
 
