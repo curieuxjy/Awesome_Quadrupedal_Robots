@@ -46,6 +46,14 @@
 `It could include abroad keywords related to quadrupedal walking robots, e.g. control methods or reinforcement learning`
 
 <details>
+<summary><b>2025</b></summary>
+
+# Happy New Year!
+
+</details>
+
+
+<details>
 <summary><b>2024</b></summary>
 
 <img src="./assets/2024.png" width="100%" class="center"/>
@@ -83,6 +91,7 @@
 - [Learning-based legged locomotion; state of the art and future perspectives](https://arxiv.org/abs/2406.01152)
 - [Learning-Based Locomotion Controllers for Quadruped Robots in Indoor Stair Climbing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10594976)
 - [Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network](https://arxiv.org/abs/2402.00366)
+- [LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation](https://arxiv.org/abs/2410.04419)
 - [LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots](https://arxiv.org/abs/2409.17992)
 - [ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots](https://arxiv.org/abs/2310.10486)
 - [MEVIUS: A Quadruped Robot Easily Constructed through E-Commerce with Sheet Metal Welding and Machining](https://arxiv.org/abs/2409.14721)
