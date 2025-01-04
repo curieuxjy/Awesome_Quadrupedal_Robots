@@ -96,6 +96,7 @@
 - [ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots](https://arxiv.org/abs/2310.10486)
 - [MEVIUS: A Quadruped Robot Easily Constructed through E-Commerce with Sheet Metal Welding and Machining](https://arxiv.org/abs/2409.14721)
 - [MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment](https://arxiv.org/abs/2403.16015)
+- [Non-Gaited Legged Locomotion with Monte-Carlo Tree Search and Supervised Learning](https://arxiv.org/abs/2408.07508)
 - [Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://arxiv.org/abs/2409.19709)
 - [Offline Adaptation of Quadruped Locomotion using Diffusion Models](https://arxiv.org/abs/2411.08832)
 - [Offline Diversity Maximization Under Imitation Constraints](https://arxiv.org/abs/2307.11373)
