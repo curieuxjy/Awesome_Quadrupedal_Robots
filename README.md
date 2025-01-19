@@ -488,6 +488,7 @@
 - [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow"> 
 - [![](https://img.shields.io/badge/google-brax-black?style=flat-square&logo=github)](https://github.com/google/brax) <img src="https://img.shields.io/github/stars/google/brax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/heuristicus-spot_ros-black?style=flat-square&logo=github)](https://github.com/heuristicus/spot_ros) <img src="https://img.shields.io/github/stars/heuristicus/spot_ros?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/iit--DLSLab-Quadruped-PyMPC-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/Quadruped-PyMPC) <img src="https://img.shields.io/github/stars/iit-DLSLab/Quadruped-PyMPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/isaac--sim-IsaacLab-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
@@ -510,7 +511,6 @@
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vaCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
-
 
 
 </details>
@@ -624,8 +624,10 @@
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square&logo=github)](https://github.com/NVlabs/ProtoMotions) <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pocketxjl-humanoid--control-black?style=flat-square&logo=github)](https://github.com/pocketxjl/humanoid-control) <img src="https://img.shields.io/github/stars/pocketxjl/humanoid-control?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/roboterax-humanoid--gym-black?style=flat-square&logo=github)](https://github.com/roboterax/humanoid-gym) <img src="https://img.shields.io/github/stars/roboterax/humanoid-gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Skylark0924-Rofunc-black?style=flat-square&logo=github)](https://github.com/Skylark0924/Rofunc) <img src="https://img.shields.io/github/stars/Skylark0924/Rofunc?style=flat-square&color=yellow">
+
+
 
 
 **Labs & Companies**
