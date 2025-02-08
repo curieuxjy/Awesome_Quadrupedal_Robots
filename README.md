@@ -48,7 +48,9 @@
 <details>
 <summary><b>2025</b></summary>
 
-# Happy New Year!
+- [Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking](https://arxiv.org/abs/2502.01329)
+- [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
+- [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
 
 </details>
 
@@ -106,9 +108,11 @@
 - [Oscillating latent dynamics in robot systems during walking and reaching](https://www.nature.com/articles/s41598-024-61610-5)
 - [Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg](https://arxiv.org/abs/2402.10837)
 - [Pegasus: a Novel Bio-inspired Quadruped Robot with Underactuated Wheeled-Legged Mechanism *](https://ieeexplore.ieee.org/document/10611633)
+- [PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://arxiv.org/abs/2408.13740)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
+- [RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion](https://www.roboticsproceedings.org/rss20/p060.pdf)
 - [Robust Ladder Climbing with a Quadrupedal Robot](https://arxiv.org/abs/2409.17731)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots](https://arxiv.org/abs/2312.16839)
@@ -151,6 +155,7 @@
 - [DribbleBot: Dynamic Legged Manipulation in the Wild](https://gmargo11.github.io/dribblebot/rsc/dribblebot_paper.pdf)
 - [Drilling Task with a Quadruped Robot for Silage Face Measurements](https://www.researchgate.net/publication/370765569_Drilling_Task_with_a_Quadruped_Robot_for_Silage_Face_Measurements)
 - [DTC: Deep Tracking Control - A Unifying Approach to Model-Based Planning and Reinforcement-Learning for Versatile and Robust Locomotion](https://arxiv.org/abs/2309.15462)
+- [Evaluation of Constrained Reinforcement Learning Algorithms for Legged Locomotion](https://arxiv.org/abs/2309.15430)
 - [Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](https://arxiv.org/abs/2305.08962)
 - [Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)
 - [Expanding Versatility of Agile Locomotion through Policy Transitions Using Latent State Representation](https://arxiv.org/abs/2306.08224)
@@ -176,6 +181,7 @@
 - [Learning Multiple Gaits within Latent Space for Quadruped Robots](https://arxiv.org/abs/2308.03014)
 - [Learning Quadruped Locomotion using Bio-Inspired Neural Networks with Intrinsic Rhythmicity](https://arxiv.org/abs/2305.07300)
 - [Learning quadrupedal locomotion on deformable terrain](https://www.science.org/doi/full/10.1126/scirobotics.ade2256)
+- [Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors](https://ieeexplore.ieee.org/document/10167753)
 - [Learning Robust Perception-Based Controller for Quadruped Robot](https://ieeexplore.ieee.org/document/10237187)
 - [Learning to Exploit Elastic Actuators for Quadruped Locomotion](https://arxiv.org/abs/2209.07171)
 - [Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments](https://arxiv.org/abs/2209.09233)
@@ -595,10 +601,14 @@
 
 **Research**
 
+- [A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion](https://arxiv.org/abs/2502.03206)
 - [Berkeley Humanoid: A Research Platform for Learning-based Control](https://arxiv.org/abs/2407.21781)
 - [CusADi: A GPU Parallelization Framework for Symbolic Expressions and Optimal Control](https://arxiv.org/pdf/2408.09662)
 - [Deep Reinforcement Learning for Low-Cost Humanoid Robot Soccer Players: Dynamic Skills and Efficient Transfer](https://ieeexplore.ieee.org/document/10537661)
+- [Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions](https://arxiv.org/abs/2502.01465)
 - [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
+- [Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains](https://arxiv.org/abs/2502.02934)
+- [HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller](https://arxiv.org/abs/2502.03122)
 - [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://arxiv.org/abs/2403.10506)
 - [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/HumanPlus.pdf)
 - [Hybrid Stepping Motion Generation for Wheeled-Bipedal Robots Without Roll Joints on Legs](https://ieeexplore.ieee.org/abstract/document/10406411)
@@ -612,6 +622,7 @@
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
 - [Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation](https://arxiv.org/abs/2409.20514)
+- [Perceptive Mixed-Integer Footstep Control for Underactuated Bipedal Walking on Rough Terrain](https://arxiv.org/abs/2501.19391)
 - [Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions](https://arxiv.org/abs/2411.03619)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
 - [Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning](https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1)
