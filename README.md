@@ -71,6 +71,7 @@
 - [Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots](https://arxiv.org/abs/2304.00346)
 - [CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains](https://www.arxiv.org/abs/2409.17262)
 - [Deep Compliant Control for Legged Robots](TBD)
+- [DexDribbler: Learning Dexterous Soccer Manipulation via Dynamic Supervision](https://arxiv.org/abs/2403.14300)
 - [DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets](https://arxiv.org/abs/2404.19264)
 - [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/assets/dreureka-paper.pdf)
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
@@ -514,6 +515,7 @@
 - [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow"> 
 - [![](https://img.shields.io/badge/silvery107-rl--mpc--locomotion-black?style=flat-square&logo=github)](https://github.com/silvery107/rl-mpc-locomotion) <img src="https://img.shields.io/github/stars/silvery107/rl-mpc-locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stanfordroboticsclub-StanfordQuadruped-black?style=flat-square&logo=github)](https://github.com/stanfordroboticsclub/StanfordQuadruped) <img src="https://img.shields.io/github/stars/stanfordroboticsclub/StanfordQuadruped?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/SysCV-soccer--player-black?style=flat-square&logo=github)](https://github.com/SysCV/soccer-player) <img src="https://img.shields.io/github/stars/SysCV/soccer-player?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/TopHillRobotics-quadruped--robot-black?style=flat-square&logo=github)](https://github.com/TopHillRobotics/quadruped-robot) <img src="https://img.shields.io/github/stars/TopHillRobotics/quadruped-robot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_mujoco-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_mujoco) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/unitreerobotics-unitree_sdk2-black?style=flat-square&logo=github)](https://github.com/unitreerobotics/unitree_sdk2) <img src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&color=yellow">
@@ -619,6 +621,7 @@
 - [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 - [Learning Humanoid Locomotion with Perceptive Internal Model](https://arxiv.org/abs/2411.14386)
 - [Learning hybrid locomotion skills—Learn to exploit residual actions and modulate model-based gait control](https://www.frontiersin.org/articles/10.3389/frobt.2023.1004490/full)
+- [Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning](https://openreview.net/forum?id=fC0wWeXsVm)
 - [Learning Skateboarding for Humanoid Robots through Massively Parallel Reinforcement Learning](https://arxiv.org/abs/2409.07846)
 - [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 - [Learning Vision-Based Bipedal Locomotion for Challenging Terrain](https://arxiv.org/abs/2309.14594)
