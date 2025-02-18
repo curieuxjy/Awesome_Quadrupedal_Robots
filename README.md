@@ -49,6 +49,7 @@
 <summary><b>2025</b></summary>
 
 - [Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking](https://arxiv.org/abs/2502.01329)
+- [Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation](https://uan.csail.mit.edu/rsc/paper.pdf)
 - [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
 
@@ -91,6 +92,7 @@
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
 - [Learning robust autonomous navigation and locomotion for wheeled-legged robots](https://www.science.org/doi/10.1126/scirobotics.adi9641)
 - [Learning to walk in confined spaces using 3D representation](https://arxiv.org/abs/2403.00187)
+- [Learning Visual Quadrupedal Loco-Manipulation from Demonstrations](https://arxiv.org/abs/2403.20328)
 - [Learning-based legged locomotion; state of the art and future perspectives](https://arxiv.org/abs/2406.01152)
 - [Learning-Based Locomotion Controllers for Quadruped Robots in Indoor Stair Climbing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10594976)
 - [Legged Robot State Estimation With Invariant Extended Kalman Filter Using Neural Measurement Network](https://arxiv.org/abs/2402.00366)
