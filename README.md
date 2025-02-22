@@ -91,6 +91,7 @@
 - [Learning Advanced Locomotion for Quadrupedal Robots: A Distributed Multi-Agent Reinforcement Learning Framework with Riemannian Motion Policies](https://www.mdpi.com/2218-6581/13/6/86)
 - [Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors](https://arxiv.org/abs/2407.02282)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
+- [Learning Quadruped Locomotion Using Differentiable Simulation](https://arxiv.org/abs/2403.14864)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
 - [Learning robust autonomous navigation and locomotion for wheeled-legged robots](https://www.science.org/doi/10.1126/scirobotics.adi9641)
