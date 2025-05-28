@@ -53,6 +53,7 @@
 - [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
 - [NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](https://arxiv.org/abs/2503.10626)
+- [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
 
