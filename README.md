@@ -56,6 +56,7 @@
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
+- [Whole-Body End-Effector Pose Tracking](https://arxiv.org/pdf/2409.16048)
 
 </details>
 
@@ -75,7 +76,7 @@
 - [Contrastive Initial State Buffer for Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)
 - [Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots](https://arxiv.org/abs/2304.00346)
 - [CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains](https://www.arxiv.org/abs/2409.17262)
-- [Deep Compliant Control for Legged Robots](TBD)
+- [Deep Compliant Control for Legged Robots](https://crl.ethz.ch/papers/hartmann2024deep.pdf)
 - [DexDribbler: Learning Dexterous Soccer Manipulation via Dynamic Supervision](https://arxiv.org/abs/2403.14300)
 - [DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets](https://arxiv.org/abs/2404.19264)
 - [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/assets/dreureka-paper.pdf)
@@ -121,8 +122,10 @@
 - [PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://arxiv.org/abs/2408.13740)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
+- [Residual Policy Learning for Perceptive Quadruped Control Using Differentiable Simulation](https://arxiv.org/pdf/2410.03076)
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 - [RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion](https://www.roboticsproceedings.org/rss20/p060.pdf)
+- [Robots with Attitude: Singularity-Free Quaternion-Based Model-Predictive Control for Agile Legged Robots](https://arxiv.org/pdf/2409.09940)
 - [Robust Ladder Climbing with a Quadrupedal Robot](https://arxiv.org/abs/2409.17731)
 - [Sim-to-Real: A Performance Comparison of PPO, TD3, and SAC Reinforcement Learning Algorithms for Quadruped Walking Gait Generation](https://www.scirp.org/journal/paperinformation?paperid=131938)
 - [Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots](https://arxiv.org/abs/2312.16839)
