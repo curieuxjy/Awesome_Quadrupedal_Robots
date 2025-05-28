@@ -48,11 +48,14 @@
 <details>
 <summary><b>2025</b></summary>
 
+- [Adaptive Non-linear Centroidal MPC with Stability Guarantees for Robust Locomotion of Legged Robots](https://arxiv.org/pdf/2409.01144)
 - [Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking](https://arxiv.org/abs/2502.01329)
 - [Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation](https://uan.csail.mit.edu/rsc/paper.pdf)
 - [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
+- [LEVA: A high-mobility logistic vehicle with legged suspension](https://arxiv.org/pdf/2503.10028)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
 - [NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](https://arxiv.org/abs/2503.10626)
+- [Obstacle-Avoidant Leader Following with a Quadruped Robot](https://arxiv.org/pdf/2410.00572)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
