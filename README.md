@@ -61,6 +61,7 @@
 - [Obstacle-Avoidant Leader Following with a Quadruped Robot](https://arxiv.org/pdf/2410.00572)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
+- [Versatile Legged Locomotion Adaptation through Vision-Language Grounding](https://openreview.net/forum?id=xz1Uu8Yb7w)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
 - [Whole-Body End-Effector Pose Tracking](https://arxiv.org/pdf/2409.16048)
 
@@ -644,6 +645,7 @@
 - [Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models](https://arxiv.org/abs/2309.02976)
 - [Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation](https://arxiv.org/abs/2409.20514)
 - [Perceptive Mixed-Integer Footstep Control for Underactuated Bipedal Walking on Rough Terrain](https://arxiv.org/abs/2501.19391)
+- [Phase-based Nonlinear Model Predictive Control for Humanoid Walking Stabilization with Single and Double Support Time Adjustments](https://arxiv.org/pdf/2506.03856)
 - [Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions](https://arxiv.org/abs/2411.03619)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
 - [Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning](https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1)
