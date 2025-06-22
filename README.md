@@ -73,7 +73,6 @@
 
 <img src="./assets/2024.png" width="100%" class="center"/>
 
-- [SLR: Learning Quadruped Locomotion without Privileged Information](https://arxiv.org/abs/2406.04835)
 - [A Study of Lightweight, Low-cost Quadrupedal Robot Body Based on a Coaxial Deformation Mechanism](https://ieeexplore.ieee.org/abstract/document/10632940)
 - [Accelerating Model Predictive Control for Legged Robots through Distributed Optimization](https://arxiv.org/abs/2403.11742)
 - [Accessorizing Quadrupedal Robots with Wearable Electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300633)
@@ -140,6 +139,7 @@
 - [Simulation of autonomous rhythm and gait generation in quadrupedal locomotion with hindlegs](https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2428258)
 - [Skill Latent Space Based Multigait Learning for a Legged Robot](https://ieeexplore.ieee.org/abstract/document/10612828)
 - [Slip Detection and Recovery for Quadruped Robots via Orthogonal Decomposition](https://ieeexplore.ieee.org/abstract/document/10769508)
+- [SLR: Learning Quadruped Locomotion without Privileged Information](https://arxiv.org/abs/2406.04835)
 - [SYNLOCO‐VE: Synthesizing central pattern generator with reinforcement learning and velocity estimator for quadruped locomotion](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3181)
 - [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
 - [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353)
