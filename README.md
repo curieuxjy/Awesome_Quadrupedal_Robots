@@ -569,9 +569,10 @@
 - [![](https://img.shields.io/badge/Technician13-QuadrupedInverseKinematic-black?style=flat-square&logo=github)](https://github.com/Technician13/QuadrupedInverseKinematic) <img src="https://img.shields.io/github/stars/Technician13/QuadrupedInverseKinematic?style=flat-square&color=yellow">
 
 <b>Dynamics</b>
+- [![](https://img.shields.io/badge/Danfoa-MorphoSymm-black?style=flat-square&logo=github)](https://github.com/Danfoa/MorphoSymm) <img src="https://img.shields.io/github/stars/Danfoa/MorphoSymm?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Danfoa-DynamicsHarmonicsAnalysis-black?style=flat-square&logo=github)](https://github.com/Danfoa/DynamicsHarmonicsAnalysis) <img src="https://img.shields.io/github/stars/Danfoa/DynamicsHarmonicsAnalysis?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stack--of--tasks-tsid-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/tsid) <img src="https://img.shields.io/github/stars/stack-of-tasks/tsid?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square&logo=github)](https://github.com/pypose/pypose) <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/Danfoa-MorphoSymm-black?style=flat-square&logo=github)](https://github.com/Danfoa/MorphoSymm) <img src="https://img.shields.io/github/stars/Danfoa/MorphoSymm?style=flat-square&color=yellow">
 
 <b>Control</b>
 - [![](https://img.shields.io/badge/chvmp-champ-black?style=flat-square&logo=github)](https://github.com/chvmp/champ) <img src="https://img.shields.io/github/stars/chvmp/champ?style=flat-square&color=yellow">
