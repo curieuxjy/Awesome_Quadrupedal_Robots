@@ -497,6 +497,8 @@
 <details>
 <summary><b>Repositories</b></summary>
 
+<b>Survey</b>
+- [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/beduffy-many--quadrupeds-black?style=flat-square&logo=github)](https://github.com/beduffy/many-quadrupeds) <img src="https://img.shields.io/github/stars/beduffy/many-quadrupeds?style=flat-square&color=yellow">
 
 <b>Hardware</b>
