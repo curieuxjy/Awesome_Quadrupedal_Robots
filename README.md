@@ -582,6 +582,7 @@
 - [![](https://img.shields.io/badge/iit--DLSLab-reactive_landing_controller-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/reactive_landing_controller) <img src="https://img.shields.io/github/stars/iit-DLSLab/reactive_landing_controller?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-ocs2-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/ocs2) <img src="https://img.shields.io/github/stars/leggedrobotics/ocs2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square&logo=github)](https://github.com/loco-3d/crocoddyl) <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/mayataka-robotoc-black?style=flat-square&logo=github)](https://github.com/mayataka/robotoc) <img src="https://img.shields.io/github/stars/mayataka/robotoc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/qiayuanl-legged_control-black?style=flat-square&logo=github)](https://github.com/qiayuanl/legged_control) <img src="https://img.shields.io/github/stars/qiayuanl/legged_control?style=flat-square&color=yellow">
 
 <b>MPC</b>
@@ -590,6 +591,7 @@
 - [![](https://img.shields.io/badge/iit--DLSLab-mpx-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/mpx) <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/iit--DLSLab-Quadruped--PyMPC-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/Quadruped-PyMPC) <img src="https://img.shields.io/github/stars/iit-DLSLab/Quadruped-PyMPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LeCAR--Lab-dial--mpc-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/dial-mpc) <img src="https://img.shields.io/github/stars/LeCAR-Lab/dial-mpc?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/machines--in--motion-biconvex_mpc-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/biconvex_mpc) <img src="https://img.shields.io/github/stars/machines-in-motion/biconvex_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/machines--in--motion-croco_mpc_utils-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/croco_mpc_utils) <img src="https://img.shields.io/github/stars/machines-in-motion/croco_mpc_utils?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/silvery107-rl--mpc--locomotion-black?style=flat-square&logo=github)](https://github.com/silvery107/rl-mpc-locomotion) <img src="https://img.shields.io/github/stars/silvery107/rl-mpc-locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/yinghansun-pympc--quadruped-black?style=flat-square&logo=github)](https://github.com/yinghansun/pympc-quadruped) <img src="https://img.shields.io/github/stars/yinghansun/pympc-quadruped?style=flat-square&color=yellow">
