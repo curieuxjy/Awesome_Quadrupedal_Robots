@@ -67,6 +67,7 @@
 - [Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots](https://arxiv.org/pdf/2506.07823)
 - [RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation](https://arxiv.org/abs/2504.06662)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
+- [Spatio-Temporal Motion Retargeting for Quadruped Robots](https://arxiv.org/abs/2404.11557)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [Versatile Legged Locomotion Adaptation through Vision-Language Grounding](https://openreview.net/forum?id=xz1Uu8Yb7w)
 - [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
