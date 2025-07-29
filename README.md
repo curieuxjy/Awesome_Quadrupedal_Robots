@@ -99,6 +99,7 @@
 - [DTC: Deep Tracking Control](https://www.science.org/doi/10.1126/scirobotics.adh5401)
 - [Dynamic Fall Recovery Control for Legged Robots via Reinforcement Learning](https://www.mdpi.com/2313-7673/9/4/193)
 - [Enhancing Quadruped Robot Locomotion on Deformable Terrains Through Contact Perception and Terrain Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682648)
+- [Eurekaverse: Environment Curriculum Generation via Large Language Models](https://arxiv.org/abs/2411.01775)
 - [Expert Composer Policy: Scalable Skill Repertoire for Quadruped Robots](https://arxiv.org/abs/2403.11412)
 - [Fast Traversability Estimation for Wild Visual Navigation](https://arxiv.org/abs/2305.08510)
 - [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358)
