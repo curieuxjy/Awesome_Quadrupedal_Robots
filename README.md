@@ -62,6 +62,7 @@
 - [Learning Steerable Imitation Controllers from Unstructured Animal Motions](https://arxiv.org/pdf/2507.00677)
 - [Learning Unified Force and Position Control for Legged Loco-Manipulation](https://arxiv.org/abs/2505.20829)
 - [LEVA: A high-mobility logistic vehicle with legged suspension](https://arxiv.org/pdf/2503.10028)
+- [LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175)
 - [Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models](https://arxiv.org/abs/2404.05291)
 - [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007?utm_source=chatgpt.com)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
@@ -70,8 +71,10 @@
 - [Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/abs/2505.19214)
 - [Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots](https://arxiv.org/pdf/2506.07823)
 - [RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation](https://arxiv.org/abs/2504.06662)
+- [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://arxiv.org/abs/2505.10547)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Spatio-Temporal Motion Retargeting for Quadruped Robots](https://arxiv.org/abs/2404.11557)
+- [Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion](https://arxiv.org/abs/2508.08982)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [Versatile Legged Locomotion Adaptation through Vision-Language Grounding](https://openreview.net/forum?id=xz1Uu8Yb7w)
 - [Versatile Loco-Manipulation through Flexible Interlimb Coordination](https://arxiv.org/abs/2506.07876)
@@ -731,6 +734,7 @@
 - [Phase-based Nonlinear Model Predictive Control for Humanoid Walking Stabilization with Single and Double Support Time Adjustments](https://arxiv.org/pdf/2506.03856)
 - [Real-Time Safe Bipedal Robot Navigation using Linear Discrete Control Barrier Functions](https://arxiv.org/abs/2411.03619)
 - [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
+- [TWIST: Teleoperated Whole-Body Imitation System](https://arxiv.org/abs/2505.02833)
 - [Whole-body simulation of realistic fruit fly locomotion with deep reinforcement learning](https://www.biorxiv.org/content/10.1101/2024.03.11.584515v1)
 
 **Github Repositories**
