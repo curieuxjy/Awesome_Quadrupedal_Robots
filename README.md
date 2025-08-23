@@ -74,6 +74,7 @@
 - [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://arxiv.org/abs/2505.10547)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Spatio-Temporal Motion Retargeting for Quadruped Robots](https://arxiv.org/abs/2404.11557)
+- [TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion](https://arxiv.org/abs/2503.20839)
 - [Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion](https://arxiv.org/abs/2508.08982)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [Versatile Legged Locomotion Adaptation through Vision-Language Grounding](https://openreview.net/forum?id=xz1Uu8Yb7w)
@@ -176,6 +177,7 @@
 
 <img src="./assets/2023.png" width="100%" class="center"/>
 
+- [Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios](https://arxiv.org/abs/2312.17606)
 - [Adaptive Locomotion Learning for Quadruped Robots by Combining DRL with a Cosine Oscillator Based Rhythm Controller](https://www.mdpi.com/2076-3417/13/19/11045)
 - [Adaptive walking control for quadruped robot by using oscillation patterns](https://www.nature.com/articles/s42256-022-00576-3)
 - [AMP in the wild: Learning robust, agile, natural legged locomotion skills](https://arxiv.org/abs/2304.10888)
@@ -577,6 +579,7 @@
 
 - [![](https://img.shields.io/badge/abizovnuralem-go2_omniverse-black?style=flat-square&logo=github)](https://github.com/abizovnuralem/go2_omniverse) <img src="https://img.shields.io/github/stars/abizovnuralem/go2_omniverse?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ammousa-TARLoco-black?style=flat-square&logo=github)](https://github.com/ammousa/TARLoco) <img src="https://img.shields.io/github/stars/ammousa/TARLoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/antonilo-rl_locomotion-black?style=flat-square&logo=github)](https://github.com/antonilo/rl_locomotion) <img src="https://img.shields.io/github/stars/antonilo/rl_locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/awesomericky-quadruped--robot--belief--encoder-black?style=flat-square&logo=github)](https://github.com/awesomericky/quadruped-robot-belief-encoder) <img src="https://img.shields.io/github/stars/awesomericky/quadruped-robot-belief-encoder?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/carlosferrazza-BodyTransformer-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/BodyTransformer) <img src="https://img.shields.io/github/stars/carlosferrazza/BodyTransformer?style=flat-square&color=yellow">
@@ -597,6 +600,7 @@
 - [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square&logo=github)](https://github.com/NM512/dreamerv3-torch) <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ori--drs-lfmc_gym-black?style=flat-square&logo=github)](https://github.com/ori-drs/lfmc_gym) <img src="https://img.shields.io/github/stars/ori-drs/lfmc_gym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/WentDong-Adapt-black?style=flat-square&logo=github)](https://github.com/WentDong/Adapt) <img src="https://img.shields.io/github/stars/WentDong/Adapt?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/ori--drs-lfmc_cval-black?style=flat-square&logo=github)](https://github.com/ori-drs/lfmc_cval) <img src="https://img.shields.io/github/stars/ori-drs/lfmc_cval?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/ori--drs-lfmc_pyval-black?style=flat-square&logo=github)](https://github.com/ori-drs/lfmc_pyval) <img src="https://img.shields.io/github/stars/ori-drs/lfmc_pyval?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SysCV-soccer--player-black?style=flat-square&logo=github)](https://github.com/SysCV/soccer-player) <img src="https://img.shields.io/github/stars/SysCV/soccer-player?style=flat-square&color=yellow">
