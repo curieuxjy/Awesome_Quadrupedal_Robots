@@ -532,7 +532,8 @@
 
 <details><summary><b>Models (URDF, MJCF, USD, etc.)</b></summary>
 
-- [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/chvmp-robots-black?style=flat-square&logo=github)](https://github.com/chvmp/robots) <img src="https://img.shields.io/github/stars/chvmp/robots?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/chvmp-champ_setup_assistant-black?style=flat-square&logo=github)](https://github.com/chvmp/champ_setup_assistant) <img src="https://img.shields.io/github/stars/chvmp/champ_setup_assistant?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Daniella1-urdf_files_dataset-black?style=flat-square&logo=github)](https://github.com/Daniella1/urdf_files_dataset) <img src="https://img.shields.io/github/stars/Daniella1/urdf_files_dataset?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/erwincoumans-pybullet_robots-black?style=flat-square&logo=github)](https://github.com/erwincoumans/pybullet_robots) <img src="https://img.shields.io/github/stars/erwincoumans/pybullet_robots?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_menagerie-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_menagerie) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_menagerie?style=flat-square&color=yellow">
@@ -586,6 +587,7 @@
 - [![](https://img.shields.io/badge/isaac--sim-IsaacLab-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacLab) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/isaac--sim-OmniIsaacGymEnvs-black?style=flat-square&logo=github)](https://github.com/isaac-sim/OmniIsaacGymEnvs) <img src="https://img.shields.io/github/stars/isaac-sim/OmniIsaacGymEnvs?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-legged_gym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/legged_gym) <img src="https://img.shields.io/github/stars/leggedrobotics/legged_gym?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-RSLGym-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/RSLGym) <img src="https://img.shields.io/github/stars/leggedrobotics/RSLGym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/lupinjia-genesis_lr-black?style=flat-square&logo=github)](https://github.com/lupinjia/genesis_lr) <img src="https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nicrusso7-rex--gym-black?style=flat-square&logo=github)](https://github.com/nicrusso7/rex-gym) <img src="https://img.shields.io/github/stars/nicrusso7/rex-gym?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vikashplus-robohive-black?style=flat-square&logo=github)](https://github.com/vikashplus/robohive) <img src="https://img.shields.io/github/stars/vikashplus/robohive?style=flat-square&color=yellow">
@@ -597,6 +599,7 @@
 - [![](https://img.shields.io/badge/Alescontrela-AMP_for_hardware-black?style=flat-square&logo=github)](https://github.com/Alescontrela/AMP_for_hardware) <img src="https://img.shields.io/github/stars/Alescontrela/AMP_for_hardware?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ammousa-TARLoco-black?style=flat-square&logo=github)](https://github.com/ammousa/TARLoco) <img src="https://img.shields.io/github/stars/ammousa/TARLoco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/antonilo-rl_locomotion-black?style=flat-square&logo=github)](https://github.com/antonilo/rl_locomotion) <img src="https://img.shields.io/github/stars/antonilo/rl_locomotion?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/araffin-halfcheetah_minimal.py-black?style=flat-square&logo=github)](https://gist.github.com/araffin/1fb77a8f290ac248b2e76e01164f21e0) <img src="https://img.shields.io/github/gist/stars/1fb77a8f290ac248b2e76e01164f21e0?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/awesomericky-quadruped--robot--belief--encoder-black?style=flat-square&logo=github)](https://github.com/awesomericky/quadruped-robot-belief-encoder) <img src="https://img.shields.io/github/stars/awesomericky/quadruped-robot-belief-encoder?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/carlosferrazza-BodyTransformer-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/BodyTransformer) <img src="https://img.shields.io/github/stars/carlosferrazza/BodyTransformer?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/danijar-dreamerv3-black?style=flat-square&logo=github)](https://github.com/danijar/dreamerv3) <img src="https://img.shields.io/github/stars/danijar/dreamerv3?style=flat-square&color=yellow">
@@ -620,6 +623,7 @@
 - [![](https://img.shields.io/badge/WentDong-Adapt-black?style=flat-square&logo=github)](https://github.com/WentDong/Adapt) <img src="https://img.shields.io/github/stars/WentDong/Adapt?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/yunifuchioka-opt--mimic--raisim-black?style=flat-square&logo=github)](https://github.com/yunifuchioka/opt-mimic-raisim) <img src="https://img.shields.io/github/stars/yunifuchioka/opt-mimic-raisim?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/yunifuchioka-opt--mimic--robot--deploy-black?style=flat-square&logo=github)](https://github.com/yunifuchioka/opt-mimic-robot-deploy) <img src="https://img.shields.io/github/stars/yunifuchioka/opt-mimic-robot-deploy?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/ziyanx02-Genesis--backflip-black?style=flat-square&logo=github)](https://github.com/ziyanx02/Genesis-backflip) <img src="https://img.shields.io/github/stars/ziyanx02/Genesis-backflip?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square&logo=github)](https://github.com/zst1406217/VR-Robo) <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
 </details>
 
@@ -628,7 +632,10 @@
 - [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/aCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/catachiii-rambo-black?style=flat-square&logo=github)](https://github.com/catachiii/rambo) <img src="https://img.shields.io/github/stars/catachiii/rambo?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/chrisyrniu-Human2LocoMan-black?style=flat-square&logo=github)](https://github.com/chrisyrniu/Human2LocoMan) <img src="https://img.shields.io/github/stars/chrisyrniu/Human2LocoMan?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Improbable--AI-learning--compliance-black?style=flat-square&logo=github)](https://github.com/Improbable-AI/learning-compliance) <img src="https://img.shields.io/github/stars/Improbable-AI/learning-compliance?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/locomanip--duet-RoboDuet-black?style=flat-square&logo=github)](https://github.com/locomanip-duet/RoboDuet) <img src="https://img.shields.io/github/stars/locomanip-duet/RoboDuet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MarkFzp-Deep--Whole--Body--Control-black?style=flat-square&logo=github)](https://github.com/MarkFzp/Deep-Whole-Body-Control) <img src="https://img.shields.io/github/stars/MarkFzp/Deep-Whole-Body-Control?style=flat-square&color=yellow">
 </details>
 
@@ -643,6 +650,7 @@
 - [![](https://img.shields.io/badge/chungmin99-pyroki-black?style=flat-square&logo=github)](https://github.com/chungmin99/pyroki) <img src="https://img.shields.io/github/stars/chungmin99/pyroki?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/kevinzakka-mink-black?style=flat-square&logo=github)](https://github.com/kevinzakka/mink) <img src="https://img.shields.io/github/stars/kevinzakka/mink?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mike4192-spot_micro_kinematics_python-black?style=flat-square&logo=github)](https://github.com/mike4192/spot_micro_kinematics_python) <img src="https://img.shields.io/github/stars/mike4192/spot_micro_kinematics_python?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square&logo=github)](https://github.com/rhoban/placo) <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stephane--caron-pink-black?style=flat-square&logo=github)](https://github.com/stephane-caron/pink) <img src="https://img.shields.io/github/stars/stephane-caron/pink?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Technician13-QuadrupedForwardKinematic-black?style=flat-square&logo=github)](https://github.com/Technician13/QuadrupedForwardKinematic) <img src="https://img.shields.io/github/stars/Technician13/QuadrupedForwardKinematic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Technician13-QuadrupedInverseKinematic-black?style=flat-square&logo=github)](https://github.com/Technician13/QuadrupedInverseKinematic) <img src="https://img.shields.io/github/stars/Technician13/QuadrupedInverseKinematic?style=flat-square&color=yellow">
@@ -653,12 +661,15 @@
 - [![](https://img.shields.io/badge/Danfoa-DynamicsHarmonicsAnalysis-black?style=flat-square&logo=github)](https://github.com/Danfoa/DynamicsHarmonicsAnalysis) <img src="https://img.shields.io/github/stars/Danfoa/DynamicsHarmonicsAnalysis?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Danfoa-MorphoSymm-black?style=flat-square&logo=github)](https://github.com/Danfoa/MorphoSymm) <img src="https://img.shields.io/github/stars/Danfoa/MorphoSymm?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pypose-pypose-black?style=flat-square&logo=github)](https://github.com/pypose/pypose) <img src="https://img.shields.io/github/stars/pypose/pypose?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square&logo=github)](https://github.com/rhoban/placo) <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stack--of--tasks-tsid-black?style=flat-square&logo=github)](https://github.com/stack-of-tasks/tsid) <img src="https://img.shields.io/github/stars/stack-of-tasks/tsid?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>Control</b></summary>
 
 - [![](https://img.shields.io/badge/chvmp-champ-black?style=flat-square&logo=github)](https://github.com/chvmp/champ) <img src="https://img.shields.io/github/stars/chvmp/champ?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/chvmp-chicken_head-black?style=flat-square&logo=github)](https://github.com/chvmp/chicken_head) <img src="https://img.shields.io/github/stars/chvmp/chicken_head?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/chvmp-libchamp-black?style=flat-square&logo=github)](https://github.com/chvmp/libchamp) <img src="https://img.shields.io/github/stars/chvmp/libchamp?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Derek--TH--Wang-quadruped_ctrl-black?style=flat-square&logo=github)](https://github.com/Derek-TH-Wang/quadruped_ctrl) <img src="https://img.shields.io/github/stars/Derek-TH-Wang/quadruped_ctrl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ethz--adrl-towr-black?style=flat-square&logo=github)](https://github.com/ethz-adrl/towr) <img src="https://img.shields.io/github/stars/ethz-adrl/towr?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/iit--DLSLab-reactive_landing_controller-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/reactive_landing_controller) <img src="https://img.shields.io/github/stars/iit-DLSLab/reactive_landing_controller?style=flat-square&color=yellow">
@@ -666,15 +677,18 @@
 - [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square&logo=github)](https://github.com/loco-3d/crocoddyl) <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mayataka-robotoc-black?style=flat-square&logo=github)](https://github.com/mayataka/robotoc) <img src="https://img.shields.io/github/stars/mayataka/robotoc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/qiayuanl-legged_control-black?style=flat-square&logo=github)](https://github.com/qiayuanl/legged_control) <img src="https://img.shields.io/github/stars/qiayuanl/legged_control?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square&logo=github)](https://github.com/rhoban/placo) <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>MPC</b></summary>
 
 - [![](https://img.shields.io/badge/ARCaD--Lab--UM-RF--MPC-black?style=flat-square&logo=github)](https://github.com/ARCaD-Lab-UM/RF-MPC) <img src="https://img.shields.io/github/stars/ARCaD-Lab-UM/RF-MPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco_mpc-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_mpc) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_mpc?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/Talk-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2xVN-qY78P4) [![](https://img.shields.io/badge/Talk--2-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=J-JO-lgaKtw) [![](https://img.shields.io/badge/Quadruped-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=esLuwaWz4oE)
+- [![](https://img.shields.io/badge/iit--DLSLab-DWMPC-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/DWMPC) <img src="https://img.shields.io/github/stars/iit-DLSLab/DWMPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/iit--DLSLab-mpx-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/mpx) <img src="https://img.shields.io/github/stars/iit-DLSLab/mpx?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/iit--DLSLab-Quadruped--PyMPC-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/Quadruped-PyMPC) <img src="https://img.shields.io/github/stars/iit-DLSLab/Quadruped-PyMPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LeCAR--Lab-dial--mpc-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/dial-mpc) <img src="https://img.shields.io/github/stars/LeCAR-Lab/dial-mpc?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/LizaP9-Periodic_Adaptive_MPC-black?style=flat-square&logo=github)](https://github.com/LizaP9/Periodic_Adaptive_MPC) <img src="https://img.shields.io/github/stars/LizaP9/Periodic_Adaptive_MPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/machines--in--motion-biconvex_mpc-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/biconvex_mpc) <img src="https://img.shields.io/github/stars/machines-in-motion/biconvex_mpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/machines--in--motion-croco_mpc_utils-black?style=flat-square&logo=github)](https://github.com/machines-in-motion/croco_mpc_utils) <img src="https://img.shields.io/github/stars/machines-in-motion/croco_mpc_utils?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ROAM--Lab--ND-CAFE--MPC-black?style=flat-square&logo=github)](https://github.com/ROAM-Lab-ND/CAFE-MPC) <img src="https://img.shields.io/github/stars/ROAM-Lab-ND/CAFE-MPC?style=flat-square&color=yellow">
@@ -814,6 +828,7 @@
 
 - [![](https://img.shields.io/badge/carlosferrazza-humanoid--bench-black?style=flat-square&logo=github)](https://github.com/carlosferrazza/humanoid-bench) <img src="https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chengxuxin-expressive--humanoid-black?style=flat-square&logo=github)](https://github.com/chengxuxin/expressive-humanoid) <img src="https://img.shields.io/github/stars/chengxuxin/expressive-humanoid?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/DAIRLab-dairlib-gray?style=flat-square&logo=github)](https://github.com/DAIRLab/dairlib) <img src="https://img.shields.io/github/stars/DAIRLab/dairlib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DRCL--USC-Hector_Simulation-black?style=flat-square&logo=github)](https://github.com/DRCL-USC/Hector_Simulation) <img src="https://img.shields.io/github/stars/DRCL-USC/Hector_Simulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/goncalog-ai--robotics-black?style=flat-square&logo=github)](https://github.com/goncalog/ai-robotics) <img src="https://img.shields.io/github/stars/goncalog/ai-robotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/inspirai-TimeChamber-black?style=flat-square&logo=github)](https://github.com/inspirai/TimeChamber) <img src="https://img.shields.io/github/stars/inspirai/TimeChamber?style=flat-square&color=yellow">
@@ -852,6 +867,7 @@
 - [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)
 - [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
 - [Boston Dynamics - Electric Altas](https://bostondynamics.com/blog/electric-new-era-for-atlas)
+- [Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [GRASP Lab, University of Pennsylvania](https://www.grasp.upenn.edu)
 - [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
 - [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
 - [Hybrid Robotics - Berkeley Humanoid](https://berkeley-humanoid.com/)
