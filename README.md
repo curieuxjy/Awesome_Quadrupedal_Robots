@@ -881,10 +881,11 @@
 **Companies**
 
 - [1X](https://www.1x.tech)
-- [Ascento](https://www.ascento.ai)
 - [Agibot](https://www.agibot.com)
 - [Agility Robotics](https://www.agilityrobotics.com)
 - [Apptronik, spinout of HCRL](https://apptronik.com)
+- [Ascento](https://www.ascento.ai)
+- [Astribot](https://www.astribot.com)
 - [Boardwalk Robotics](https://boardwalkrobotics.com)
 - [Boston Dynamics](https://bostondynamics.com)
   - [Electric Altas](https://bostondynamics.com/atlas)
