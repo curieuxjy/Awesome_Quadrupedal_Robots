@@ -870,6 +870,7 @@
 - [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)
 - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [GRASP Lab, University of Pennsylvania](https://www.grasp.upenn.edu)
 - [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)
+- [EPIC: Embodied Perception and InteraCtion Lab, Peking University](https://pku-epic.github.io)
 - [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)
 - [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)
 - [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)
