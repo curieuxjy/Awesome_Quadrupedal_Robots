@@ -790,6 +790,8 @@
 <details>
 <summary><b>Bipedal(Legged) Robots (Extended)</b></summary>
 
+> [Humanoid Guide](https://humanoid.guide)
+
 **Research**
 
 - [A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion](https://arxiv.org/abs/2502.03206)
@@ -831,6 +833,8 @@
 - [![](https://img.shields.io/badge/DAIRLab-dairlib-gray?style=flat-square&logo=github)](https://github.com/DAIRLab/dairlib) <img src="https://img.shields.io/github/stars/DAIRLab/dairlib?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/DRCL--USC-Hector_Simulation-black?style=flat-square&logo=github)](https://github.com/DRCL-USC/Hector_Simulation) <img src="https://img.shields.io/github/stars/DRCL-USC/Hector_Simulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/goncalog-ai--robotics-black?style=flat-square&logo=github)](https://github.com/goncalog/ai-robotics) <img src="https://img.shields.io/github/stars/goncalog/ai-robotics?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/HybridRobotics-isaac_berkeley_humanoid-black?style=flat-square&logo=github)](https://github.com/HybridRobotics/isaac_berkeley_humanoid) <img src="https://img.shields.io/github/stars/HybridRobotics/isaac_berkeley_humanoid?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/HybridRobotics-Berkeley--Humanoid--Lite-black?style=flat-square&logo=github)](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) <img src="https://img.shields.io/github/stars/HybridRobotics/Berkeley-Humanoid-Lite?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/inspirai-TimeChamber-black?style=flat-square&logo=github)](https://github.com/inspirai/TimeChamber) <img src="https://img.shields.io/github/stars/inspirai/TimeChamber?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/jonyzhang2023-awesome--humanoid--learning-black?style=flat-square&logo=github)](https://github.com/jonyzhang2023/awesome-humanoid-learning) <img src="https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LeCAR--Lab-HumanoidVerse-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/HumanoidVerse) <img src="https://img.shields.io/github/stars/LeCAR-Lab/HumanoidVerse?style=flat-square&color=yellow">
@@ -861,19 +865,41 @@
 - [![](https://img.shields.io/badge/jaykorea-Isaac--RL--Two--wheel--Legged--Bot-black?style=flat-square&logo=github)](https://github.com/jaykorea/Isaac-RL-Two-wheel-Legged-Bot) <img src="https://img.shields.io/github/stars/jaykorea/Isaac-RL-Two-wheel-Legged-Bot?style=flat-square&color=yellow">
 
 
-**Labs & Companies**
+**Academia Labs**
 
-- [Agility Robotics](https://www.youtube.com/@AgilityRobotics)
 - [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)
-- [Boardwalk Robotics - Nadia](https://boardwalkrobotics.com/Nadia.html)
-- [Boston Dynamics - Electric Altas](https://bostondynamics.com/blog/electric-new-era-for-atlas)
-- [Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [GRASP Lab, University of Pennsylvania](https://www.grasp.upenn.edu)
-- [Dynamic Robotics Laboratory - Oregon State University](https://mime.engineering.oregonstate.edu/research/drl/)
-- [Human Centered Robotics Laboratory - University of Texas at Austin](http://sites.utexas.edu/hcrl/)
-- [Hybrid Robotics - Berkeley Humanoid](https://berkeley-humanoid.com/)
-- [Institute for Human and Machine Cognition - Nadia](https://robots.ihmc.us/)
-- [LeCAR Lab - CMU](https://lecar-lab.github.io)
-- [Unitree - G1](https://mp.weixin.qq.com/s/RGNVRazZqDn3y_Ijemc5Kw)
+- [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [GRASP Lab, University of Pennsylvania](https://www.grasp.upenn.edu)
+- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)
+- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)
+- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)
+- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)
+- [University of California, Berkeley](https://www.berkeley.edu)
+  - [BAIR: The Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)
+  - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu)
+    - [Berkeley Humanoid](https://berkeley-humanoid.com) - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org)
+
+**Companies**
+
+- [1X](https://www.1x.tech)
+- [Ascento](https://www.ascento.ai)
+- [Agibot](https://www.agibot.com)
+- [Agility Robotics](https://www.agilityrobotics.com)
+- [Apptronik, spinout of HCRL](https://apptronik.com)
+- [Boardwalk Robotics](https://boardwalkrobotics.com)
+- [Boston Dynamics](https://bostondynamics.com)
+  - [Electric Altas](https://bostondynamics.com/atlas)
+- [Engineered Arts](https://engineeredarts.com)
+- [Figure](https://www.figure.ai)
+- [Fourier](https://www.fftai.com)
+- [KEENON](https://www.keenon.com)
+- [NEURA Robotics](https://neura-robotics.com)
+- [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
+- [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
+- [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
+- [Tesla](https://www.tesla.com/AI)
+- [Tokyo Robotics](https://robotics.tokyo)
+- [UBTECH Robotics](https://www.ubtrobot.com)
+- [Unitree Robotics](https://www.unitree.com)
 </details>
 
 ---
