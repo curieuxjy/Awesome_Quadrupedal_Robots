@@ -549,6 +549,7 @@
   - [![](https://img.shields.io/badge/LightwheelAI-mjcf2usd-black?style=flat-square&logo=github)](https://github.com/LightwheelAI/mjcf2usd) <img src="https://img.shields.io/github/stars/LightwheelAI/mjcf2usd?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/LightwheelAI-usd2mjcf-black?style=flat-square&logo=github)](https://github.com/LightwheelAI/usd2mjcf) <img src="https://img.shields.io/github/stars/LightwheelAI/usd2mjcf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nicrusso7-rex--models-black?style=flat-square&logo=github)](https://github.com/nicrusso7/rex-models) <img src="https://img.shields.io/github/stars/nicrusso7/rex-models?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/newton--physics-newton--assets-black?style=flat-square&logo=github)](https://github.com/newton-physics/newton-assets) <img src="https://img.shields.io/github/stars/newton-physics/newton-assets?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboticsDesignLab-jitterbug-black?style=flat-square&logo=github)](https://github.com/RoboticsDesignLab/jitterbug) <img src="https://img.shields.io/github/stars/RoboticsDesignLab/jitterbug?style=flat-square&color=yellow">
 </details>
@@ -567,10 +568,9 @@
 - [![](https://img.shields.io/badge/isaac--sim-IsaacSim-black?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacSim) <img src="https://img.shields.io/github/stars/isaac-sim/IsaacSim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVIDIA-warp-black?style=flat-square&logo=github)](https://github.com/NVIDIA/warp) <img src="https://img.shields.io/github/stars/NVIDIA/warp?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/newton--physics-newton-black?style=flat-square&logo=github)](https://github.com/newton-physics/newton) <img src="https://img.shields.io/github/stars/newton-physics/newton?style=flat-square&color=yellow"> [Conceptual background](https://deepwiki.com/newton-physics/newton)
-  -  [![](https://img.shields.io/badge/LightwheelAI-black?style=flat-square&logo=github)](https://github.com/LightwheelAI)
-     - [![](https://img.shields.io/badge/LightwheelAI-Newton--Lightwheel-black?style=flat-square&logo=github)](https://github.com/LightwheelAI/Newton-Lightwheel) <img src="https://img.shields.io/github/stars/LightwheelAI/Newton-Lightwheel?style=flat-square&color=yellow">
-  - [![](https://img.shields.io/badge/NeRD-lightblue?style=flat-square)](https://neural-robot-dynamics.github.io)  [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
-  - [![](https://img.shields.io/badge/newton--physics-newton--assets-black?style=flat-square&logo=github)](https://github.com/newton-physics/newton-assets) <img src="https://img.shields.io/github/stars/newton-physics/newton-assets?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/LightwheelAI-black?style=flat-square&logo=github)](https://github.com/LightwheelAI)
+    - [![](https://img.shields.io/badge/LightwheelAI-Newton--Lightwheel-black?style=flat-square&logo=github)](https://github.com/LightwheelAI/Newton-Lightwheel) <img src="https://img.shields.io/github/stars/LightwheelAI/Newton-Lightwheel?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/rewarped-rewarped-black?style=flat-square&logo=github)](https://github.com/rewarped/rewarped) <img src="https://img.shields.io/github/stars/rewarped/rewarped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/raisimTech-raisimlib-black?style=flat-square&logo=github)](https://github.com/raisimTech/raisimlib) <img src="https://img.shields.io/github/stars/raisimTech/raisimlib?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/yougod6-RaiSim_Project-black?style=flat-square&logo=github)](https://github.com/yougod6/RaiSim_Project) <img src="https://img.shields.io/github/stars/yougod6/RaiSim_Project?style=flat-square&color=yellow">
@@ -734,6 +734,12 @@
 - [![](https://img.shields.io/badge/oravus-object--rel--nav-black?style=flat-square&logo=github)](https://github.com/oravus/object-rel-nav) <img src="https://img.shields.io/github/stars/oravus/object-rel-nav?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/podgorki-TANGO-black?style=flat-square&logo=github)](https://github.com/podgorki/TANGO) <img src="https://img.shields.io/github/stars/podgorki/TANGO?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square&logo=github)](https://github.com/zst1406217/VR-Robo) <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>Teleoperation</b></summary>
+
+- [![](https://img.shields.io/badge/leggedrobotics-unity_ros_teleoperation-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/unity_ros_teleoperation) <img src="https://img.shields.io/github/stars/leggedrobotics/unity_ros_teleoperation?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/leggedrobotics-radiance_field_ros-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/radiance_field_ros) <img src="https://img.shields.io/github/stars/leggedrobotics/radiance_field_ros?style=flat-square&color=yellow">
 </details>
 
 </details>
