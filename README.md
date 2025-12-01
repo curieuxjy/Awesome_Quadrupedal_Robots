@@ -554,7 +554,6 @@
 - [![](https://img.shields.io/badge/robot--descriptions-awesome--robot--descriptions-black?style=flat-square&logo=github)](https://github.com/robot-descriptions/awesome-robot-descriptions) <img src="https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RoboticsDesignLab-jitterbug-black?style=flat-square&logo=github)](https://github.com/RoboticsDesignLab/jitterbug) <img src="https://img.shields.io/github/stars/RoboticsDesignLab/jitterbug?style=flat-square&color=yellow">
 </details>
-
 <a id="quadruped_sim_platforms"></a>
 <details><summary><b>Simulation Platforms</b></summary>
 
@@ -562,6 +561,7 @@
 - [![](https://img.shields.io/badge/dojo--sim-Dojo.jl-black?style=flat-square&logo=github)](https://github.com/dojo-sim/Dojo.jl) <img src="https://img.shields.io/github/stars/dojo-sim/Dojo.jl?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/dojo--sim-dojopy-black?style=flat-square&logo=github)](https://github.com/dojo-sim/dojopy) <img src="https://img.shields.io/github/stars/dojo-sim/dojopy?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/erwincoumans-tiny--differentiable--simulator-black?style=flat-square&logo=github)](https://github.com/erwincoumans/tiny-differentiable-simulator) <img src="https://img.shields.io/github/stars/erwincoumans/tiny-differentiable-simulator?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/evronix-quadruped_sim2sim-black?style=flat-square&logo=github)](https://github.com/evronix/quadruped_sim2sim) <img src="https://img.shields.io/github/stars/evronix/quadruped_sim2sim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Genesis--Embodied--AI-Genesis-black?style=flat-square&logo=github)](https://github.com/Genesis-Embodied-AI/Genesis) <img src="https://img.shields.io/github/stars/Genesis-Embodied-AI/Genesis?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google--deepmind-mujoco-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/google--deepmind-mujoco_warp-black?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco_warp) <img src="https://img.shields.io/github/stars/google-deepmind/mujoco_warp?style=flat-square&color=yellow">
@@ -577,7 +577,6 @@
 - [![](https://img.shields.io/badge/raisimTech-raisimlib-black?style=flat-square&logo=github)](https://github.com/raisimTech/raisimlib) <img src="https://img.shields.io/github/stars/raisimTech/raisimlib?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/yougod6-RaiSim_Project-black?style=flat-square&logo=github)](https://github.com/yougod6/RaiSim_Project) <img src="https://img.shields.io/github/stars/yougod6/RaiSim_Project?style=flat-square&color=yellow">
 </details>
-
 <a id="quadruped_sim_frameworks"></a>
 <details><summary><b>Software frameworks</b></summary>
 
