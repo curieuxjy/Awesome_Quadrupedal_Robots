@@ -30,12 +30,14 @@
   - [MANTIS](https://robotik.dfki-bremen.de/en/research/robot-systems/mantis)
   - [Quad B12](https://robotik.dfki-bremen.de/en/research/robot-systems/quad-b12)
 - [HyQ](https://robots.ieee.org/robots/hyq)
+- [KLEIYN](https://keitayoneda.github.io/kleiyn-chimney-climbing)
 - [Magnecko](https://magnecko.ethz.ch)
 - [Max](https://www.chinamoneynetwork.com/2021/03/05/tencents-new-robotic-dog-max-has-wheels-on-its-knees-can-travel-at-25km-hour)
 - [Mevius](https://github.com/haraduka/mevius)
-- [MiniPupper](https://minipupperdocs.readthedocs.io)
 - [Petoi](https://www.petoi.com)
 - [PongBot](https://rclab.kookmin.ac.kr/project1/quadruped-robot)
+- [Pupper](https://handsonrobotics.org)
+  - [MiniPupper](https://minipupperdocs.readthedocs.io)
 - [Raibo](https://www.railab.kaist.ac.kr/sections/robots#raibo-2)
 - [RBQ](https://www.rainbow-robotics.com/en_rbq)
 - [Solo8](https://open-dynamic-robot-initiative.github.io/)
@@ -645,6 +647,7 @@
 - [![](https://img.shields.io/badge/SysCV-soccer--player-black?style=flat-square&logo=github)](https://github.com/SysCV/soccer-player) <img src="https://img.shields.io/github/stars/SysCV/soccer-player?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/WentDong-Adapt-black?style=flat-square&logo=github)](https://github.com/WentDong/Adapt) <img src="https://img.shields.io/github/stars/WentDong/Adapt?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/yunifuchioka-opt--mimic--raisim-black?style=flat-square&logo=github)](https://github.com/yunifuchioka/opt-mimic-raisim) <img src="https://img.shields.io/github/stars/yunifuchioka/opt-mimic-raisim?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/yxyang-jumping_cod-black?style=flat-square&logo=github)](https://github.com/yxyang/jumping_cod) <img src="https://img.shields.io/github/stars/yxyang/jumping_cod?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/yunifuchioka-opt--mimic--robot--deploy-black?style=flat-square&logo=github)](https://github.com/yunifuchioka/opt-mimic-robot-deploy) <img src="https://img.shields.io/github/stars/yunifuchioka/opt-mimic-robot-deploy?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ZiwenZhuang-parkour-black?style=flat-square&logo=github)](https://github.com/ZiwenZhuang/parkour) <img src="https://img.shields.io/github/stars/ZiwenZhuang/parkour?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ziyanx02-Genesis--backflip-black?style=flat-square&logo=github)](https://github.com/ziyanx02/Genesis-backflip) <img src="https://img.shields.io/github/stars/ziyanx02/Genesis-backflip?style=flat-square&color=yellow">
@@ -822,22 +825,25 @@
 <details>
 <summary><b>Homepages</b></summary>
 
-- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)
-- [BioRob (Biorobotics Laboratory), EPFL](https://www.epfl.ch/labs/biorob)
-- [Computational Robotics Lab, ETH](http://crl.ethz.ch)
-- [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory, University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page)
-- [Dynamic Legged Systems Lab, Istituto Italiano di Tecnologia](https://www.iit.it/web/dynamic-legged-systems)
-- [Dynamic Robot Systems Group, University of Oxford](https://ori.ox.ac.uk/labs/drs)
-- [Hybrid Robotics Lab, UC Berkely](https://hybrid-robotics.berkeley.edu)
-- [LeCAR Lab, CMU](https://lecar-lab.github.io)
-- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab)
-- [RAI Lab, KAIST](https://www.railab.kaist.ac.kr)
+- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu) - [Github](https://github.com/mit-biomimetics)
+- [BioRob (Biorobotics Laboratory), EPFL](https://www.epfl.ch/labs/biorob) - [Github](https://github.com/biorob)
+- [Dynamic and Autonomous Robotic Systems (DARoS) Laboratory, University of Massachusetts Amherst](https://groups.cs.umass.edu/daros/sample-home-page) - [Github](https://github.com/DARoSLab)
+- [Dynamic Legged Systems Lab, Italian Institute of Technology (IIT)](https://www.iit.it/web/dynamic-legged-systems) - [Github](https://github.com/iit-DLSLab)
+- [Dynamic Robot Systems Group, University of Oxford](https://ori.ox.ac.uk/labs/drs) - [Github](https://github.com/ori-drs)
+- [ETH Zürich](https://robotx.ethz.ch) - [ETH Robotics Club](https://www.ethrobotics.ch)
+  - [Computational Robotics Lab](http://crl.ethz.ch)
+  - [Robotic System Lab](https://rsl.ethz.ch) - [Github](https://github.com/leggedrobotics)
+- [Hybrid Robotics Lab, UC Berkely](https://hybrid-robotics.berkeley.edu) - [Github](https://github.com/HybridRobotics)
+- [LeCAR Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
+- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
+- [RAI Lab, KAIST](https://www.railab.kaist.ac.kr) - [Github](https://github.com/railabatkaist)
 - [RcLab, Kookmin University](https://rclab.kookmin.ac.kr/home)
-- [Robomechanics Lab, Carnegie Mellon University](https://www.cmu.edu/me/robomechanicslab)
-- [Robotic System Lab, ETH Zürich](https://rsl.ethz.ch)
+- [Robomechanics Lab, Carnegie Mellon University (CMU)](https://www.cmu.edu/me/robomechanicslab) - [Github](https://github.com/robomechanics)
 - [Robotics Innovatory, SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
-- [StochLab (Stochastic Robotics Lab), IISc](https://www.stochlab.com)
-- [The Robotics Lab, IDSIA](https://idsia-robotics.github.io)
+- [Stanford Robotics Center](https://src.stanford.edu)
+  - [Stanford Robotics Club](https://stanfordroboticsclub.github.io) - [Github](https://github.com/stanfordroboticsclub)
+- [StochLab (Stochastic Robotics Lab), Indian Institute of Science (IISc)](https://www.stochlab.com) - [Github](https://github.com/StochLab)
+- [The Robotics Lab, IDSIA](https://idsia-robotics.github.io) - [Github](https://github.com/idsia-robotics)
 
 </details>
 
@@ -1001,24 +1007,37 @@
 
 <details><summary>List</summary>
   
-- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)
-- [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [GRASP Lab, University of Pennsylvania](https://www.grasp.upenn.edu)
+- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu) - [Github](https://github.com/mit-biomimetics)
 - [DFKI: German Research Center for Artificial Intelligence](https://robotik.dfki-bremen.de/en/research/robot-systems)
-- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)
-- [EPIC: Embodied Perception and InteraCtion Lab, Peking University](https://pku-epic.github.io)
-- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)
-- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)
+  - [Github-DFKI](https://github.com/DFKI/Awesome-DFKI)
+  - [Github-RIC](https://github.com/dfki-ric)
+- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl) - [Github](https://github.com/osudrl)
+- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl) - [Github](https://github.com/UT-HCRL)
+- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us) - [Github](https://github.com/ihmcrobotics)
 - [IIT: Italian Institute of Technology](https://www.iit.it) - [iCub](https://www.iit.it/web/icub-tech) - [ergoCub](https://ergocub.eu)
-  - [Artificial and Mechanical Intelligence](https://ami.iit.it)
-  - [Humanoid Sensing and Perception](https://hsp.iit.it)
-- [K-Scale Labs](https://www.kscale.dev)
-- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)
-- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab)
+  - [Artificial and Mechanical Intelligence](https://ami.iit.it) - [Github](https://github.com/ami-iit)
+  - [Humanoid Sensing and Perception](https://hsp.iit.it) - [Github](https://github.com/hsp-iit)
+- [JSK: Johou Systems Kougaku Lab, UTokyo](http://www.jsk.t.u-tokyo.ac.jp/research.html)
+  - [MEVITA](https://haraduka.github.io/mevita-hardware) - [Github](https://github.com/haraduka/mevita)
+- [K-Scale Labs](https://www.kscale.dev)- [Github](https://github.com/kscalelabs)
+- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
+- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
+- [Peking University](https://english.pku.edu.cn)
+  - [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io) - [Github](https://github.com/PKU-EPIC)
+  - [Reinforcement Learning Lab](https://z0ngqing.github.io) - [Github](https://github.com/PKU-RL)
+  - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en) - [Github](https://github.com/PKU-MARL)
+  - [PAIR Lab](https://pair-lab.ai) - [Github](https://github.com/PKU-Alignment)
 - [PRIN: Principles of Robot Intelligence from Nature/Nurture Laboratory, NII](https://prinlab.org/en)
+- [Stanford Robotics Center](https://src.stanford.edu)
+  - [The Movement Lab](https://stanford-tml.github.io/main) - [Github](https://github.com/Stanford-TML)
 - [University of California, Berkeley](https://www.berkeley.edu)
   - [BAIR: The Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)
   - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu)
-    - [Berkeley Humanoid](https://berkeley-humanoid.com) - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org)
+    - [Berkeley Humanoid](https://berkeley-humanoid.com) - [Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
+    - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org) - [Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)
+- [University of Pennsylvania](https://www.upenn.edu)
+  - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [Github](https://github.com/DAIRLab)
+  - [GRASP Lab](https://www.grasp.upenn.edu) - [Github](https://github.com/grasp-lyrl)
 </details>
 
 **Companies** 🏢
@@ -1035,6 +1054,7 @@
 - [Boston Dynamics](https://bostondynamics.com)
   - [Electric Altas](https://bostondynamics.com/atlas)
 - [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
+- [EngineAI](https://www.engineai.com.cn)
 - [Engineered Arts](https://engineeredarts.com)
 - [Figure](https://www.figure.ai)
 - [Fourier](https://www.fftai.com)
