@@ -675,6 +675,7 @@
 - [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/aCodeDog-legged--robots--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/legged-robots-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/legged-robots-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-jacta--manipulation-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/jacta-manipulation) <img src="https://img.shields.io/github/stars/bdaiinstitute/jacta-manipulation?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/bdaiinstitute-relic-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/relic) <img src="https://img.shields.io/github/stars/bdaiinstitute/relic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/catachiii-rambo-black?style=flat-square&logo=github)](https://github.com/catachiii/rambo) <img src="https://img.shields.io/github/stars/catachiii/rambo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/chrisyrniu-Human2LocoMan-black?style=flat-square&logo=github)](https://github.com/chrisyrniu/Human2LocoMan) <img src="https://img.shields.io/github/stars/chrisyrniu/Human2LocoMan?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Improbable--AI-learning--compliance-black?style=flat-square&logo=github)](https://github.com/Improbable-AI/learning-compliance) <img src="https://img.shields.io/github/stars/Improbable-AI/learning-compliance?style=flat-square&color=yellow">
@@ -727,6 +728,7 @@
 
 <details><summary><b>MPC</b></summary>
 
+- [![](https://img.shields.io/badge/ancorasir-OverconstrainedLocomotion-black?style=flat-square&logo=github)](https://github.com/ancorasir/OverconstrainedLocomotion) <img src="https://img.shields.io/github/stars/ancorasir/OverconstrainedLocomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ARCaD--Lab--UM-RF--MPC-black?style=flat-square&logo=github)](https://github.com/ARCaD-Lab-UM/RF-MPC) <img src="https://img.shields.io/github/stars/ARCaD-Lab-UM/RF-MPC?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dojo--sim-ContactImplicitMPC.jl-black?style=flat-square&logo=github)](https://github.com/dojo-sim/ContactImplicitMPC.jl) <img src="https://img.shields.io/github/stars/dojo-sim/ContactImplicitMPC.jl?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/johnzhang3-ContactImplicitMPC.jl-black?style=flat-square&logo=github)](https://github.com/johnzhang3/ContactImplicitMPC.jl) <img src="https://img.shields.io/github/stars/johnzhang3/ContactImplicitMPC.jl?style=flat-square&color=yellow">
@@ -802,7 +804,7 @@
 - [Northwestern Robotics](https://www.youtube.com/user/kevinl2145)
 - [Oxford Dynamic Robot Systems Group](https://www.youtube.com/channel/UCaiUvr8geeebTWtEcQgUzpw) 
 - [PRO ROBOTS](https://www.youtube.com/channel/UCu8luTDe_Xxd2ahAXsCWX5g)
-- [RaiLab Kaist](https://www.youtube.com/channel/UC2kxDvHbUj-nQlUMw09ih0Q)
+- [RaiLab Kaist](https://www.youtube.com/channel/UC2kxDvHbUj-nQlUMw09ih0Q) 
 - [RcLab](https://www.youtube.com/channel/UCCDU6dQ7FDBjOTlkAuHQ21g)
 - [Reinforcement Learning Zurich](https://www.youtube.com/channel/UCml6vXgE_n2XdhONgSnkPFw)
 - [RISE LAB - SKKU](https://www.youtube.com/@rise-lab-skku)
@@ -836,7 +838,9 @@
 - [Hybrid Robotics Lab, UC Berkely](https://hybrid-robotics.berkeley.edu) - [Github](https://github.com/HybridRobotics)
 - [LeCAR Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
 - [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
+- [Neuro-Robotics Lab, Tohoku University](https://neuro.mech.tohoku.ac.jp)
 - [RAI Lab, KAIST](https://www.railab.kaist.ac.kr) - [Github](https://github.com/railabatkaist)
+- [RAI, Robotics and AI Institute](https://rai-inst.com)
 - [RcLab, Kookmin University](https://rclab.kookmin.ac.kr/home)
 - [Robomechanics Lab, Carnegie Mellon University (CMU)](https://www.cmu.edu/me/robomechanicslab) - [Github](https://github.com/robomechanics)
 - [Robotics Innovatory, SungKyunKwan University](https://mecha.skku.ac.kr/roboticsinnovatory/index.do)
@@ -1028,6 +1032,7 @@
   - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en) - [Github](https://github.com/PKU-MARL)
   - [PAIR Lab](https://pair-lab.ai) - [Github](https://github.com/PKU-Alignment)
 - [PRIN: Principles of Robot Intelligence from Nature/Nurture Laboratory, NII](https://prinlab.org/en)
+- [Robot Learning Lab, NAIST](https://sites.google.com/view/naist-robot-learning-en)
 - [Stanford Robotics Center](https://src.stanford.edu)
   - [The Movement Lab](https://stanford-tml.github.io/main) - [Github](https://github.com/Stanford-TML)
 - [University of California, Berkeley](https://www.berkeley.edu)
@@ -1063,6 +1068,9 @@
 - [KEENON](https://www.keenon.com)
 - [NEURA Robotics](https://neura-robotics.com)
 - [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
+- [PAL Robotics](https://pal-robotics.com)
+  - [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot)
+  - [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
 - [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
 - [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
 - [Tesla](https://www.tesla.com/AI)
