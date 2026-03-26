@@ -57,6 +57,16 @@
 <details>
 <summary><b>2026</b></summary>
 
+- [AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding](https://arxiv.org/abs/2601.08485)
+- [Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation](https://doi.org/10.1109/LRA.2026.3664311)
+- [Dual-Horizon Hybrid Internal Model for Low-Gravity Quadrupedal Jumping with Hardware-in-the-Loop Validation](https://arxiv.org/abs/2603.07999)
+- [Energy Prediction on Sloping Ground for Quadruped Robots](https://arxiv.org/abs/2603.11963)
+- [Jumping Control for a Quadrupedal Wheeled-Legged Robot via NMPC and DE Optimization](https://arxiv.org/abs/2602.21612)
+- [Learning Accurate and Robust Velocity Tracking for Quadrupedal Robots](https://doi.org/10.1002/rob.70028)
+- [Learning Quadrupedal Locomotion for a Heavy Hydraulic Robot Using an Actuator Model](https://arxiv.org/abs/2601.11143)
+- [MLM: Learning Multi-Task Loco-Manipulation Whole-Body Control for Quadruped Robot With Arm](https://doi.org/10.1109/LRA.2025.3632087)
+- [Reinforcement Learning for Robust Climbing Locomotion With Rope-Driven Legged Robot](https://doi.org/10.1109/LRA.2026.3665321)
+- [START: Traversing Sparse Footholds With Terrain Reconstruction](https://doi.org/10.1109/LRA.2025.3645649)
 - [Teaching Robots Like Dogs: Learning Agile Navigation from Luring, Gesture, and Speech](https://arxiv.org/abs/2601.08422)
 
 </details>
@@ -64,9 +74,12 @@
 <details>
 <summary><b>2025</b></summary>
 
+<img src="./assets/2025.png" width="100%" class="center"/>
+
 - [Adaptive Non-linear Centroidal MPC with Stability Guarantees for Robust Locomotion of Legged Robots](https://arxiv.org/pdf/2409.01144)
 - [ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real](https://arxiv.org/pdf/2506.01759)
 - [Benchmarking Different QP Formulations and Solvers for Dynamic Quadrupedal Walking](https://arxiv.org/abs/2502.01329)
+- [Bipedalism for Quadrupedal Robots: Versatile Loco-Manipulation through Risk-Adaptive Reinforcement Learning](https://arxiv.org/abs/2507.20382)
 - [Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation](https://uan.csail.mit.edu/rsc/paper.pdf)
 - [CAIMAN: Causal Action Influence Detection for Sample Efficient Loco-manipulation](https://arxiv.org/abs/2502.00835)
 - [Disturbance-Aware Adaptive Compensation in Hybrid Force-Position Locomotion Policy for Legged Robots](https://arxiv.org/pdf/2506.00472)
@@ -74,6 +87,7 @@
 - [Floating-Base Deep Lagrangian Networks](https://arxiv.org/abs/2510.17270)
 - [Generating Diverse Challenging Terrains for Legged Robots Using Quality-Diversity Algorithm](https://arxiv.org/pdf/2506.01362)
 - [Learning coordinated badminton skills for legged manipulators](https://arxiv.org/abs/2505.22974)
+- [Learning Stable Bipedal Locomotion Skills for Quadrupedal Robots on Challenging Terrains with Automatic Fall Recovery](https://www.nature.com/articles/s44182-025-00043-2)
 - [Learning Steerable Imitation Controllers from Unstructured Animal Motions](https://arxiv.org/pdf/2507.00677)
 - [Learning Unified Force and Position Control for Legged Loco-Manipulation](https://arxiv.org/abs/2505.20829)
 - [LEVA: A high-mobility logistic vehicle with legged suspension](https://arxiv.org/pdf/2503.10028)
@@ -83,16 +97,20 @@
 - [MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models](https://arxiv.org/abs/2503.08007)
 - [MuJoCo Playground](https://www.arxiv.org/abs/2502.08844)
 - [Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move](https://arxiv.org/abs/2509.14342)
+- [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453)
 - [NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models](https://arxiv.org/abs/2503.10626)
 - [Obstacle-Avoidant Leader Following with a Quadruped Robot](https://arxiv.org/pdf/2410.00572)
 - [Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/abs/2505.19214)
+- [Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning](https://arxiv.org/abs/2505.11164)
 - [Physics-Based Motion Imitation with Adversarial Differential Discriminators](https://arxiv.org/abs/2505.04961)
 - [Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots](https://arxiv.org/abs/2506.07823)
+- [QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning](https://arxiv.org/abs/2412.15576)
 - [RAMBO: RL-augmented Model-based Whole-body Control for Loco-manipulation](https://arxiv.org/abs/2504.06662)
 - [Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](https://arxiv.org/abs/2505.10547)
 - [Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning](https://arxiv.org/abs/2505.14266)
 - [Spatio-Temporal Motion Retargeting for Quadruped Robots](https://arxiv.org/abs/2404.11557)
 - [TAR: Teacher-Aligned Representations via Contrastive Learning for Quadrupedal Locomotion](https://arxiv.org/abs/2503.20839)
+- [Towards Quadrupedal Jumping and Walking for Dynamic Locomotion using Reinforcement Learning](https://arxiv.org/abs/2510.24584)
 - [Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion](https://arxiv.org/abs/2508.08982)
 - [Variable Stiffness for Robust Locomotion through Reinforcement Learning](https://arxiv.org/abs/2502.09436)
 - [Versatile Legged Locomotion Adaptation through Vision-Language Grounding](https://openreview.net/forum?id=xz1Uu8Yb7w)
@@ -139,7 +157,7 @@
 - [Learning Advanced Locomotion for Quadrupedal Robots: A Distributed Multi-Agent Reinforcement Learning Framework with Riemannian Motion Policies](https://www.mdpi.com/2218-6581/13/6/86)
 - [Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors](https://arxiv.org/abs/2407.02282)
 - [Learning Force Control for Legged Manipulation](https://arxiv.org/abs/2405.01402)
-- [Learning Quadruped Locomotion Using Differentiable Simulation](https://arxiv.org/abs/2403.14864)
+- [Learning Quadruped Locomotion using Differentiable Simulation](https://arxiv.org/abs/2403.14864)
 - [Learning Quadrupedal High-Speed Running on Uneven Terrain](https://www.mdpi.com/2313-7673/9/1/37)
 - [Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning](https://arxiv.org/abs/2309.14246)
 - [Learning robust autonomous navigation and locomotion for wheeled-legged robots](https://www.science.org/doi/10.1126/scirobotics.adi9641)
@@ -167,6 +185,7 @@
 - [PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://arxiv.org/abs/2408.13740)
 - [ProNav: Proprioceptive Traversability Estimation for Legged Robot Navigation in Outdoor Environments](https://arxiv.org/abs/2307.09754)
 - [Reduced Model Predictive Control Toward Highly Dynamic Quadruped Locomotion](https://ieeexplore.ieee.org/document/10418132/)
+- [Reinforcement Learning For Quadrupedal Locomotion: Current Advancements And Future Perspectives](https://arxiv.org/abs/2410.10438)
 - [Residual Policy Learning for Perceptive Quadruped Control Using Differentiable Simulation](https://arxiv.org/pdf/2410.03076)
 - [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 - [RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion](https://www.roboticsproceedings.org/rss20/p060.pdf)
@@ -995,8 +1014,8 @@
 - [![](https://img.shields.io/badge/NxRoot-ALSV4--Metahumans-black?style=flat-square&logo=github)](https://github.com/NxRoot/ALSV4-Metahumans) <img src="https://img.shields.io/github/stars/NxRoot/ALSV4-Metahumans?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/sebastianstarke-AI4Animation-black?style=flat-square&logo=github)](https://github.com/sebastianstarke/AI4Animation) <img src="https://img.shields.io/github/stars/sebastianstarke/AI4Animation?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/ethanmclark1-biped_locomotion-black?style=flat-square&logo=github)](https://github.com/ethanmclark1/biped_locomotion) <img src="https://img.shields.io/github/stars/ethanmclark1/biped_locomotion?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/SMPLOlympics-SMPLOlympics-black?style=flat-square&logo=github)](https://github.com/SMPLOlympics/SMPLOlympics) <img src="https://img.shields.io/github/stars/SMPLOlympics/SMPLOlympics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Sirui--Xu-InterMimic-black?style=flat-square&logo=github)](https://github.com/Sirui-Xu/InterMimic) <img src="https://img.shields.io/github/stars/Sirui-Xu/InterMimic?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/SMPLOlympics-SMPLOlympics-black?style=flat-square&logo=github)](https://github.com/SMPLOlympics/SMPLOlympics) <img src="https://img.shields.io/github/stars/SMPLOlympics/SMPLOlympics?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/wzyabcas-InterAct-black?style=flat-square&logo=github)](https://github.com/wzyabcas/InterAct) <img src="https://img.shields.io/github/stars/wzyabcas/InterAct?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/tianxintao-get_up_control-black?style=flat-square&logo=github)](https://github.com/tianxintao/get_up_control) <img src="https://img.shields.io/github/stars/tianxintao/get_up_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/UBCMOCCA-SymmetricRL-black?style=flat-square&logo=github)](https://github.com/UBCMOCCA/SymmetricRL) <img src="https://img.shields.io/github/stars/UBCMOCCA/SymmetricRL?style=flat-square&color=yellow">
