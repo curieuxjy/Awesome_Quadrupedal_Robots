@@ -632,6 +632,7 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning frameworks</b></summary>
 
+- [![](https://img.shields.io/badge/darshmenon-quadruped--dog--rl-black?style=flat-square&logo=github)](https://github.com/darshmenon/quadruped-dog-rl) <img src="https://img.shields.io/github/stars/darshmenon/quadruped-dog-rl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Genesis--Learning-lightblue?style=flat-square)](https://genesis-world.readthedocs.io)
   - [![](https://img.shields.io/badge/Argo--Robot-quadrupeds_locomotion-black?style=flat-square&logo=github)](https://github.com/Argo-Robot/quadrupeds_locomotion) <img src="https://img.shields.io/github/stars/Argo-Robot/quadrupeds_locomotion?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/lupinjia-genesis_lr-black?style=flat-square&logo=github)](https://github.com/lupinjia/genesis_lr) <img src="https://img.shields.io/github/stars/lupinjia/genesis_lr?style=flat-square&color=yellow">
