@@ -1019,9 +1019,9 @@
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based: Imitation</b></summary>
 
-- [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square&logo=github)](https://github.com/NVlabs/ProtoMotions) <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/GalaxyGeneralRobotics-LATENT-black?style=flat-square&logo=github)](https://github.com/GalaxyGeneralRobotics/LATENT) <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/LATENT?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/lecar--lab-hdmi-black?style=flat-square&logo=github)](https://github.com/lecar-lab/hdmi) <img src="https://img.shields.io/github/stars/lecar-lab/hdmi?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square&logo=github)](https://github.com/NVlabs/ProtoMotions) <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/EGalahad-sim2real-black?style=flat-square&logo=github)](https://github.com/EGalahad/sim2real) <img src="https://img.shields.io/github/stars/EGalahad/sim2real?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Mimicking--Bench-lightblue?style=flat-square)](https://mimicking-bench.github.io) [Arxiv](https://arxiv.org/abs/2412.17730)
 - [![](https://img.shields.io/badge/PHP-lightblue?style=flat-square)](https://php-parkour.github.io/index.html) [Arxiv](https://arxiv.org/abs/2602.15827)
@@ -1033,8 +1033,8 @@
 <details><summary><b>Teleoperation/Motion-Tracking/Retargeting</b></summary>
 
 - [![](https://img.shields.io/badge/amazon--far-holosoma-black?style=flat-square&logo=github)](https://github.com/amazon-far/holosoma) <img src="https://img.shields.io/github/stars/amazon-far/holosoma?style=flat-square&color=yellow"> [OmniRetarget](https://omniretarget.github.io)
-- [![](https://img.shields.io/badge/HybridRobotics-whole_body_tracking-black?style=flat-square&logo=github)](https://github.com/HybridRobotics/whole_body_tracking) <img src="https://img.shields.io/github/stars/HybridRobotics/whole_body_tracking?style=flat-square&color=yellow"> [BeyondMimic](https://beyondmimic.github.io)
 - [![](https://img.shields.io/badge/GalaxyGeneralRobotics-OpenTrack-black?style=flat-square&logo=github)](https://github.com/GalaxyGeneralRobotics/OpenTrack) <img src="https://img.shields.io/github/stars/GalaxyGeneralRobotics/OpenTrack?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/HybridRobotics-whole_body_tracking-black?style=flat-square&logo=github)](https://github.com/HybridRobotics/whole_body_tracking) <img src="https://img.shields.io/github/stars/HybridRobotics/whole_body_tracking?style=flat-square&color=yellow"> [BeyondMimic](https://beyondmimic.github.io)
 - [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/SONIC-lightblue?style=flat-square)](https://nvlabs.github.io/SONIC) [Arxiv](https://arxiv.org/abs/2511.07820)
 - [![](https://img.shields.io/badge/SPIDER-lightblue?style=flat-square)](https://jc-bao.github.io/spider-project) [![](https://img.shields.io/badge/facebookresearch/spider-black?style=flat-square&logo=github)](https://github.com/facebookresearch/spider) <img src="https://img.shields.io/github/stars/facebookresearch/spider?style=flat-square&color=yellow">
