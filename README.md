@@ -86,6 +86,7 @@
 - [FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots](https://arxiv.org/abs/2505.06883)
 - [Floating-Base Deep Lagrangian Networks](https://arxiv.org/abs/2510.17270)
 - [Generating Diverse Challenging Terrains for Legged Robots Using Quality-Diversity Algorithm](https://arxiv.org/pdf/2506.01362)
+- [Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/abs/2504.19322)
 - [Learning coordinated badminton skills for legged manipulators](https://arxiv.org/abs/2505.22974)
 - [Learning Stable Bipedal Locomotion Skills for Quadrupedal Robots on Challenging Terrains with Automatic Fall Recovery](https://www.nature.com/articles/s44182-025-00043-2)
 - [Learning Steerable Imitation Controllers from Unstructured Animal Motions](https://arxiv.org/pdf/2507.00677)
@@ -557,6 +558,13 @@
 
 - [![](https://img.shields.io/badge/aCodeDog-awesome--loco--manipulation-black?style=flat-square&logo=github)](https://github.com/aCodeDog/awesome-loco-manipulation) <img src="https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/beduffy-many--quadrupeds-black?style=flat-square&logo=github)](https://github.com/beduffy/many-quadrupeds) <img src="https://img.shields.io/github/stars/beduffy/many-quadrupeds?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>Datasets & Benchmarks</b></summary>
+
+- [![](https://img.shields.io/badge/iit--DLSLab-state_estimation_benchmark-black?style=flat-square&logo=github)](https://github.com/iit-DLSLab/state_estimation_benchmark) <img src="https://img.shields.io/github/stars/iit-DLSLab/state_estimation_benchmark?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-grand_tour_dataset-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/grand_tour_dataset) <img src="https://img.shields.io/github/stars/leggedrobotics/grand_tour_dataset?style=flat-square&color=yellow">
+
 </details>
 
 <details><summary><b>Hardware</b></summary>
