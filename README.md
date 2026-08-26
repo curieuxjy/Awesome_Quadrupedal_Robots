@@ -624,6 +624,7 @@
   - [![](https://img.shields.io/badge/NVIDIA-warp--nn-black?style=flat-square&logo=github)](https://github.com/NVIDIA/warp-nn) <img src="https://img.shields.io/github/stars/NVIDIA/warp-nn?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/NVlabs-neural--robot--dynamics-black?style=flat-square&logo=github)](https://github.com/NVlabs/neural-robot-dynamics) <img src="https://img.shields.io/github/stars/NVlabs/neural-robot-dynamics?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/rewarped-rewarped-black?style=flat-square&logo=github)](https://github.com/rewarped/rewarped) <img src="https://img.shields.io/github/stars/rewarped/rewarped?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/omnilink--tech-omnisim-black?style=flat-square&logo=github)](https://github.com/omnilink-tech/omnisim) <img src="https://img.shields.io/github/stars/omnilink-tech/omnisim?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/raisimTech-raisimlib-black?style=flat-square&logo=github)](https://github.com/raisimTech/raisimlib) <img src="https://img.shields.io/github/stars/raisimTech/raisimlib?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/yougod6-RaiSim_Project-black?style=flat-square&logo=github)](https://github.com/yougod6/RaiSim_Project) <img src="https://img.shields.io/github/stars/yougod6/RaiSim_Project?style=flat-square&color=yellow">
 </details>
