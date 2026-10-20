@@ -955,6 +955,8 @@
 
 > [Humanoid Guide](https://humanoid.guide)
 
+> [HumanoidStore](https://humanoidstore.co/?utm_source=awesome-quadrupedal-robots&utm_medium=listing)
+
 **Research** 📑
 
 <details><summary>Papers</summary>
