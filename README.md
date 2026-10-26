@@ -810,6 +810,7 @@
 - [![](https://img.shields.io/badge/qiayuanl-legged_control-black?style=flat-square&logo=github)](https://github.com/qiayuanl/legged_control) <img src="https://img.shields.io/github/stars/qiayuanl/legged_control?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/rhoban-placo-black?style=flat-square&logo=github)](https://github.com/rhoban/placo) <img src="https://img.shields.io/github/stars/rhoban/placo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/silvery107-wheeled--bipedal--jumping-black?style=flat-square&logo=github)](https://github.com/silvery107/wheeled-bipedal-jumping) <img src="https://img.shields.io/github/stars/silvery107/wheeled-bipedal-jumping?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/voltdog-mors_quadruped-black?style=flat-square&logo=github)](https://github.com/voltdog/mors_quadruped) <img src="https://img.shields.io/github/stars/voltdog/mors_quadruped?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>MPC</b></summary>
@@ -849,6 +850,7 @@
 - [![](https://img.shields.io/badge/ANYbotics-elevation_mapping-black?style=flat-square&logo=github)](https://github.com/ANYbotics/elevation_mapping) <img src="https://img.shields.io/github/stars/ANYbotics/elevation_mapping?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ANYbotics-grid_map-black?style=flat-square&logo=github)](https://github.com/ANYbotics/grid_map) <img src="https://img.shields.io/github/stars/ANYbotics/grid_map?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/vlfm) <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/dfl_rlab-dddmr_navigation-black?style=flat-square&logo=github)](https://github.com/dfl-rlab/dddmr_navigation) <img src="https://img.shields.io/github/stars/dfl-rlab/dddmr_navigation?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/HybridRobotics-quadruped_nmpc_dcbf_duality-black?style=flat-square&logo=github)](https://github.com/HybridRobotics/quadruped_nmpc_dcbf_duality) <img src="https://img.shields.io/github/stars/HybridRobotics/quadruped_nmpc_dcbf_duality?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-foci-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/foci) <img src="https://img.shields.io/github/stars/leggedrobotics/foci?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-smug_planner-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/smug_planner) <img src="https://img.shields.io/github/stars/leggedrobotics/smug_planner?style=flat-square&color=yellow">
@@ -1037,8 +1039,8 @@
 - [![](https://img.shields.io/badge/OpenMOSS-FRoM--W1-black?style=flat-square&logo=github)](https://github.com/OpenMOSS/FRoM-W1) <img src="https://img.shields.io/github/stars/OpenMOSS/FRoM-W1?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/HansZ8-RoboJuDo-black?style=flat-square&logo=github)](https://github.com/HansZ8/RoboJuDo) <img src="https://img.shields.io/github/stars/HansZ8/RoboJuDo?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/HorizonRobotics-HoloMotion-black?style=flat-square&logo=github)](https://github.com/HorizonRobotics/HoloMotion) <img src="https://img.shields.io/github/stars/HorizonRobotics/HoloMotion?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-GR00T--VisualSim2Real-black?style=flat-square&logo=github)](https://github.com/NVlabs/GR00T-VisualSim2Real) <img src="https://img.shields.io/github/stars/NVlabs/GR00T-VisualSim2Real?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/NVlabs-GR00T--WholeBodyControl-black?style=flat-square&logo=github)](https://github.com/NVlabs/GR00T-WholeBodyControl) <img src="https://img.shields.io/github/stars/NVlabs/GR00T-WholeBodyControl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NVlabs-ProtoMotions-black?style=flat-square&logo=github)](https://github.com/NVlabs/ProtoMotions) <img src="https://img.shields.io/github/stars/NVlabs/ProtoMotions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/RobotLocomotion-drake-black?style=flat-square&logo=github)](https://github.com/RobotLocomotion/drake) <img src="https://img.shields.io/github/stars/RobotLocomotion/drake?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/se--hwan-cusadi-black?style=flat-square&logo=github)](https://github.com/se-hwan/cusadi) <img src="https://img.shields.io/github/stars/se-hwan/cusadi?style=flat-square&color=yellow">
