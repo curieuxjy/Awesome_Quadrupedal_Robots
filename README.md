@@ -61,6 +61,7 @@
 - [Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation](https://doi.org/10.1109/LRA.2026.3664311)
 - [AutoPath: Learning Transferable Goal-Conditioned Stochastic Path Prior for Safe Navigation Without Human Demonstrations](https://arxiv.org/abs/2607.11739)
 - [Dual-Horizon Hybrid Internal Model for Low-Gravity Quadrupedal Jumping with Hardware-in-the-Loop Validation](https://arxiv.org/abs/2603.07999)
+- [Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap](https://arxiv.org/abs/2607.24079)
 - [Energy Prediction on Sloping Ground for Quadruped Robots](https://arxiv.org/abs/2603.11963)
 - [Feedback-MPPI: Fast Sampling-Based MPC via Rollout Differentiation -- Adios Low-Level Controllers](https://arxiv.org/abs/2506.14855)
 - [Jumping Control for a Quadrupedal Wheeled-Legged Robot via NMPC and DE Optimization](https://arxiv.org/abs/2602.21612)
