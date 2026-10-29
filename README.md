@@ -960,6 +960,8 @@
 
 > [HumanoidStore](https://humanoidstore.co/?utm_source=awesome-quadrupedal-robots&utm_medium=listing)
 
+> [Sourcebotics](https://sourcebotics.com/robots/humanoid-robots/)
+
 **Research** 📑
 
 <details><summary>Papers</summary>
