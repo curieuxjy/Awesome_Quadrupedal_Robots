@@ -1235,42 +1235,97 @@
 
 <details><summary>List</summary>
 
-- [1X](https://www.1x.tech)
+> The countries listed below are where bipedal robots are mainly developed, not where they are sold or used for business!
+
+<details><summary>Canada</summary>
+
+- [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
+</details>
+
+<details><summary>China</summary>
+
 - [Agibot](https://www.agibot.com)
-- [Agile Robots](https://www.agile-robots.com)
-- [Agility Robotics](https://www.agilityrobotics.com)
-- [Apptronik, spinout of HCRL](https://apptronik.com)
-- [Ascento](https://www.ascento.ai)
 - [Astribot](https://www.astribot.com)
-- [Boardwalk Robotics](https://boardwalkrobotics.com)
 - [Booster](https://www.booster.tech) - [Github](https://github.com/BoosterRobotics)
-- [Boston Dynamics](https://bostondynamics.com)
-  - [Electric Altas](https://bostondynamics.com/atlas)
-- [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
+- [Galbot](https://www.galbot.com)
 - [EngineAI](https://www.engineai.com.cn)
-- [Engineered Arts](https://engineeredarts.com)
-- [Figure](https://www.figure.ai)
+- [Lumos Robotics](https://www.lumosbot.tech)
 - [Fourier](https://www.fftai.com)
-- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
-- [Galbot, G1-Embodied Multimodal Large Model Robot](https://www.galbot.com)
-- [Hexagon, AEON](https://robotics.hexagon.com)
-- [Kawada Robotics](https://www.kawadarobot.co.jp) - [NEXTAGE](https://nextage.kawadarobot.co.jp)
 - [KEENON](https://www.keenon.com)
 - [LimX](https://www.limxdynamics.com/en) - [Github](https://github.com/limxdynamics)
-- [NEURA Robotics](https://neura-robotics.com)
-- [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
-- [PAL Robotics](https://pal-robotics.com)
-  - [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot)
-  - [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
 - [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
-- [ROBOTIS](https://robotis.com/en) - [Github](https://github.com/ROBOTIS-GIT)
-- [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
-- [Tesla](https://www.tesla.com/AI)
-- [The Robot Studio](https://www.therobotstudio.com)
-- [Tokyo Robotics](https://robotics.tokyo)
 - [UBTECH Robotics](https://www.ubtrobot.com)
 - [Unitree Robotics](https://www.unitree.com)
 - [XPENG](https://www.xpeng.com)
+</details>
+
+<details><summary>Germany</summary>
+
+- [Agile Robots](https://www.agile-robots.com)
+- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
+- [NEURA Robotics](https://neura-robotics.com)
+</details>
+
+<details><summary>France</summary>
+
+- [Maxtronics, NAO](https://maxtronics.com/en)
+- [The Robot Studio](https://www.therobotstudio.com)
+- [UMA, Universal Mechanical Assistant](https://uma.bot)
+- [Wandercraft](https://www.wandercraft.eu)
+</details>
+
+<details><summary>Japan</summary>
+
+- [GMO AI & Robotics](https://humanoid-lab.gmo/en)
+- [Honda Robotics](https://global.honda/jp/tech/robotics)
+- [Kawada Robotics](https://www.kawadarobot.co.jp/en) - [NEXTAGE](https://nextage.kawadarobot.co.jp)
+- [Kawasaki Robotics](https://kawasakirobotics.com/asia-oceania/blog/category/humanoid-robots)
+- [KyoHA, Kyoto Humanoid Association](https://www.kyoha-robo.or.jp)
+- [Tokyo Robotics](https://robotics.tokyo)
+</details>
+
+<details><summary>South Korea</summary>
+
+- [Diden Robotics](https://www.didenrobotics.com/en)
+- [K-Humanoid](https://k-humanoid.com) - [Wiki](https://en.wikipedia.org/wiki/K-Humanoid_Alliance)
+  - [M.AX](https://maxalliance.kr)
+- [Rainbow Robotics](https://rainbow-robotics.com/en)
+- [ROBOTIS](https://robotis.com/en) - [Github](https://github.com/ROBOTIS-GIT)
+- [URobotics](https://urobotics.ai/en)
+</details>
+
+<details><summary>Spain</summary>
+
+- [PAL Robotics](https://pal-robotics.com)
+  - [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot)
+  - [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
+</details>
+
+<details><summary>Switzerland</summary>
+
+- [Ascento](https://www.ascento.ai)
+- [Hexagon, AEON](https://robotics.hexagon.com)
+</details>
+
+<details><summary>UK</summary>
+
+- [Engineered Arts](https://engineeredarts.com)  
+</details>
+
+<details><summary>US</summary>
+
+- [1X](https://www.1x.tech)
+- [Agility Robotics](https://www.agilityrobotics.com)
+- [Apptronik, spinout of HCRL](https://apptronik.com)
+- [Boardwalk Robotics](https://boardwalkrobotics.com)
+- [Boston Dynamics](https://bostondynamics.com)
+  - [Electric Altas](https://bostondynamics.com/atlas)
+- [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
+- [Figure](https://www.figure.ai)
+- [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
+- [Tesla](https://www.tesla.com/AI)
+</details>
+
 </details>
 </details>
 
