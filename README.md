@@ -948,8 +948,8 @@
   - [Stanford Robotics Club](https://stanfordroboticsclub.github.io) - [Github](https://github.com/stanfordroboticsclub)
 - [StochLab (Stochastic Robotics Lab), Indian Institute of Science (IISc)](https://www.stochlab.com) - [Github](https://github.com/StochLab)
 - [The Robotics Lab, IDSIA](https://idsia-robotics.github.io) - [Github](https://github.com/idsia-robotics)
-- [TRAIL, Trustworthy Robotics and AI Lab](https://robotics-trail.github.io)
-
+- [TRAIL, Trustworthy Robotics and AI Lab, IIT (Comillas-ICAI)](https://robotics-trail.github.io)
+- [URL, Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr)
 </details>
 
 ## Related Materials
@@ -1194,41 +1194,41 @@
 
 <details><summary>List</summary>
   
-- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu) - [Github](https://github.com/mit-biomimetics)
+- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)・[Github](https://github.com/mit-biomimetics)
 - [DFKI: German Research Center for Artificial Intelligence](https://robotik.dfki-bremen.de/en/research/robot-systems)
   - [Github-DFKI](https://github.com/DFKI/Awesome-DFKI)
   - [Github-RIC](https://github.com/dfki-ric)
-- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl) - [Github](https://github.com/osudrl)
+- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)・[Github](https://github.com/osudrl)
 - [GVLab, UTokyo](https://www.gvlab.jp)
-- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl) - [Github](https://github.com/UT-HCRL)
+- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)・[Github](https://github.com/UT-HCRL)
 - [HUCEBOT, Human Centered Robotics, Inria](https://team.inria.fr/hucebot)
-- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us) - [Github](https://github.com/ihmcrobotics)
-- [IIT: Italian Institute of Technology](https://www.iit.it) - [iCub](https://www.iit.it/web/icub-tech) - [ergoCub](https://ergocub.eu)
+- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)・[Github](https://github.com/ihmcrobotics)
+- [IIT: Italian Institute of Technology](https://www.iit.it)・[iCub](https://www.iit.it/web/icub-tech)・[ergoCub](https://ergocub.eu)
   - [Artificial and Mechanical Intelligence](https://ami.iit.it) - [Github](https://github.com/ami-iit)
-  - [Humanoid Sensing and Perception](https://hsp.iit.it) - [Github](https://github.com/hsp-iit)
+  - [Humanoid Sensing and Perception](https://hsp.iit.it)・[Github](https://github.com/hsp-iit)
 - [JSK: Johou Systems Kougaku Lab, UTokyo](http://www.jsk.t.u-tokyo.ac.jp/research.html)
-  - [MEVITA](https://haraduka.github.io/mevita-hardware) - [Github](https://github.com/haraduka/mevita)
-- [K-Scale Labs](https://www.kscale.dev)- [Github](https://github.com/kscalelabs)
-- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
-- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
-- [Mekion](www.mekion.com) - [Github](https://github.com/mekion/the-bimo-project)
+  - [MEVITA](https://haraduka.github.io/mevita-hardware)・[Github](https://github.com/haraduka/mevita)
+- [K-Scale Labs](https://www.kscale.dev)・[Github](https://github.com/kscalelabs)
+- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)・[Github](https://github.com/LeCAR-Lab)
+- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab)・[Github](https://github.com/lunarlab-gatech)
+- [Mekion](www.mekion.com)・[Github](https://github.com/mekion/the-bimo-project)
 - [Peking University](https://english.pku.edu.cn)
-  - [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io) - [Github](https://github.com/PKU-EPIC)
-  - [Reinforcement Learning Lab](https://z0ngqing.github.io) - [Github](https://github.com/PKU-RL)
-  - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en) - [Github](https://github.com/PKU-MARL)
-  - [PAIR Lab](https://pair-lab.ai) - [Github](https://github.com/PKU-Alignment)
+  - [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io)・[Github](https://github.com/PKU-EPIC)
+  - [Reinforcement Learning Lab](https://z0ngqing.github.io)・[Github](https://github.com/PKU-RL)
+  - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en)・[Github](https://github.com/PKU-MARL)
+  - [PAIR Lab](https://pair-lab.ai)・[Github](https://github.com/PKU-Alignment)
 - [PRIN: Principles of Robot Intelligence from Nature/Nurture Laboratory, NII](https://prinlab.org/en)
 - [Robot Learning Lab, NAIST](https://sites.google.com/view/naist-robot-learning-en)
 - [Stanford Robotics Center](https://src.stanford.edu)
-  - [The Movement Lab](https://stanford-tml.github.io/main) - [Github](https://github.com/Stanford-TML)
+  - [The Movement Lab](https://stanford-tml.github.io/main)・[Github](https://github.com/Stanford-TML)
 - [University of California, Berkeley](https://www.berkeley.edu)
   - [BAIR: The Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)
   - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu)
-    - [Berkeley Humanoid](https://berkeley-humanoid.com) - [Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
-    - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org) - [Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)
+    - [Berkeley Humanoid](https://berkeley-humanoid.com)・[Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
+    - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org)・[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)
 - [University of Pennsylvania](https://www.upenn.edu)
-  - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [Github](https://github.com/DAIRLab)
-  - [GRASP Lab](https://www.grasp.upenn.edu) - [Github](https://github.com/grasp-lyrl)
+  - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu)・[Github](https://github.com/DAIRLab)
+  - [GRASP Lab](https://www.grasp.upenn.edu)・[Github](https://github.com/grasp-lyrl)
 </details>
 
 **Companies** 🏢
@@ -1246,24 +1246,17 @@
 
 - [Agibot](https://www.agibot.com)
 - [Astribot](https://www.astribot.com)
-- [Booster](https://www.booster.tech) - [Github](https://github.com/BoosterRobotics)
+- [Booster](https://www.booster.tech)・[Github](https://github.com/BoosterRobotics)
 - [Galbot](https://www.galbot.com)
 - [EngineAI](https://www.engineai.com.cn)
 - [Lumos Robotics](https://www.lumosbot.tech)
 - [Fourier](https://www.fftai.com)
 - [KEENON](https://www.keenon.com)
-- [LimX](https://www.limxdynamics.com/en) - [Github](https://github.com/limxdynamics)
+- [LimX](https://www.limxdynamics.com/en)・[Github](https://github.com/limxdynamics)
 - [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
 - [UBTECH Robotics](https://www.ubtrobot.com)
 - [Unitree Robotics](https://www.unitree.com)
 - [XPENG](https://www.xpeng.com)
-</details>
-
-<details><summary>Germany</summary>
-
-- [Agile Robots](https://www.agile-robots.com)
-- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
-- [NEURA Robotics](https://neura-robotics.com)
 </details>
 
 <details><summary>France</summary>
@@ -1274,11 +1267,24 @@
 - [Wandercraft](https://www.wandercraft.eu)
 </details>
 
+<details><summary>Germany</summary>
+
+- [Agile Robots](https://www.agile-robots.com)
+- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
+- [NEURA Robotics](https://neura-robotics.com)
+</details>
+
+<details><summary>Italy</summary>
+
+- [Generative Bionics](https://gbionics.ai)・[Github](https://github.com/gbionics)
+- [Oversonic Robotics](https://www.oversonicrobotics.com)・[Github](https://github.com/OversonicRobotics)
+</details>
+
 <details><summary>Japan</summary>
 
 - [GMO AI & Robotics](https://humanoid-lab.gmo/en)
 - [Honda Robotics](https://global.honda/jp/tech/robotics)
-- [Kawada Robotics](https://www.kawadarobot.co.jp/en) - [NEXTAGE](https://nextage.kawadarobot.co.jp)
+- [Kawada Robotics](https://www.kawadarobot.co.jp/en)・[NEXTAGE](https://nextage.kawadarobot.co.jp)
 - [Kawasaki Robotics](https://kawasakirobotics.com/asia-oceania/blog/category/humanoid-robots)
 - [KyoHA, Kyoto Humanoid Association](https://www.kyoha-robo.or.jp)
 - [Tokyo Robotics](https://robotics.tokyo)
@@ -1286,19 +1292,19 @@
 
 <details><summary>South Korea</summary>
 
-- [Diden Robotics](https://www.didenrobotics.com/en)
-- [K-Humanoid](https://k-humanoid.com) - [Wiki](https://en.wikipedia.org/wiki/K-Humanoid_Alliance)
+- [Diden Robotics](https://www.didenrobotics.com/en)・[Github](https://github.com/DIDEN-Robotics)
+- [K-Humanoid](https://k-humanoid.com)・[Wiki](https://en.wikipedia.org/wiki/K-Humanoid_Alliance)
   - [M.AX](https://maxalliance.kr)
-- [Rainbow Robotics](https://rainbow-robotics.com/en)
-- [ROBOTIS](https://robotis.com/en) - [Github](https://github.com/ROBOTIS-GIT)
+- [Rainbow Robotics](https://rainbow-robotics.com/en)・[Github](https://github.com/RainbowRobotics)
+- [ROBOTIS](https://robotis.com/en)・[Github](https://github.com/ROBOTIS-GIT)
 - [URobotics](https://urobotics.ai/en)
 </details>
 
 <details><summary>Spain</summary>
 
 - [PAL Robotics](https://pal-robotics.com)
-  - [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot)
-  - [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
+  - [Kangaroo](https://pal-robotics.com/robot/kangaroo)・[Github](https://github.com/pal-robotics/kangaroo_robot)
+  - [TALOS](https://pal-robotics.com/robot/talos)・[Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
 </details>
 
 <details><summary>Switzerland</summary>
