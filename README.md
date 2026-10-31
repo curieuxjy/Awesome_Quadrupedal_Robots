@@ -762,7 +762,8 @@
 - [![](https://img.shields.io/badge/Improbable--AI-learning--compliance-black?style=flat-square&logo=github)](https://github.com/Improbable-AI/learning-compliance) <img src="https://img.shields.io/github/stars/Improbable-AI/learning-compliance?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/locomanip--duet-RoboDuet-black?style=flat-square&logo=github)](https://github.com/locomanip-duet/RoboDuet) <img src="https://img.shields.io/github/stars/locomanip-duet/RoboDuet?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/MarkFzp-Deep--Whole--Body--Control-black?style=flat-square&logo=github)](https://github.com/MarkFzp/Deep-Whole-Body-Control) <img src="https://img.shields.io/github/stars/MarkFzp/Deep-Whole-Body-Control?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/MoDeSuite-lightblue?style=flat-square)](https://sites.google.com/view/modesuite) [![](https://img.shields.io/badge/Robot--Learning--Task--Suite--for--Benchmarking--Mobile--Manipulation--with--Deformable--Objects-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.21796)
+- [![](https://img.shields.io/badge/MoDeSuite-lightblue?style=flat-square)](https://sites.google.com/view/modesuite) [![](https://img.shields.io/badge/carolzyy-MoDeSuite-black?style=flat-square&logo=github)](https://github.com/carolzyy/MoDeSuite) <img src="https://img.shields.io/github/stars/carolzyy/MoDeSuite?style=flat-square&color=yellow">
+[![](https://img.shields.io/badge/Robot--Learning--Task--Suite--for--Benchmarking--Mobile--Manipulation--with--Deformable--Objects-darkred?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.21796)
 - [![](https://img.shields.io/badge/ODYSSEY--Bench-lightblue?style=flat-square)](https://kaijwang.github.io/odyssey.github.io) [Arxiv](https://arxiv.org/abs/2508.08240)
 - [![](https://img.shields.io/badge/real--stanford-umi--on--legs-black?style=flat-square&logo=github)](https://github.com/real-stanford/umi-on-legs) <img src="https://img.shields.io/github/stars/real-stanford/umi-on-legs?style=flat-square&color=yellow">
 </details>
@@ -838,6 +839,7 @@
 - [![](https://img.shields.io/badge/RoLACLab-mpc--and--rl--benchmark-black?style=flat-square&logo=github)](https://github.com/RoLACLab/mpc-and-rl-benchmark) <img src="https://img.shields.io/github/stars/RoLACLab/mpc-and-rl-benchmark?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/silvery107-rl--mpc--locomotion-black?style=flat-square&logo=github)](https://github.com/silvery107/rl-mpc-locomotion) <img src="https://img.shields.io/github/stars/silvery107/rl-mpc-locomotion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/stanford--iris--lab-vlm--pc-black?style=flat-square&logo=github)](https://github.com/stanford-iris-lab/vlm-pc) <img src="https://img.shields.io/github/stars/stanford-iris-lab/vlm-pc?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/voltdog-mors_quadruped-black?style=flat-square&logo=github)](https://github.com/voltdog/mors_quadruped) <img src="https://img.shields.io/github/stars/voltdog/mors_quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/yinghansun-pympc--quadruped-black?style=flat-square&logo=github)](https://github.com/yinghansun/pympc-quadruped) <img src="https://img.shields.io/github/stars/yinghansun/pympc-quadruped?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zixinz990-quaternion--mpc-black?style=flat-square&logo=github)](https://github.com/zixinz990/quaternion-mpc) <img src="https://img.shields.io/github/stars/zixinz990/quaternion-mpc?style=flat-square&color=yellow">
 </details>
@@ -946,8 +948,8 @@
   - [Stanford Robotics Club](https://stanfordroboticsclub.github.io) - [Github](https://github.com/stanfordroboticsclub)
 - [StochLab (Stochastic Robotics Lab), Indian Institute of Science (IISc)](https://www.stochlab.com) - [Github](https://github.com/StochLab)
 - [The Robotics Lab, IDSIA](https://idsia-robotics.github.io) - [Github](https://github.com/idsia-robotics)
-- [TRAIL, Trustworthy Robotics and AI Lab](https://robotics-trail.github.io)
-
+- [TRAIL, Trustworthy Robotics and AI Lab, IIT (Comillas-ICAI)](https://robotics-trail.github.io)
+- [URL, Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr)
 </details>
 
 ## Related Materials
@@ -1065,6 +1067,7 @@
 - [![](https://img.shields.io/badge/goncalog-ai--robotics-black?style=flat-square&logo=github)](https://github.com/goncalog/ai-robotics) <img src="https://img.shields.io/github/stars/goncalog/ai-robotics?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/InternRobotics-HoST-black?style=flat-square&logo=github)](https://github.com/InternRobotics/HoST) <img src="https://img.shields.io/github/stars/InternRobotics/HoST?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/jonyzhang2023-awesome--humanoid--learning-black?style=flat-square&logo=github)](https://github.com/jonyzhang2023/awesome-humanoid-learning) <img src="https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/junhengl-mpc--rl-black?style=flat-square&logo=github)](https://github.com/junhengl/mpc-rl) <img src="https://img.shields.io/github/stars/junhengl/mpc-rl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/LeCAR--Lab-HumanoidVerse-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/HumanoidVerse) <img src="https://img.shields.io/github/stars/LeCAR-Lab/HumanoidVerse?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/LeCAR--Lab-ASAP-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/ASAP) <img src="https://img.shields.io/github/stars/LeCAR-Lab/ASAP?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/LeCAR--Lab-SoFTA-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/SoFTA) <img src="https://img.shields.io/github/stars/LeCAR-Lab/SoFTA?style=flat-square&color=yellow">
@@ -1072,6 +1075,7 @@
 - [![](https://img.shields.io/badge/MarkFzp-humanplus-black?style=flat-square&logo=github)](https://github.com/MarkFzp/humanplus) <img src="https://img.shields.io/github/stars/MarkFzp/humanplus?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mit--biomimetics-fld-black?style=flat-square&logo=github)](https://github.com/mit-biomimetics/fld) <img src="https://img.shields.io/github/stars/mit-biomimetics/fld?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/mujocolab-g1_spinkick_example-black?style=flat-square&logo=github)](https://github.com/mujocolab/g1_spinkick_example) <img src="https://img.shields.io/github/stars/mujocolab/g1_spinkick_example?style=flat-square&color=yellow">
+  - [![](https://img.shields.io/badge/siddarth09-Bheema-black?style=flat-square&logo=github)](https://github.com/siddarth09/Bheema) <img src="https://img.shields.io/github/stars/siddarth09/Bheema?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NMadhub-g1--dribble--newton-black?style=flat-square&logo=github)](https://github.com/NMadhub/g1-dribble-newton) <img src="https://img.shields.io/github/stars/NMadhub/g1-dribble-newton?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/robfiras-loco--mujoco-black?style=flat-square&logo=github)](https://github.com/robfiras/loco-mujoco) <img src="https://img.shields.io/github/stars/robfiras/loco-mujoco?style=flat-square&color=yellow">
   - [![](https://img.shields.io/badge/robfiras-ls--iq-black?style=flat-square&logo=github)](https://github.com/robfiras/ls-iq) <img src="https://img.shields.io/github/stars/robfiras/ls-iq?style=flat-square&color=yellow">
@@ -1097,6 +1101,11 @@
 - [![](https://img.shields.io/badge/VideoMimic-lightblue?style=flat-square)](https://www.videomimic.net) [![](https://img.shields.io/badge/hongsukchoi-VideoMimic-black?style=flat-square&logo=github)](https://github.com/hongsukchoi/VideoMimic) <img src="https://img.shields.io/github/stars/hongsukchoi/VideoMimic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/VisualMimic-lightblue?style=flat-square)](https://visualmimic.github.io) [![](https://img.shields.io/badge/visualmimic-VisualMimic-black?style=flat-square&logo=github)](https://github.com/visualmimic/VisualMimic) <img src="https://img.shields.io/github/stars/visualmimic/VisualMimic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/xbpeng-MimicKit-black?style=flat-square&logo=github)](https://github.com/xbpeng/MimicKit) <img src="https://img.shields.io/github/stars/xbpeng/MimicKit?style=flat-square&color=yellow">
+</details>
+
+<details><summary><b>&nbsp;&nbsp;- Learning-based: Datasets</b></summary>
+
+- [![](https://img.shields.io/badge/rai--opensource-hold-black?style=flat-square&logo=github)](https://github.com/rai-opensource/hold) <img src="https://img.shields.io/github/stars/rai-opensource/hold?style=flat-square&color=yellow">
 </details>
 
 <details><summary><b>Teleoperation/Motion-Tracking/Retargeting</b></summary>
@@ -1166,7 +1175,9 @@
 - [![](https://img.shields.io/badge/LeCAR--Lab-model--based--diffusion-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/model-based-diffusion) <img src="https://img.shields.io/github/stars/LeCAR-Lab/model-based-diffusion?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/loco--3d-crocoddyl-black?style=flat-square&logo=github)](https://github.com/loco-3d/crocoddyl) <img src="https://img.shields.io/github/stars/loco-3d/crocoddyl?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/pocketxjl-humanoid--control-black?style=flat-square&logo=github)](https://github.com/pocketxjl/humanoid-control) <img src="https://img.shields.io/github/stars/pocketxjl/humanoid-control?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/Roahm--Lab-RAPTOR-lightblue?style=flat-square)](https://roahmlab.github.io/RAPTOR) [![](https://img.shields.io/badge/roahmlab-RAPTOR-black?style=flat-square&logo=github)](https://github.com/roahmlab/RAPTOR) <img src="https://img.shields.io/github/stars/roahmlab/RAPTOR?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/se--hwan-cusadi-black?style=flat-square&logo=github)](https://github.com/se-hwan/cusadi) <img src="https://img.shields.io/github/stars/se-hwan/cusadi?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/siddarth09-Bheema-black?style=flat-square&logo=github)](https://github.com/siddarth09/Bheema) <img src="https://img.shields.io/github/stars/siddarth09/Bheema?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-hydrax-black?style=flat-square&logo=github)](https://github.com/vincekurtz/hydrax) <img src="https://img.shields.io/github/stars/vincekurtz/hydrax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/vincekurtz-ltl_gcs-black?style=flat-square&logo=github)](https://github.com/vincekurtz/ltl_gcs) <img src="https://img.shields.io/github/stars/vincekurtz/ltl_gcs?style=flat-square&color=yellow">
 </details>
@@ -1183,83 +1194,142 @@
 
 <details><summary>List</summary>
   
-- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu) - [Github](https://github.com/mit-biomimetics)
+- [Biomimetic Robotics Lab, MIT](https://biomimetics.mit.edu)・[Github](https://github.com/mit-biomimetics)
 - [DFKI: German Research Center for Artificial Intelligence](https://robotik.dfki-bremen.de/en/research/robot-systems)
   - [Github-DFKI](https://github.com/DFKI/Awesome-DFKI)
   - [Github-RIC](https://github.com/dfki-ric)
-- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl) - [Github](https://github.com/osudrl)
+- [DRAIL: Dynamic Robotics and Artificial Intelligence Lab, Oregon State University](https://mime.engineering.oregonstate.edu/research/drl)・[Github](https://github.com/osudrl)
 - [GVLab, UTokyo](https://www.gvlab.jp)
-- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl) - [Github](https://github.com/UT-HCRL)
+- [HCRL: Human Centered Robotics Lab, University of Texas at Austin](http://sites.utexas.edu/hcrl)・[Github](https://github.com/UT-HCRL)
 - [HUCEBOT, Human Centered Robotics, Inria](https://team.inria.fr/hucebot)
-- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us) - [Github](https://github.com/ihmcrobotics)
-- [IIT: Italian Institute of Technology](https://www.iit.it) - [iCub](https://www.iit.it/web/icub-tech) - [ergoCub](https://ergocub.eu)
+- [IHMC: Institute for Human and Machine Cognition, Florida University](https://robots.ihmc.us)・[Github](https://github.com/ihmcrobotics)
+- [IIT: Italian Institute of Technology](https://www.iit.it)・[iCub](https://www.iit.it/web/icub-tech)・[ergoCub](https://ergocub.eu)
   - [Artificial and Mechanical Intelligence](https://ami.iit.it) - [Github](https://github.com/ami-iit)
-  - [Humanoid Sensing and Perception](https://hsp.iit.it) - [Github](https://github.com/hsp-iit)
+  - [Humanoid Sensing and Perception](https://hsp.iit.it)・[Github](https://github.com/hsp-iit)
 - [JSK: Johou Systems Kougaku Lab, UTokyo](http://www.jsk.t.u-tokyo.ac.jp/research.html)
-  - [MEVITA](https://haraduka.github.io/mevita-hardware) - [Github](https://github.com/haraduka/mevita)
-- [K-Scale Labs](https://www.kscale.dev)- [Github](https://github.com/kscalelabs)
-- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io) - [Github](https://github.com/LeCAR-Lab)
-- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab) - [Github](https://github.com/lunarlab-gatech)
-- [Mekion](www.mekion.com) - [Github](https://github.com/mekion/the-bimo-project)
+  - [MEVITA](https://haraduka.github.io/mevita-hardware)・[Github](https://github.com/haraduka/mevita)
+- [K-Scale Labs](https://www.kscale.dev)・[Github](https://github.com/kscalelabs)
+- [LeCAR: Learning and Control for Agile Robotics Lab, CMU](https://lecar-lab.github.io)・[Github](https://github.com/LeCAR-Lab)
+- [Lunar Lab, Georgia Tech](https://sites.gatech.edu/lunarlab)・[Github](https://github.com/lunarlab-gatech)
+- [Mekion](www.mekion.com)・[Github](https://github.com/mekion/the-bimo-project)
 - [Peking University](https://english.pku.edu.cn)
-  - [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io) - [Github](https://github.com/PKU-EPIC)
-  - [Reinforcement Learning Lab](https://z0ngqing.github.io) - [Github](https://github.com/PKU-RL)
-  - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en) - [Github](https://github.com/PKU-MARL)
-  - [PAIR Lab](https://pair-lab.ai) - [Github](https://github.com/PKU-Alignment)
+  - [EPIC: Embodied Perception and InteraCtion Lab](https://pku-epic.github.io)・[Github](https://github.com/PKU-EPIC)
+  - [Reinforcement Learning Lab](https://z0ngqing.github.io)・[Github](https://github.com/PKU-RL)
+  - [RL Research Group, Institute for AI](https://www.ai.pku.edu.cn/en)・[Github](https://github.com/PKU-MARL)
+  - [PAIR Lab](https://pair-lab.ai)・[Github](https://github.com/PKU-Alignment)
 - [PRIN: Principles of Robot Intelligence from Nature/Nurture Laboratory, NII](https://prinlab.org/en)
 - [Robot Learning Lab, NAIST](https://sites.google.com/view/naist-robot-learning-en)
 - [Stanford Robotics Center](https://src.stanford.edu)
-  - [The Movement Lab](https://stanford-tml.github.io/main) - [Github](https://github.com/Stanford-TML)
+  - [The Movement Lab](https://stanford-tml.github.io/main)・[Github](https://github.com/Stanford-TML)
 - [University of California, Berkeley](https://www.berkeley.edu)
   - [BAIR: The Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu)
   - [Hybrid Robotics](https://hybrid-robotics.berkeley.edu)
-    - [Berkeley Humanoid](https://berkeley-humanoid.com) - [Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
-    - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org) - [Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)
+    - [Berkeley Humanoid](https://berkeley-humanoid.com)・[Github](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
+    - [Berkeley Humanoid Lite](https://lite.berkeley-humanoid.org)・[Github](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite)
 - [University of Pennsylvania](https://www.upenn.edu)
-  - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu) - [Github](https://github.com/DAIRLab)
-  - [GRASP Lab](https://www.grasp.upenn.edu) - [Github](https://github.com/grasp-lyrl)
+  - [DAIR: Dynamic Autonomy and Intelligent Robotics Lab](https://dair.seas.upenn.edu)・[Github](https://github.com/DAIRLab)
+  - [GRASP Lab](https://www.grasp.upenn.edu)・[Github](https://github.com/grasp-lyrl)
 </details>
 
 **Companies** 🏢
 
 <details><summary>List</summary>
 
-- [1X](https://www.1x.tech)
-- [Agibot](https://www.agibot.com)
-- [Agile Robots](https://www.agile-robots.com)
-- [Agility Robotics](https://www.agilityrobotics.com)
-- [Apptronik, spinout of HCRL](https://apptronik.com)
-- [Ascento](https://www.ascento.ai)
-- [Astribot](https://www.astribot.com)
-- [Boardwalk Robotics](https://boardwalkrobotics.com)
-- [Booster](https://www.booster.tech) - [Github](https://github.com/BoosterRobotics)
-- [Boston Dynamics](https://bostondynamics.com)
-  - [Electric Altas](https://bostondynamics.com/atlas)
-- [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
-- [EngineAI](https://www.engineai.com.cn)
-- [Engineered Arts](https://engineeredarts.com)
-- [Figure](https://www.figure.ai)
-- [Fourier](https://www.fftai.com)
-- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
-- [Galbot, G1-Embodied Multimodal Large Model Robot](https://www.galbot.com)
-- [Hexagon, AEON](https://robotics.hexagon.com)
-- [Kawada Robotics](https://www.kawadarobot.co.jp) - [NEXTAGE](https://nextage.kawadarobot.co.jp)
-- [KEENON](https://www.keenon.com)
-- [LimX](https://www.limxdynamics.com/en) - [Github](https://github.com/limxdynamics)
-- [NEURA Robotics](https://neura-robotics.com)
-- [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
-- [PAL Robotics](https://pal-robotics.com)
-  - [Kangaroo](https://pal-robotics.com/robot/kangaroo) - [Github](https://github.com/pal-robotics/kangaroo_robot)
-  - [TALOS](https://pal-robotics.com/robot/talos) - [Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
-- [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
-- [ROBOTIS](https://robotis.com/en) - [Github](https://github.com/ROBOTIS-GIT)
+> The countries listed below are where bipedal robots are mainly developed, not where they are sold or used for business!
+
+<details><summary>Canada</summary>
+
 - [Sanctuary Cognitive Systems Corporation](https://www.sanctuary.ai)
-- [Tesla](https://www.tesla.com/AI)
-- [The Robot Studio](https://www.therobotstudio.com)
-- [Tokyo Robotics](https://robotics.tokyo)
+</details>
+
+<details><summary>China</summary>
+
+- [Agibot](https://www.agibot.com)
+- [Astribot](https://www.astribot.com)
+- [Booster](https://www.booster.tech)・[Github](https://github.com/BoosterRobotics)
+- [Galbot](https://www.galbot.com)
+- [EngineAI](https://www.engineai.com.cn)
+- [Lumos Robotics](https://www.lumosbot.tech)
+- [Fourier](https://www.fftai.com)
+- [KEENON](https://www.keenon.com)
+- [LimX](https://www.limxdynamics.com/en)・[Github](https://github.com/limxdynamics)
+- [ROBOTERA, spinoff of Tsinghua University](https://www.robotera.com)
 - [UBTECH Robotics](https://www.ubtrobot.com)
 - [Unitree Robotics](https://www.unitree.com)
 - [XPENG](https://www.xpeng.com)
+</details>
+
+<details><summary>France</summary>
+
+- [Maxtronics, NAO](https://maxtronics.com/en)
+- [The Robot Studio](https://www.therobotstudio.com)
+- [UMA, Universal Mechanical Assistant](https://uma.bot)
+- [Wandercraft](https://www.wandercraft.eu)
+</details>
+
+<details><summary>Germany</summary>
+
+- [Agile Robots](https://www.agile-robots.com)
+- [Fraunhofer IML: Institute for Material Flow and Logistics, evoBOT](https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/iot-and-embedded-systems/evobot.html)
+- [NEURA Robotics](https://neura-robotics.com)
+</details>
+
+<details><summary>Italy</summary>
+
+- [Generative Bionics](https://gbionics.ai)・[Github](https://github.com/gbionics)
+- [Oversonic Robotics](https://www.oversonicrobotics.com)・[Github](https://github.com/OversonicRobotics)
+</details>
+
+<details><summary>Japan</summary>
+
+- [GMO AI & Robotics](https://humanoid-lab.gmo/en)
+- [Honda Robotics](https://global.honda/jp/tech/robotics)
+- [Kawasaki Robotics](https://kawasakirobotics.com/asia-oceania/blog/category/humanoid-robots)
+- [KyoHA, Kyoto Humanoid Association](https://www.kyoha-robo.or.jp)
+</details>
+
+<details><summary>South Korea</summary>
+
+- [Diden Robotics](https://www.didenrobotics.com/en)・[Github](https://github.com/DIDEN-Robotics)
+- [K-Humanoid](https://k-humanoid.com)・[Wiki](https://en.wikipedia.org/wiki/K-Humanoid_Alliance)
+  - [M.AX](https://maxalliance.kr)
+- [Rainbow Robotics](https://rainbow-robotics.com/en)・[Github](https://github.com/RainbowRobotics)
+- [ROBOTIS](https://robotis.com/en)・[Github](https://github.com/ROBOTIS-GIT)
+- [URobotics](https://urobotics.ai/en)
+</details>
+
+<details><summary>Spain</summary>
+
+- [PAL Robotics](https://pal-robotics.com)
+  - [Kangaroo](https://pal-robotics.com/robot/kangaroo)・[Github](https://github.com/pal-robotics/kangaroo_robot)
+  - [TALOS](https://pal-robotics.com/robot/talos)・[Github](https://github.com/pal-robotics/talos_robot) - [URDF](https://github.com/stack-of-tasks/talos-data) - [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos)
+</details>
+
+<details><summary>Switzerland</summary>
+
+- [Ascento](https://www.ascento.ai)
+- [Hexagon, AEON](https://robotics.hexagon.com)
+</details>
+
+<details><summary>UK</summary>
+
+- [Engineered Arts](https://engineeredarts.com)  
+</details>
+
+<details><summary>US</summary>
+
+- [1X](https://www.1x.tech)
+- [Agility Robotics](https://www.agilityrobotics.com)
+- [Apptronik, spinout of HCRL](https://apptronik.com)
+- [Boardwalk Robotics](https://boardwalkrobotics.com)
+- [Boston Dynamics](https://bostondynamics.com)
+  - [Electric Altas](https://bostondynamics.com/atlas)
+- [Disney Research, BDX Droids](https://la.disneyresearch.com/bdx-droids)
+- [Figure](https://www.figure.ai)
+- [NVIDIA GR00T](https://developer.nvidia.com/isaac/gr00t)
+- [Tesla](https://www.tesla.com/AI)
+</details>
+
 </details>
 </details>
 
