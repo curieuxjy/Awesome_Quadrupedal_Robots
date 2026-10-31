@@ -1284,10 +1284,8 @@
 
 - [GMO AI & Robotics](https://humanoid-lab.gmo/en)
 - [Honda Robotics](https://global.honda/jp/tech/robotics)
-- [Kawada Robotics](https://www.kawadarobot.co.jp/en)・[NEXTAGE](https://nextage.kawadarobot.co.jp)
 - [Kawasaki Robotics](https://kawasakirobotics.com/asia-oceania/blog/category/humanoid-robots)
 - [KyoHA, Kyoto Humanoid Association](https://www.kyoha-robo.or.jp)
-- [Tokyo Robotics](https://robotics.tokyo)
 </details>
 
 <details><summary>South Korea</summary>
