@@ -20,6 +20,7 @@
 <summary><b>Platforms</b></summary>
 
 - [AiDIN](https://www.aidinrobotics.co.kr/leggedrobot-aidin)
+- [Ainekio](https://ainek.io) [Github](https://github.com/Greg-Aster/Ainekio-bot)
 - [ANYmal](https://rsl.ethz.ch/robots-media/anymal.html) [ANYbotics-Github](https://github.com/ANYbotics)
 - [Barkour](https://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html) [Github](https://github.com/google-deepmind/barkour_robot)
 - [Cheetah](https://biomimetics.mit.edu)
@@ -702,6 +703,7 @@
 - [![](https://img.shields.io/badge/eureka--research-DrEureka-black?style=flat-square&logo=github)](https://github.com/eureka-research/DrEureka) <img src="https://img.shields.io/github/stars/eureka-research/DrEureka?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/gaiyi7788-awesome--legged--locomotion--learning-black?style=flat-square&logo=github)](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) <img src="https://img.shields.io/github/stars/gaiyi7788/awesome-legged-locomotion-learning?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Gepetto-soloRL-black?style=flat-square&logo=github)](https://github.com/Gepetto/soloRL) <img src="https://img.shields.io/github/stars/Gepetto/soloRL?style=flat-square&color=yellow"> [![](https://img.shields.io/badge/paleziart-quadruped--rl-black?style=flat-square&logo=gitlab)](https://gitlab.laas.fr/paleziart/quadruped-rl)
+- [![](https://img.shields.io/badge/Greg--Aster-Ainekio--bot-black?style=flat-square&logo=github)](https://github.com/Greg-Aster/Ainekio-bot) <img src="https://img.shields.io/github/stars/Greg-Aster/Ainekio-bot?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Helpforce--AI-policy--crosscheck-black?style=flat-square&logo=github)](https://github.com/Helpforce-AI/policy-crosscheck) <img src="https://img.shields.io/github/stars/Helpforce-AI/policy-crosscheck?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/hrh6666-MoE--Loco-black?style=flat-square&logo=github)](https://github.com/hrh6666/MoE-Loco) <img src="https://img.shields.io/github/stars/hrh6666/MoE-Loco?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Improbable--AI-dribblebot-black?style=flat-square&logo=github)](https://github.com/Improbable-AI/dribblebot) <img src="https://img.shields.io/github/stars/Improbable-AI/dribblebot?style=flat-square&color=yellow">
