@@ -604,6 +604,7 @@
 <a id="quadruped_sim_platforms"></a>
 <details><summary><b>Simulation Platforms</b></summary>
 
+- [![](https://img.shields.io/badge/argonrobotics--ai-alloy-black?style=flat-square&logo=github)](https://github.com/argonrobotics-ai/alloy) <img src="https://img.shields.io/github/stars/argonrobotics-ai/alloy?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bulletphysics-bullet3-black?style=flat-square&logo=github)](https://github.com/bulletphysics/bullet3) <img src="https://img.shields.io/github/stars/bulletphysics/bullet3?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/clemense-quaternion--conventions-black?style=flat-square&logo=github)](https://github.com/clemense/quaternion-conventions) <img src="https://img.shields.io/github/stars/clemense/quaternion-conventions?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dojo--sim-Dojo.jl-black?style=flat-square&logo=github)](https://github.com/dojo-sim/Dojo.jl) <img src="https://img.shields.io/github/stars/dojo-sim/Dojo.jl?style=flat-square&color=yellow">
